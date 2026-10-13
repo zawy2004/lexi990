@@ -1,0 +1,52 @@
+#9-4
+W representation|ˌreprɪzenˈteɪʃ(ə)n|n.|sự miêu tả, sự trình bày, sự đại diện, sự tượng trưng cho
+E The painting is a representation of the artist's hometown.|Bức tranh này là một biểu trưng quê nhà của người họa sĩ.
+S depiction|n.|sự miêu tả, thuật vẽ
+R represent|v.|trình bày
+R representative|n.|người đại diện
+R representational|adj.|tiêu biểu, tượng trưng
+W subscribe|səbˈskraɪb|v.|đồng ý, tán thành
+E I don't really subscribe to the current idea of art.|Tôi thực sự không đồng ý với tư tưởng nghệ thuật hiện thời.
+N phải đi với to. Ngoài ra subscribe còn chỉ "đặt xem (báo, tạp chí)", hoặc "quyên góp (tổ chức từ thiện)".
+S approve of||tán thành, ưng thuận, bằng lòng
+R subscriber|n.|người đăng ký, người góp tiền
+R subscription|n.|sự tán thành, sự đặt mua
+W urge|ɜːdʒ|v.|khuyến khích, cổ vũ
+E I would urge everyone to just pick up a pencil and draw; it's very relaxing.|Tôi khuyến khích mọi người cầm bút chì lên vẽ; nó rất thư giãn.
+S encourage|v.|khuyến khích
+R urgent|adj.|khẩn cấp
+R urgently|adv.|có vẻ khẩn cấp
+#9-5
+W assignment|əˈsaɪnmənt|n.|nhiệm vụ, bổn phận
+E For my art assignment, I have chosen photography as my medium.|Vì công việc hội họa của tôi, tôi chọn nhiếp ảnh như là một bước trung gian.
+R assign|v.|phân công, bổ nhiệm ai
+W choose|tʃuːz|v.|chọn lựa
+E The painter chose to move to Paris.|Người họa sĩ này chọn chuyển đến Paris.
+S select - pick|v.|chọn lựa
+R choice|n.|sự lựa chọn
+W decision|dɪˈsɪʒ(ə)n|n.|sự quyết định
+E What influenced your decision to paint using ink?|Điều gì làm bạn quyết định vẽ bằng mực?
+R decide|v.|quyết định
+R decided|adj.|đã được quyết định, kiên quyết
+R decisive|adj.|kiên quyết, dứt khoát
+W disseminate|dɪˈsemɪneɪt|v.|phổ biến, gieo rắc
+E She helped disseminate information about the new artist.|Cô ấy giúp phổ biến thông tin về người nghệ sĩ mới.
+S spread - broadcast - circulate|v.|lan tin, truyền tin
+R dissemination|n.|sự phổ biến, sự lan rộng
+W express|ɪkˈspres|v.|biểu lộ, diễn đạt
+E She used black paint to express her sad feelings.|Cô ấy dùng nước sơn đen để biểu đạt cảm xúc buồn đau.
+S show - reflect|v.|thể hiện, phản ánh
+R expression|n.|sự diễn đạt
+R expressive|adj.|có ý nghĩa, diễn cảm
+R expressionism|n.|(nghệ thuật) chủ nghĩa biểu hiện
+W favor|ˈfeɪvə|v.|thích hơn
+E This artist favors pencils over paint.|Họa sĩ này thích vẽ chì hơn vẽ sơn.
+N khi thể hiện "thích A hơn B", dùng cách nói favor A over B. favor còn có thể dùng như danh từ, chỉ "ân huệ, ủng hộ".
+S prefer|v.|thích hơn
+R favorable|adj.|hứa hẹn, có triển vọng
+W specialize|ˈspeʃəlaɪz|v.|làm thành đặc trưng, chuyên môn hóa
+E He specializes in sculpture, but he also likes painting.|Anh ấy chuyên về điêu khắc nhưng anh ấy cũng thích hội họa.
+N khi chỉ "chuyên sâu về (việc gì)", dùng giới từ in.
+R specialization|n.|sự chuyên môn hóa
+R specialist|n.|chuyên gia
+R specialty|n.|chuyên môn, nét đặc trưng

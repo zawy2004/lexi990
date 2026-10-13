@@ -1,0 +1,75 @@
+#10-2
+W consult|kənˈsʌlt|v.|hỏi ý kiến, tham khảo
+E She consulted her doctor about her skin problem.|Cô ấy hỏi ý kiến bác sĩ vấn đề về da của cô ấy.
+N cách dùng consult sb about sth.
+R consulting|adj.|cố vấn, để hỏi ý kiến
+R consultation|n.|sự hỏi ý kiến, sự bàn bạc
+R consultant|n.|cố vấn, tư vấn viên
+R consultancy|n.|văn phòng tư vấn
+W effective|ɪˈfektɪv|adj.|có hiệu quả, hiệu nghiệm
+E The medicine wasn't effective, so the doctor tried a different kind.|Dược phẩm này không có hiệu nghiệm do đó bác sĩ thử một loại khác.
+S efficacious - effectual|adj.|có hiệu quả, hiệu nghiệm
+A ineffective - ineffectual|adj.|không có hiệu quả, hiệu nghiệm
+R effect|n.|tác dụng, hiệu quả
+R effectively|adv.|có hiệu quả
+R effectiveness|n.|sự có hiệu lực
+W factor|ˈfæktə|n.|yếu tố
+E Smoking is a major factor of many serious illnesses.|Hút thuốc là một yếu tố chính yếu của nhiều căn bệnh nghiêm trọng.
+S element|n.|yếu tố
+R deciding/decisive/determining factor||yếu tố quyết định
+R risk factor||yếu tố rủi ro
+W incur|ɪnˈkɜː|v.|phải gánh chịu, mắc
+E Smokers incur many health problems.|Người hút thuốc phải gánh chịu nhiều vấn đề về sức khỏe.
+N đằng sau incur thông thường đi với những từ mang ý không tốt, ví dụ losses (tổn thất), debts (nợ)...
+W potential|pəˈtenʃ(ə)l|n.|khả năng, tiềm lực
+E Adam is so healthy that he has the potential to live to a hundred!|Adam rất khỏe đến nỗi ông ấy có thể sống đến trăm tuổi!
+N chỉ "có khả năng...", thường dùng dạng câu have the potential for sth. Cũng có thể là tính từ, chỉ "có khả năng, tiềm ẩn".
+S possibility|n.|khả năng
+R potentially|adv.|có khả năng
+R potentiality|n.|tiềm năng
+R realize/achieve/fulfill one's full potential||tiềm lực lý tưởng
+W restore|rɪˈstɔː|v.|khôi phục lại, hồi phục
+E The medicine soon restored my health.|Dược phẩm này nhanh chóng làm sức khỏe tôi hồi phục.
+N thường dùng dạng câu restore sth to sth, như restore the economy to good health (khôi phục nền kinh tế đến trạng thái phồn thịnh).
+R restoration|n.|sự khôi phục, hồi phục
+R restored|adj.|được khôi phục, hồi phục
+W serious|ˈsɪərɪəs|adj.|nghiêm trọng, nguy hiểm
+E The doctor said that it's nothing serious, just a cold.|Bác sĩ nói không có gì nghiêm trọng, chỉ cảm lạnh thôi.
+N serious còn mang nghĩa "thành thật", dạng câu thường dùng be serious about sth.
+S dangerous - threatening - perilous|adj.|nguy hiểm
+R seriously|adv.|nghiêm trọng, trầm trọng, nặng
+R seriousness|n.|tính chất nghiêm trang, nghiêm trọng, thành thật
+#10-3
+W distraction|dɪˈstrækʃ(ə)n|n.|sự xao lãng, sự giải trí, sự làm đứt quãng
+E I study in the library because there are no distractions.|Tôi học trong thư viện bởi vì không có bất kỳ sự xao lãng nào.
+R entertainment - amusement - recreation|n.|sự giải trí
+R distract|v.|làm xao lãng, làm rối trí
+W emphasize|ˈemfəsaɪz|v.|nhấn mạnh
+E The dentist emphasized the need to brush my teeth after every meal.|Nha sĩ nhấn mạnh rằng tôi cần đánh răng sau mỗi bữa ăn.
+R stress - highlight - underline|v.|nhấn mạnh, nêu bật
+R emphasis|n.|sự nhấn mạnh
+R emphatic|adj.|mạnh mẽ, dứt khoát
+W habit|ˈhæbɪt|n.|thói quen
+E Regularly watching hours of TV is a bad habit.|Thường xuyên xem ti vi hàng giờ là một thói quen xấu.
+R custom - pattern|n.|thói quen, tập tục
+R habitual|adj.|thường lệ, quen thuộc
+W instrument|ˈɪnstrʊmənt|n.|dụng cụ, công cụ, nhạc cụ
+E The dentist uses many instruments to fix teeth.|Nha sĩ sử dụng nhiều dụng cụ để chữa răng.
+S implement - device - tool|n.|dụng cụ, công cụ
+R string/wind instrument||nhạc cụ dây/khí
+W prevent|prɪˈvent|v.|ngăn chặn
+E Brushing your teeth every day helps prevent problems later.|Đánh răng mỗi ngày giúp ngăn chặn những vấn đề sau này.
+N cách nói "ngăn cản ai đó làm việc gì đó" là prevent sb from V-ing.
+S preclude|v.|ngăn chặn
+R prevention|n.|sự ngăn chặn
+R preventable|adj.|có thể ngăn ngừa được
+R preventive|adj.|phòng ngừa
+W procedure|prəˈsiːdʒə|n.|thủ tục, quy trình, ca phẫu thuật
+E The procedure lasted only a few minutes.|Ca phẫu thuật kéo dài chỉ vài phút.
+R treatment - operation|n.|sự điều trị, ca phẫu thuật
+R process - course|n.|quy trình
+R standard procedure||thủ tục chuẩn
+W regularly|ˈregjʊləli|adv.|định kỳ, đều đặn
+E You must visit your dentist regularly, at least every six months.|Bạn phải đi khám nha sĩ đều đặn, ít nhất 6 tháng một lần.
+S at regular time - often||thường xuyên, đều đặn
+R regular|adj.|đều đặn

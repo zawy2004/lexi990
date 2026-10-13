@@ -1,0 +1,74 @@
+#1-3
+W commercial|kəˈmɜːʃ(ə)l|n., adj.|thuộc về thương mại; buổi phát thanh, phát hình quảng cáo
+E Our new commercial will be shown on TV tonight.|Buổi phát hình quảng cáo mới của chúng ta sẽ được trình chiếu trên TV tối nay.
+N advertisement (viết tắt là ad, advert) là chỉ "quảng cáo trên ti vi, phát thanh", phạm vi tương đối rộng.
+S marketable - salable|adj.|thuộc về kinh doanh
+A noncommercial|adj.|phi thương mại
+R commerce|n.|thương mại
+R commercially|adv.|một cách có lợi
+W compare|kəmˈpeə|v.|so sánh
+E Customers will always compare your product with those of other companies.|Khách hàng sẽ luôn so sánh sản phẩm của bạn với sản phẩm của những công ty khác.
+N mẫu câu "compare A with B" là chỉ "lấy A so với B", "compare A to B" là "so sánh A với B".
+R comparative|adj.|tương đối
+R comparatively|adv.|một cách tương đối
+R comparison|n.|sự so sánh
+W consume|kənˈsjuːm|v.|tiêu thụ, tiêu dùng
+E What kind of people consume our services?|Những ai tiêu dùng dịch vụ của chúng ta?
+R consumer|n.|khách hàng, người tiêu dùng
+R consumer confidence||niềm tin của người tiêu dùng
+R consumer demand||nhu cầu của người tiêu dùng
+R consumer price index||chỉ số giá tiêu dùng
+R consumption|n.|sự tiêu thụ
+W direct marketing|dɪˈrekt ˈmɑːkɪtɪŋ||tiếp thị trực tiếp
+E Using direct marketing, we were able to advertise our products to the people most likely to buy them.|Bằng cách tiếp thị trực tiếp, chúng ta có thể quảng cáo sản phẩm của chúng ta đến những người thích mua chúng nhất.
+N còn được gọi là "direct mail" tức "thư quảng cáo trực tiếp gửi cho cá nhân".
+W direct-response|dɪˈrekt rɪˈspɒns|adj.|trả lời trực tiếp
+E Direct-response advertising is very popular on the Internet.|Quảng cáo bằng cách trả lời trực tiếp rất phổ biến trên Internet.
+N "direct-response" có liên quan đến "direct marketing", chỉ cách mua bán từ rất nhiều khách hàng, ta trực tiếp nhận được câu trả lời, ví dụ: mua tem, các kênh bán hàng, trạm bán hàng...
+W distribution|ˌdɪstrɪˈbjuːʃ(ə)n|n.|sự phân phối
+E We are planning for global distribution of our product.|Chúng tôi dự định phân phối sản phẩm của chúng tôi trên toàn cầu.
+N Ngoài ý nghĩa trên, trong thống kê học còn có nghĩa là "phân bố", ví dụ: normal distribution là chỉ "sự phân bố chuẩn".
+S spread|n.|sự lan rộng
+R distribute|v.|phân phối, phân phát
+R distributor|n.|nhà phân phối
+W distributor|dɪˈstrɪbjʊtə|n.|nhà phân phối, đại lý
+E Contact the distributor and find out where we can buy this product.|Liên hệ với nhà phân phối và tìm kiếm nơi chúng ta có thể mua sản phẩm này.
+N distributor có thể chỉ wholesaler (bán sỉ) hoặc retailer (bán lẻ).
+R distributive|adj.|mang tính phân bố
+W fair trade|feə treɪd|n.|hội chợ thương mại
+E We buy our coffee directly from the farmer in Brazil, as we believe in fair-trade.|Chúng tôi mua cà phê trực tiếp từ nông dân tại Brazil vì chúng tôi tin tưởng vào sự kinh doanh ngay thẳng.
+R fair-trade||sự kinh doanh công bằng, ngay thẳng
+R a fair-trade agreement||thỏa ước thương mại công bằng
+W hook|hʊk|n.|cách, phương pháp
+E The marketing hook for the movie The Blair Witch Project was making people believe that what happened was real and not acted.|Cách tiếp thị cho bộ phim "The Blair Witch Project" khiến người ta tin những gì xảy ra giống như thật chứ không phải là diễn.
+R a selling point||điểm bán
+R marketing scheme||chương trình tiếp thị
+W market|ˈmɑːkɪt|v., n.|tiếp thị, chợ
+E They are marketing their product toward young females.|Họ đang tiếp thị sản phẩm của họ cho thiếu nữ.
+S merchandise - sell|v.|bán, kinh doanh
+A purchase - buy|v.|mua
+R marketing|n.|tiếp thị
+R market value||đánh giá thị trường
+R market research||nghiên cứu thị trường
+W merchandising|ˈmɜːtʃ(ə)ndaɪzɪŋ|n.|hoạt động bán hàng
+E One kind of merchandising is to use popular movies to help sell food.|Một kiểu của hoạt động bán hàng là sử dụng những bộ phim phổ biến để giúp bán thực phẩm.
+R merchandise|v., n.|hàng hóa, mua bán hàng hóa
+W primarily|ˈpraɪmərəli|adv.|chính yếu, chủ yếu
+E Our customers are primarily women, but many men also buy our products.|Khách hàng của chúng tôi chủ yếu là phụ nữ, nhưng nhiều nam giới cũng mua sản phẩm của chúng tôi.
+S chiefly - mainly - mostly|adv.|chính yếu, chủ yếu
+R primary|adj.|chính yếu, nòng cốt
+W reputation|ˌrepjʊˈteɪʃ(ə)n|n.|danh tiếng
+E Customers will trust a company with a good reputation.|Khách hàng sẽ tin vào công ty có tiếng thơm.
+R reputable|adj.|nổi tiếng
+W satisfaction|ˌsætɪsˈfækʃ(ə)n|n.|sự thỏa mãn, sự hài lòng
+E Customer satisfaction is very important.|Sự hài lòng của khách hàng là rất quan trọng.
+S content - pleasure - gratification|n.|sự hài lòng, sự thỏa mãn
+A dissatisfaction - displeasure|n.|sự không hài lòng
+R job satisfaction||sự hài lòng trong công việc
+R satisfy|v.|làm cho hài lòng
+W strategy|ˈstrætədʒi|n.|chiến lược, kế hoạch
+E We need to think very carefully about our marketing strategy for this product.|Chúng ta cần suy nghĩ thật cẩn thận về chiến lược tiếp thị của chúng ta cho sản phẩm này.
+N Sau nó có thể thêm "for N./V-ing" hoặc "to V".
+S tactics - plan - scheme|n.|chiến thuật, kế hoạch
+R exit strategy||chiến lược thoát
+R strategic|adj.|thuộc về chiến lược

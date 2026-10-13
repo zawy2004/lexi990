@@ -1,0 +1,47 @@
+#2-5
+W display|dɪˈspleɪ|v.|phơi bày, trưng bày
+E The office rules are displayed on the message board.|Quy định của văn phòng được nêu rõ trên bảng dán thông báo.
+N khi là danh từ ý chỉ "biểu diễn, triển lãm, sản phẩm triển lãm, trưng bày".
+S show|v.|phơi bày, chỉ ra
+W duplicate|ˈdjuːplɪkət|n.|bản sao
+E Give the customer the original invoice and keep the duplicate for our records.|Đưa cho khách hàng hóa đơn gốc và giữ lại bản sao để chúng ta lưu giữ.
+N có thể làm động từ, chỉ "phục chế, sao chép". Cũng có thể làm tính từ, chỉ "thuộc về phục chế".
+S copy|n.|bản sao
+R duplication|n.|sự sao chép
+W facilitate|fəˈsɪlɪteɪt|v.|tạo điều kiện thuận lợi
+E An open office facilitates teamwork; one with many small offices and closed doors doesn't.|Một văn phòng mở tạo điều kiện thuận lợi để làm việc theo nhóm; một văn phòng với nhiều văn phòng nhỏ và các cửa đóng không làm được như vậy.
+A complicate|v.|làm cho phiền phức
+R facilitation|n.|sự tạo điều kiện thuận lợi
+W process|ˈprəʊses|n.|quy trình
+E All staff must follow the same process for booking time off work.|Tất cả nhân viên phải theo cùng một quy trình để xin nghỉ phép.
+N Khi process làm động từ có thể chỉ "xử lý (văn kiện, tài liệu...), gia công (thực phẩm)".
+S procedure|n.|quy trình, thủ tục
+W practice|ˈpræktɪs|v.|thực hành, luyện tập
+E Every three months, we practice what to do if there is a fire.|Cứ 3 tháng 1 lần, chúng tôi luyện tập những việc phải làm nếu có hỏa hoạn.
+N Kiểu viết của người Anh là "practise". Ngoài ra, "practice" còn có thể dùng như danh từ.
+R practiced|adj.|khéo léo (trong công việc)
+R practitioner|n.|người hành nghề
+W reduction|rɪˈdʌkʃ(ə)n|n.|sự giảm xuống
+E Recycling helped us achieve a big reduction in paper costs last year.|Việc tái chế giúp chúng ta giảm đáng kể chi phí giấy vào năm ngoái.
+S decrease - decline - drop|n.|giảm, làm giảm
+A increase - boost - raise|n.|tăng, đẩy mạnh
+R reduce|v.|làm giảm
+W revise|rɪˈvaɪz|v.|sửa đổi
+E The office rules are being revised, so we'll have new ones very soon.|Những quy định của văn phòng được sửa đổi, vì thế chúng ta sẽ có những quy định mới ngay.
+S modify - amend - edit|v.|sửa đổi
+R revision|n.|sự sửa đổi
+W stock|stɒk|n.|hàng tồn kho, kho hàng
+E If you need any stock for your department, just ask your supervisor.|Nếu bạn cần hàng cho ban của bạn, hãy hỏi người giám sát.
+N ngoài ra có thể chỉ "cổ phần, cổ phiếu", giống như "share".
+R stock price||giá cổ phiếu
+R stock company||công ty cổ phần
+R stockbroker|n.|người buôn bán chứng khoán
+W warning|ˈwɔːnɪŋ|n.|lời cảnh báo
+E If you keep breaking office rules, the manager will give you a written warning.|Nếu bạn vẫn cứ vi phạm quy định của văn phòng, giám đốc sẽ cảnh báo bạn bằng văn bản.
+N cũng có thể làm tính từ, biểu thị "cảnh cáo", ví dụ: warning sign (thông tin cảnh báo).
+S alarm - alert - caution|n.|cảnh báo, lưu ý
+R written/verbal warning||cảnh báo bằng văn bản/bằng miệng
+R warn|v.|cảnh báo
+W verbally|ˈvɜːb(ə)li|adv.|bằng lời nói, bằng miệng
+E Employees should be told in writing that they are being fired, but only after first being told verbally.|Nhân viên được thông báo bằng văn bản rằng họ bị sa thải, nhưng chỉ sau khi họ được thông báo trước bằng miệng.
+R verbal|adj.|bằng lời nói, bằng miệng

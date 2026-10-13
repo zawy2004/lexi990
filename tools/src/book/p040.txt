@@ -1,0 +1,56 @@
+#2-1
+W outlook|ˈaʊtlʊk|n.|viễn cảnh, quan điểm
+E With the appointment of a new CEO, the company's outlook has gotten better.|Với việc bổ nhiệm giám đốc điều hành mới, viễn cảnh của công ty sẽ tốt hơn.
+S prospect|n.|viễn cảnh
+W sharp|ʃɑːp|adv.|chính xác
+E The meeting starts at nine o'clock sharp, so don't be late.|Cuộc họp bắt đầu lúc 9 giờ đúng vì vậy đừng đến trễ.
+N sharp có thể làm tính từ, ý nghĩa thường gặp là "sắc, nhọn".
+S exactly|adv.|chính xác
+#2-2
+W appoint|əˈpɔɪnt|v.|chọn, bổ nhiệm, chỉ định
+E He had the most successful track record, so he was appointed head of the new project.|Anh ấy có thành tích cá nhân thành công nhất, vì vậy anh ấy được chỉ định là trưởng nhóm cho dự án mới.
+N be appointed chỉ "được bổ nhiệm làm...", phía sau trực tiếp thêm xưng hô.
+R appointed|adj.|được bổ nhiệm
+R appointment|n.|sự bổ nhiệm, sự chỉ định
+W association|əˌsəʊsiˈeɪʃ(ə)n|n.|sự hợp tác
+E Our long-term association with your advertising firm has brought benefits to both sides.|Sự hợp tác lâu dài của chúng tôi với công ty quảng cáo của bạn đã mang đến lợi ích cho cả hai bên.
+N khi association chỉ "kết hợp, liên kết", là danh từ không đếm được.
+R associated|adj.|có kết hợp, cùng cộng tác
+R associate|v.|kết hợp, liên kết
+W colleague|ˈkɒliːg|n.|đồng nghiệp
+E My colleague would be happy to meet with you and answer any questions you have.|Đồng nghiệp của tôi vui vẻ gặp và trả lời những thắc mắc của các bạn.
+S coworker|n.|đồng nghiệp
+W commitment|kəˈmɪtm(ə)nt|n.|sự ủy thác, sự chuyển giao một dự luật
+E The U.S. army demands a four-year commitment from its enlistees.|Quân đội Mỹ đòi hỏi sự chuyển giao 4 năm 1 lần từ những người có tên trên danh sách.
+R commit|v.|giao phó, ủy thác
+R committed|adj.|tận tụy, hết lòng
+W committee|kəˈmɪti|n.|ủy ban
+E Congresspeople all have to serve on committees that facilitate the evaluation of laws.|Tất cả nghị sĩ quốc hội phải phục vụ trên những ủy ban tạo thuận tiện trong việc đánh giá các điều luật.
+N khi committee chỉ "ủy viên" là danh từ phức hợp.
+R executive committee||ủy ban điều hành
+W consensus|kənˈsensəs|n.|sự thống nhất, sự nhất trí
+E By general consensus, Jerry was picked as the class president.|Qua sự nhất trí chung, Jerry được bầu làm lớp trưởng của lớp.
+R consensus of opinion||sự nhất trí ý kiến
+W discharge|dɪsˈtʃɑːdʒ|v.|sa thải
+E He was discharged after failing to meet company standards.|Anh ta bị sa thải sau khi không đáp ứng được tiêu chuẩn của công ty.
+N discharge cũng có thể chỉ "xả điện", ví dụ: discharge electricity, từ trái nghĩa là "charge".
+W executive|ɪgˈzekjʊtɪv|n., adj.|người điều hành, giám đốc điều hành
+E His ambition is to become an executive in a multinational corporation.|Hoài bão của anh ta là trở thành giám đốc điều hành tại một công ty đa quốc gia.
+N Khi "executive" làm danh từ, còn có thể chỉ "cơ quan hành chính, ngành hành pháp của một chính phủ", ví dụ: viện hành chính thì gọi là "Executive Yuan".
+R executive officer||nhân viên điều hành
+R execution|n.|sự thi hành, sự thực hiện
+R execute|v.|thi hành một nhiệm vụ; xử tử,...
+#2-3
+W appreciation|əˌpriːʃɪˈeɪʃ(ə)n|n.|sự biết ơn, sự đánh giá cao
+E We need to send a letter of appreciation to the mayor for helping us out yesterday.|Chúng ta cần gửi một lá thư cám ơn ông thị trưởng vì đã giúp đỡ chúng ta hôm qua.
+S gratitude|n.|sự biết ơn
+A depreciation|n.|sự làm giảm giá trị
+R appreciate|v.|biết ơn, đánh giá cao
+W authorization|ˌɔːθəraɪˈzeɪʃ(ə)n|n.|sự ủy quyền
+E We have gotten authorization from our boss to agree to your terms.|Chúng tôi được ông chủ ủy quyền để chấp nhận các điều khoản của bạn.
+R authorize|v.|ủy quyền
+W branch|brɑːn(t)ʃ|n.|nhánh, chi nhánh
+E You can contact the company either at the main headquarters or the branch office nearest you.|Bạn cần liên hệ với công ty tại trụ sở chính hoặc văn phòng chi nhánh gần bạn nhất.
+W bulletin|ˈbʊlətɪn|n.|bản báo cáo, bản thông báo
+E Justin posted a bulletin at the dorm that said he was looking for a new roommate.|Justin đã dán một bản thông báo tại ký túc xá thông báo rằng anh ấy đang tìm người bạn ở chung phòng mới.
+R bulletin board||bản thông báo

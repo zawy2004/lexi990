@@ -1,0 +1,74 @@
+#4-4
+W function|ˈfʌŋkʃ(ə)n|n.|chức năng, vai trò, nhiệm vụ
+E One of my functions in the office is to prepare invoices.|Một trong những nhiệm vụ của tôi tại văn phòng là chuẩn bị hóa đơn.
+N khi làm động từ, mang nghĩa "có chức năng..., phát huy công dụng".
+S job - position - duty|n.|nhiệm vụ, công việc
+W impose|ɪmˈpəʊz|v.|đánh thuế, bắt chịu
+E As you are paying the invoice late, we have to impose a small fine.|Khi bạn thanh toán hoá đơn trễ, chúng tôi buộc bạn chịu một khoản tiền phạt nhỏ.
+N khi thể hiện "cưỡng bức ai đó chấp nhận vật gì đó", dùng impose sth on sb.
+R imposition|n.|sự đánh thuế, sự bắt chịu
+W integral|ˈɪntɪgrəl|adj.|toàn bộ, trọn vẹn, không thể thiếu
+E Sending out and paying invoices is an integral part of doing business.|Gửi và thanh toán hoá đơn là một phần không thể thiếu của việc kinh doanh.
+N khi chỉ "là cần thiết đối với...", dùng giới từ to.
+S essential - necessary - required|adj.|thiết yếu, cần thiết
+R integrate|v.|hòa nhập, hợp nhất
+W joint|dʒɔɪnt|adj.|chung
+E We have a joint account, and both our salaries get paid into it.|Chúng tôi có một tài khoản chung và lương của cả hai chúng tôi được trả vào đó.
+N khi là danh từ chỉ "chỗ nối, mối nối".
+S shared - combined - collective|adj.|chung, kết hợp
+A individual - separate|adj.|cá nhân, riêng lẻ
+W mistake|mɪˈsteɪk|n.|lỗi, chỗ sai
+E There's a mistake on this invoice; we have already paid for some of these.|Có một lỗi trong hóa đơn này; chúng ta vừa thanh toán một vài trong số này.
+N khi làm động từ, có nghĩa "hiểu lầm, phạm lỗi".
+S error - fault|n.|lỗi, chỗ sai
+W run|rʌn|v.|chạy, hoạt động, vận hành
+E I started out preparing invoices two years ago, and now I run the whole office.|Tôi đã bắt đầu chuẩn bị nhiều hóa đơn cách đây hai năm và bây giờ tôi kiểm soát cả văn phòng.
+S conduct - administer - control|v.|kiểm soát, quản lý
+W strictly|ˈstrɪktli|adv.|chính xác
+E The lower price is strictly for those invoices paid on time.|Giá thấp hơn được dành chính xác cho những hoá đơn thanh toán đúng hạn.
+S exactly - precisely|adv.|chính xác
+R strict|adj.|khắc khe, nghiêm khắc
+W subtract|səbˈtrækt|v.|trừ, giảm
+E We didn't receive these, so you need to subtract them from the bill.|Chúng tôi không nhận những thứ này, vì thế bạn nên trừ chúng khỏi hóa đơn thanh toán.
+S deduct|v.|giảm
+A add|v.|thêm vào
+R subtraction|n.|sự trừ ra
+R multiply|v.|nhân lên
+R divide|v.|chia cho
+#5-1
+W accept|əkˈsept|v.|chấp nhận, đồng ý, nhận
+E Do you accept American dollars?|Bạn có nhận đồng đô la Mỹ không?
+S take|v.|nhận, lấy
+A refuse - reject - decline|v.|từ chối, bác bỏ
+R acceptable|adj.|có thể chấp nhận được
+R acceptance|n.|sự chấp nhận
+W account|əˈkaʊnt|n.|tài khoản
+E Please include your account number to expedite the transaction.|Vui lòng bao gồm số tài khoản của anh để xúc tiến hợp đồng này.
+N khi account làm động từ, nó có nghĩa "thuyết minh, giải thích".
+R bank account||tài khoản ngân hàng
+R savings account||tài khoản tiết kiệm
+W activate|ˈæktɪveɪt|v.|kích hoạt
+E After you have filled in the paperwork, we'll be able to activate your account.|Sau khi bạn điền đầy đủ vào giấy tờ, chúng tôi sẽ kích hoạt tài khoản cho bạn.
+N activate còn có thể chỉ "đẩy nhanh phản ứng hóa học".
+R activation|n.|sự kích hoạt
+R activated|adj.|được kích hoạt
+W balance|ˈbæləns|n.|bảng cân đối tài khoản
+E The balance of your account is $78,000.|Bảng cân đối tài khoản của bạn là 78.000 đô la.
+N khi thể hiện "bảng quyết toán" cũng có thể nói bank balance.
+W borrow|ˈbɒrəʊ|v.|mượn
+E You can borrow up to one hundred thousand dollars and pay it back over five years.|Bạn có thể mượn đến một trăm ngàn đô la và trả lại trên 5 năm.
+N khi borrow mang ý "mượn", thì dùng giới từ from, lend là "cho mượn", dùng giới từ to.
+R borrower|n.|người mượn
+W cashier|kæˈʃɪə|n.|người thu ngân
+E Ms. Lee works at a bank as a cashier.|Cô Lee làm thu ngân tại ngân hàng.
+N cashier cũng có thể xem là động từ có ý chỉ "cách chức, thải ra".
+W convert|kənˈvɜːt|v.|đổi, chuyển đổi
+E Please convert one hundred U.S. dollars into euros.|Vui lòng đổi 100 đô la Mỹ thành đồng euro.
+R convertible|adj.|có thể chuyển đổi
+R converter|n.|lò chuyển, máy đổi điện
+W deposit|dɪˈpɒzɪt|n.|tiền ký gửi, tiền đặt cọc
+E If you want to rent the apartment, you have to pay a two-month deposit.|Nếu anh muốn thuê căn hộ, anh phải đặt tiền cọc 2 tháng.
+N khi deposit làm động từ, nó có nghĩa "gửi (tiền, vật), gửi (tiền) ở ngân hàng".
+A withdrawal|n.|sự rút tiền
+R depositor|n.|người ký gửi
+R security deposit||tiền đặt cọc bảo đảm

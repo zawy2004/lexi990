@@ -1,0 +1,70 @@
+#4-3
+W mandatory|ˈmændətəri|adj.|có tính bắt buộc
+E Shipping insurance is mandatory and included in the price.|Bảo hiểm vận chuyển bằng tàu là bắt buộc và được bao gồm trong giá cả.
+N khi chỉ "là nghĩa vụ với...", dùng giới từ for.
+S compulsory - obligatory|adj.|bắt buộc, cưỡng chế
+A voluntary|adj.|tự nguyện
+W merchandise|ˈmɜːtʃəndaɪs|n.|hàng hoá
+E When will our merchandise arrive?|Khi nào hàng hóa của chúng tôi sẽ đến?
+N khi làm động từ, nó có nghĩa là "mua bán, tiêu thụ".
+S commodities - goods - products|n.|hàng hóa
+R merchant|n.|thương buôn
+W minimize|ˈmɪnɪmaɪz|v.|tối thiểu hóa
+E Shipping the order out on a Monday will minimize the shipping time.|Chở hàng hóa bằng tàu vào thứ Hai sẽ làm ít tốn thời gian chuyên chở bằng tàu nhất.
+A maximize|v.|tối đa hóa
+R minimum|adj., n.|tối thiểu
+R minimization|n.|sự tối thiểu
+W reflection|rɪˈflekʃ(ə)n|n.|sự phản ảnh
+E Satisfied customers are a reflection of how professional a company is.|Khách hàng được thỏa mãn là sự phản ảnh một công ty chuyên nghiệp như thế nào.
+R reflect|v.|phản chiếu, phản ánh
+W ship|ʃɪp|v.|chở bằng tàu
+E We can ship orders anywhere in the world.|Chúng ta có thể chở hàng bằng tàu tới bất cứ nơi đâu trên thế giới.
+N "vận chuyển hàng" thường dùng dạng câu ship sth out/to/over.
+S send - transport|v.|vận chuyển
+R shipment|n.|sự chuyển hàng xuống tàu
+R shipping|n.|sự chở hàng bằng tàu
+#4-4
+W accurately|ˈækjʊrətli|adv.|một cách chính xác
+E Invoices must be written accurately, otherwise we could lose money.|Hóa đơn phải được viết một cách chính xác, nếu không chúng ta có thể mất tiền.
+S precisely - exactly|adv.|một cách chính xác
+A inaccurately|adv.|một cách không chính xác
+R accurate|adj.|chính xác
+R accuracy|n.|sự chính xác
+W adjustment|əˈdʒʌstmənt|n.|sự điều chỉnh
+E You promised me a discount, so can you make an adjustment on the invoice, please?|Bạn hứa đưa tôi một khoản chiết khấu, vì thế bạn có thể vui lòng điều chỉnh trên hóa đơn?
+N khi thể hiện "sự điều chỉnh nhỏ", có thể dùng minor/slight adjustment.
+S modification - amendment|n.|sự điều chỉnh
+R adjust|v.|điều chỉnh
+R adjustable|adj.|có thể điều chỉnh
+W charge|tʃɑːdʒ|n.|phí, chi phí
+E If this invoice is not paid by the 25th, there will be an additional charge of one percent per day.|Nếu hoá đơn này không được trả vào ngày 25 thì mỗi ngày sẽ có thêm khoản phí 1%.
+N charge cũng có thể là động từ, chỉ "thu phí, tính giá".
+S price - cost - fee|n.|phí, chi phí
+R free of charge||miễn phí
+R carrying charge||phí khuân vác
+R service charge||phí dịch vụ
+W compile|kəmˈpaɪl|v.|biên soạn, thu thập
+E We're just compiling your invoices now, and we will send them to you as soon as we're finished.|Bây giờ chúng tôi đang soạn những hóa đơn của bạn và chúng tôi sẽ gửi chúng cho bạn ngay khi chúng tôi hoàn thành.
+S collect - gather - accumulate|v.|thu thập, sưu tầm
+R compilation|n.|sự biên soạn, sự thu thập
+R compiler|n.|người biên tập, người sưu tầm
+W discount|ˈdɪskaʊnt|n.|tiền chiết khấu
+E If the invoice is paid before the 25th, you will receive a five percent discount.|Nếu hoá đơn này được trả trước ngày 25 thì bạn sẽ nhận khoản chiết khấu 5%.
+N thể hiện "chiết khấu bao nhiêu phần trăm", có thể dùng "mấy phần trăm + discount" hoặc "discount of mấy phần trăm".
+R cash discount||chiết khấu bằng tiền mặt
+W discrepancy|dɪsˈkrepənsi|n.|sự khác nhau, sự không nhất quán
+E There seems to be a discrepancy on the invoice: yours says fifty dollars, and ours says forty-five.|Dường như có sự không nhất quán trong hoá đơn: của bạn là 50 đô la, của chúng tôi là 45 đô la.
+S difference - disagreement|n.|sự khác nhau
+R discrepant|adj.|khác biệt
+R discrepantly|adv.|một cách khác biệt
+W efficient|ɪˈfɪʃ(ə)nt|adj.|hiệu quả
+E It is much more efficient to write out all the invoices at the same time.|Viết tất cả hóa đơn cùng một lúc thì hiệu quả hơn nhiều.
+A inefficient|adj.|không hiệu quả
+R efficiently|adv.|một cách có hiệu quả
+R efficiency|n.|sự hiệu quả
+C effective|adj.|có hiệu quả
+W everyday|ˈevrɪdeɪ|adj.|mỗi ngày, thường nhật
+E Paying invoices is an everyday job in our busy office.|Thanh toán những hóa đơn là công việc hằng ngày tại văn phòng bận rộn của chúng ta.
+N everyday là tính từ, khi viết thành hai chữ, every day thì trở thành phó từ chỉ thời gian, nghĩa "mỗi ngày".
+S ordinary - routine - common|adj.|thường ngày
+A abnormal - unusual|adj.|bất thường

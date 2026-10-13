@@ -1,0 +1,62 @@
+#1-1
+W satisfy|ˈsætɪsfaɪ|v.|làm thỏa mãn, đáp ứng, tuân thủ
+E You must satisfy the contract.|Các ông phải tuân thủ hợp đồng này.
+N những ý thường gặp khác của satisfy là "khiến... hài lòng, thỏa mãn (kì vọng, tiêu chuẩn), khiến... tin tưởng...".
+S discharge - fulfill - meet - comply (with)|v.|hoàn thành, đáp ứng, tuân thủ
+A breach - break - violate|v.|phá vỡ, vi phạm
+W sign|saɪn|v., n.|ký, ký kết
+E We just need to sign the contract now.|Bây giờ chúng ta chỉ cần ký vào hợp đồng này.
+R signature|n.|chữ ký
+W signature|ˈsɪgnətʃə|n.|chữ ký
+E Please put your signature at the bottom of the page.|Vui lòng ký tên của ông ở cuối trang giấy.
+R signatory|adj., n.|thuộc về chữ ký
+#1-2
+W accommodate|əˈkɒmədeɪt|v.|cung cấp
+E Can you accommodate us with a better offer?|Ông có thể cung cấp cho chúng tôi với giá tốt hơn.
+N một nghĩa khác của "accommodate" là "cung cấp chỗ ở", còn danh từ "accommodations" là chỉ "nơi ở", khi dùng với nghĩa này thường dùng với hình thức số nhiều.
+R accommodator|n.|người cung cấp
+W afford|əˈfɔːd|v.|có đủ khả năng, cố gắng
+E I don't think we can afford to hire a new employee until we get more clients.|Tôi không nghĩ chúng ta có đủ khả năng để thuê nhân công mới cho đến khi chúng ta có nhiều khách hàng hơn.
+N afford thường dùng chung với "can, could, be able to", thường dùng trong câu phủ định hoặc nghi vấn.
+W aggressive|əˈgresɪv|adj.|đẩy mạnh, tăng cường, xông xáo
+E New companies have to be aggressive in promoting their products in order to break into the market.|Những công ty mới phải xông xáo trong việc quảng bá sản phẩm để xâm nhập vào thị trường.
+W apprehensive|ˌæprɪˈhensɪv|adj.|lo lắng, lo âu
+E Leslie was a little apprehensive about being in charge of her first project, but she performed well.|Leslie lo lắng nhiều về việc chịu trách nhiệm cho dự án đầu tiên của mình, nhưng cô ấy đã trình bày tốt.
+R apprehension|n.|sự lo lắng, lo âu
+R apprehensively|adv.|một cách sợ hãi
+W bargain|ˈbɑːgɪn|v., n.|thương lượng, trả giá, sự mặc cả
+E They are bargaining over the price right now.|Bây giờ họ đang thương lượng giá cả.
+N "bargain over sth" là "điều đình, trả giá nào đó", bargain for sth là "dự tính...", bargain with sb là "thương lượng với người nào đó".
+S haggle|v.|thương lượng, trả giá
+S buy - steal|n.|mua, lấy
+R bargainer|n.|người mặc cả
+R bargain price||giá cả phải chăng
+W compromise|ˈkɒmprəmaɪz|n., v.|nhất trí, thống nhất
+E The two sides could not reach a compromise, so the meeting ended without resolving anything.|Hai bên không thể đạt được sự nhất trí, vì vậy buổi hợp kết thúc mà chưa giải quyết được việc gì.
+W concede|kənˈsiːd|v.|thừa nhận, nhượng bộ
+E After five years, the company had to concede that the project had been a failure.|Sau 5 năm, công ty phải thừa nhận dự án này là một thất bại.
+R concession|n.|sự nhượng bộ
+R concessive|adj.|nhượng bộ
+W consider|kənˈsɪdə|v.|xem xét
+E Would you consider lowering the price?|Anh sẽ xem xét hạ thấp giá được chứ?
+N Sau "consider" phải là một động từ có hình thức V-ing.
+S ponder - think about||xem xét, suy nghĩ về
+R consideration|n.|sự xem xét
+R considerable|adj.|đáng xem xét
+W delicately|ˈdelɪkətli|adv.|một cách tế nhị
+E Grant delicately asked Jan about her divorce because he knew it was a sensitive subject.|Grant hỏi Jan một cách tế nhị về cuộc ly hôn của cô ấy vì anh biết đây là chủ đề nhạy cảm.
+R delicate|adj.|tế nhị, khéo léo
+R delicacy|n.|sự khéo léo, sự tế nhị, sự duyên dáng
+W offer|ˈɒfə|n., v.|đề nghị, lời đề nghị
+E Is that your final offer? I was hoping you might lower the price more than that.|Đó là đề nghị cuối cùng của anh chưa? Tôi hy vọng anh có thể hạ thấp giá hơn thế.
+N khi offer làm danh từ, ngoài việc chỉ ý "cung cấp, cho ý kiến" ra, trong giá cả là chỉ ý "ra giá", còn special offer có ý là "giá cả đặc biệt, cung cấp giá đặc biệt".
+S propose - suggest|v.|đề nghị
+S proposal|n.|lời đề nghị
+W offset|ɒfˈset|v.|bù cho, bù đắp (thiệt hại)
+E The losses incurred by the luxury car division in the last quarter were offset by the increase in the sales of compacts.|Trong quý cuối, sự thua lỗ ở dòng xe hơi sang trọng được bù đắp bằng sự tăng doanh số ở dòng xe hơi nhỏ.
+W strong|strɒŋ|adj.|mạnh
+E They have a very strong position in the negotiations.|Họ có vị thế mạnh trong các cuộc thương lượng.
+S forceful - decisive|adj.|mạnh mẽ, quả quyết
+A inconclusive|adj.|không bao gồm
+A indecisive|adj.|thiếu quả quyết
+A ineffective|adj.|không hiệu quả

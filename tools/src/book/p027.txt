@@ -1,0 +1,72 @@
+#1-4
+W assurance|əˈʃʊərəns|n.|sự bảo đảm
+E The salesman gave his assurance that the price would not go up.|Người bán hàng đảm bảo rằng giá cả sẽ không tăng.
+S certainty - conviction - certitude|n.|sự chắc chắn
+A doubt - uncertainty|n.|nghi ngờ
+R quality assurance||đảm bảo chất lượng
+R assure|v.|đảm bảo
+W auction|ˈɔːkʃ(ə)n|n.|buổi đấu giá
+E Sotheby's announced that they would be selling a Monet painting in the May auction.|Sotheby thông báo họ sắp bán bức tranh Monet vào buổi đấu giá tháng Năm.
+W avoid|əˈvɔɪd|v.|tránh
+E Try to avoid talking about the price until the very end.|Cố gắng tránh nói về giá cả cho đến cuối cùng.
+N Sau "avoid" phải thêm danh từ hoặc "V-ing".
+S escape - elude|v.|tránh
+R avoidable|adj.|có thể tránh được
+R avoidably|adv.|có thể tránh được
+W boom|buːm|v., n.|phát triển thịnh vượng; tiếng nổ lớn
+E During the 90s, the U.S. economy boomed in large part because of the expansion of the Internet.|Suốt những năm 90, nền kinh tế Mỹ phát triển thịnh vượng bởi vì sự phát triển của Internet.
+A slump|v., n.|suy sụp; sự suy thoái kinh tế
+W characteristic|ˌkærəktəˈrɪstɪk|n.|đặc điểm, đặc tính
+E Explain the characteristics of the product to the customer.|Giải thích đặc tính của sản phẩm với khách hàng.
+N khi characteristic làm tính từ, tức chỉ "nét đặc sắc, tiêu biểu".
+S feature - quality|n.|đặc tính
+R characterize|v.|định rõ đặc điểm
+W convince|kənˈvɪns|v.|thuyết phục
+E You must convince the customer that your product is what he or she wants.|Bạn phải thuyết phục với khách hàng rằng sản phẩm của chúng ta là những gì họ muốn.
+S persuade|v.|thuyết phục
+R convincing - inducing - persuasive|adj.|mang tính thuyết phục
+W demonstrate|ˈdemənstreɪt|v.|chứng minh, mô tả
+E Customers are more likely to buy if you demonstrate the product for them.|Khách hàng sẽ thích mua hơn nếu bạn chứng minh sản phẩm cho họ.
+S show|v.|chỉ ra, trình bày
+R demonstration/demo|n.|sự mô tả, chứng tỏ
+R demonstrator|n.|người chứng minh, người mô tả
+W evaluate|ɪˈvæljʊeɪt|v.|đánh giá
+E It will help you make the sale if you first evaluate the mood of the customer.|Sẽ hữu ích cho việc bán hàng của bạn nếu đầu tiên bạn đánh giá tâm trạng của khách hàng.
+S estimate - assess|v.|đánh giá
+R evaluation|n.|sự đánh giá
+W legitimate|lɪˈdʒɪtəmət|adj.|hợp pháp, chính thống
+E Criminals with excess money often invest in legitimate businesses.|Tội phạm có nhiều tiền thường đầu tư vào những doanh nghiệp hợp pháp.
+N legitimate chỉ tư cách hay quyền lợi trong pháp luật. Từ mang nghĩa "hợp pháp" được dùng nhiều nhất là "lawful", còn "legal" tức là phù hợp với điều khoản pháp luật, dựa trên pháp luật.
+W promise|ˈprɒmɪs|v., n.|hứa, cam đoan; lời hứa
+E Never promise the customer anything!|Đừng bao giờ hứa với khách hàng điều gì!
+N Khi "promise" làm động từ, có thể thêm vế câu "to V., that" hoặc "promise sth".
+R promising|adj.|đầy hứa hẹn
+W specific|spəˈsɪfɪk|adj.|riêng, đặc trưng, cụ thể
+E Every customer has a specific need.|Mỗi khách hàng có nhu cầu riêng.
+N Khi specific làm danh từ, có thể chỉ "chi tiết", thường dùng với hình dạng số nhiều.
+S distinct - special|adj.|đặc trưng, đặc biệt
+A general|adj.|chung, tổng quát
+R specify|v.|cụ thể hóa
+R specification|n.|đặc điểm
+W variety|vəˈraɪəti|n.|sự đa dạng
+E We have a variety of products that would suit you.|Chúng tôi có nhiều sản phẩm phù hợp cho bạn.
+S diversity|n.|sự đa dạng
+A monotony|n.|sự đơn điệu
+R various|adj.|đa dạng
+#1-5
+W address|əˈdres|v.|diễn thuyết với
+E The speaker addressed the audience.|Người phát ngôn diễn thuyết với khán giả.
+N Khi address làm danh từ, ngoài ý "diễn thuyết" ra, còn có nghĩa là "địa chỉ" (lúc này sẽ phát âm là [ˈædres]). Ngoài ra, address còn dùng để chỉ website (địa chỉ trên mạng).
+W affiliate|əˈfɪlɪət|n.|công ty con
+E The organization is an affiliate of the Red Cross.|Tổ chức này là công ty con của Red Cross.
+N Khi "affiliate" làm động từ, đọc là [əˈfɪlɪeɪt], chỉ "nhận làm chi nhánh, làm hội viên".
+R affiliated|adj.|sáp nhập, liên kết
+R affiliation|n.|sự sáp nhập
+W attend|əˈtend|v.|tham dự
+E Five hundred businesspeople attended the conference.|Năm trăm doanh nhân tham dự hội nghị này.
+R attendance|n.|sự tham dự
+R attendee|n.|người tham dự
+W attract|əˈtrækt|v.|thu hút
+E The conference attracted businesspeople from all over the world.|Hội nghị này thu hút doanh nhân từ khắp nơi trên thế giới.
+R attraction|n.|sự thu hút
+R attractive|adj.|hấp dẫn

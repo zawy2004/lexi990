@@ -1,0 +1,85 @@
+#6-2
+W opt|ɒpt|v.|chọn, chọn lựa
+E We have opted to take on an extra quality control manager.|Chúng tôi vừa tuyển chọn để nhận thêm một quản lý kiểm soát chất lượng.
+N cách dùng là opt for sth hoặc opt to V.
+S choose|v.|chọn lựa
+R option|n.|sự chọn lựa
+W recall|rɪˈkɔːl|v.|rút lại, thu hồi
+E The automaker recalled 3,000 SUVs because of a brake problem.|Nhà sản xuất xe hơi đã thu hồi 3.000 SUV vì có lỗi ở bộ phận thắng.
+N recall cũng có thể là danh từ, order/issue a recall of... thể hiện "(công ty nào đó) thu hồi (sản phẩm nào đó)".
+S withdraw|v.|rút (tiền), rút lại, hủy bỏ
+W research|ˈriːsɜːtʃ|n.|cuộc nghiên cứu
+E Our research shows that employees work better if allowed several short breaks.|Cuộc nghiên cứu của chúng tôi cho thấy rằng công nhân viên sẽ làm việc tốt hơn nếu được phép nghỉ và giải lao ngắn.
+N thể hiện "sự nghiên cứu về (chủ đề nào đó)", dùng giới từ into hoặc on. Cũng có thể dùng như động từ.
+S study - investigation|n.|cuộc nghiên cứu
+R market research||cuộc nghiên cứu thị trường
+R research and development (R and D)||nghiên cứu và phát triển
+R researcher|n.|nhà nghiên cứu
+W responsibility|rɪˌspɒnsɪˈbɪlɪti|n.|trách nhiệm, bổn phận
+E It is your responsibility to make sure that the quality is excellent.|Trách nhiệm của bạn chính là để đảm bảo rằng chất lượng tốt.
+N Dùng với for N./V-ing hoặc to V.
+S duty - obligation|n.|trách nhiệm, nghĩa vụ
+R responsible|adj.|chịu trách nhiệm
+W scrutiny|ˈskruːtɪni|n.|sự kiểm tra, việc kiểm tra kỹ
+E Even under the closest scrutiny, the product was found to be of the highest quality.|Dù có được kiểm tra tỉ mỉ nhất thì sản phẩm vẫn đạt chất lượng cao nhất.
+S inspection - examination|n.|sự kiểm tra
+R scrutinize|v.|kiểm tra
+W supervisor|ˈsuːpəvaɪzə|n.|người quản lý, người điều khiển
+E The supervisor makes sure that the workers are doing a good job.|Người quản lý đảm bảo rằng những công nhân đang làm việc tốt.
+S executive - administrator - manager|n.|người quản lý, người điều hành
+R supervise|v.|quản lý, điều khiển
+R supervision|n.|sự quản lý
+R supervisory|adj.|mang tính quản lý
+W waste|weɪst|n.|vật phế thải, lãng phí
+E We throw away items with even the smallest flaws, which I think is a real waste.|Chúng ta loại bỏ những thứ dù chỉ hơi có khiếm khuyết, tôi nghĩ đó là lãng phí thật sự.
+R industrial/chemical/nuclear waste||chất thải công nghiệp/hoá học/hạt nhân
+R waste ground||cặn bã, rác thải
+W wrinkle|ˈrɪŋk(ə)l|n.|làn, nếp nhăn
+E The clothes should not have wrinkles in them.|Quần áo không nên có nếp nhăn.
+S crease - crinkle|n.|nếp
+#6-3
+W agenda|əˈdʒendə|n.|hội nghị, chương trình nghị sự
+E We cannot discuss that today because it's not on the agenda.|Chúng ta không thể thảo luận việc đó hôm nay vì nó không có trong chương trình nghị sự.
+R political/economic agenda||hội nghị chính trị/kinh tế
+R hidden agenda||hội nghị kín, hội nghị mật
+W anxious|ˈæŋkʃəs|adj.|lo lắng, hồi hộp, nôn nóng, háo hức
+E We are anxious to talk about it as soon as possible.|Chúng tôi háo hức nói về nó càng sớm càng tốt.
+N Dùng với to V., for N. hoặc mệnh đề that.
+S eager - keen - ardent - desirous|adj.|hăm hở, hăng hái
+A indifferent|adj.|dửng dưng
+R anxiety|n.|sự lo lắng
+R anxiously|adv.|có vẻ lo lắng
+W ascertain|ˌæsəˈteɪn|v.|biết chắc, tìm hiểu chắc chắn, xác định
+E We need to ascertain what the problem is so we can fix it.|Chúng tôi cần xác định xem sự cố là gì để chúng tôi có thể sửa nó.
+N Dùng với những từ nghi vấn what/whether/how hoặc mệnh đề that.
+S discover - find out||khám phá
+S determine|v.|quyết định
+W assume|əˈsjuːm|v.|giả định, giả thuyết, cho rằng
+E I assume everyone knows why I have called this meeting.|Tôi cho rằng mọi người hiểu tại sao tôi triệu tập cuộc họp này.
+S presume - suppose|v.|giả định
+R assumption|n.|sự giả định
+R assuming (that)|conj.|giả định rằng
+W brand|brænd|n.|nhãn hiệu
+E There is a new brand on the market, and we need to discuss how it will affect us.|Có một nhãn hiệu mới trên thị trường và chúng ta cần thảo luận xem nó ảnh hưởng đến chúng ta như thế nào.
+S trademark|n.|thương hiệu
+R brand name||tên nhãn hiệu
+R brand loyalty||lòng trung thành với một nhãn hiệu
+R brand leader||người đứng đầu về thương hiệu
+W conclude|kənˈkluːd|v.|kết luận, kết thúc
+E Well, if no one has anything else to say, let's conclude the meeting.|Nếu không ai nói gì nữa thì chúng ta hãy kết thúc buổi họp.
+S end - finish|v.|kết thúc
+R conclusion|n.|sự kết luận
+R concluding|adj.|cuối, sau cùng
+R conclusive|adj.|quả quyết, hiển nhiên
+W goal|gəʊl|n.|mục tiêu
+E The goal of this meeting is to decide on a new look for our product.|Mục tiêu của buổi họp này là để quyết định chọn diện mạo mới cho sản phẩm của chúng ta.
+S aim - purpose - target|n.|mục tiêu
+R long-term goal||mục tiêu dài hạn
+R short-term goal||mục tiêu ngắn hạn
+W lengthy|ˈleŋθi|adj.|dài, lâu
+E It was a lengthy meeting, but a good one.|Nó là một buổi họp dài dòng nhưng hay.
+N thông thường đứng trước và bổ nghĩa cho danh từ.
+S long - overlong|adj.|dài, lâu
+A short - brief|adj.|ngắn, ngắn gọn
+R length|n.|chiều dài
+R lengthen|v.|kéo dài

@@ -1,0 +1,57 @@
+#5-4
+W project|prəˈdʒekt|v.|hoạch định, dự đoán
+E Our income is projected to rise by eight percent over the year.|Thu nhập của chúng ta được dự đoán tăng 8% một năm.
+N thường dùng be projected to V để thể hiện "dự đoán tương lai sẽ...".
+S calculate - predict|v.|dự đoán
+R projection|n.|sự hoạch định, sự dự đoán
+W reconcile|ˈrekənsaɪl|v.|làm cho tương thích, điều hòa
+E The auditor tried to reconcile his expenses with his stated income.|Kiểm toán viên cố gắng điều hòa chi tiêu với khoản thu nhập cố định của anh ấy.
+N còn có nghĩa "hòa giải, dàn xếp".
+W revenue|ˈrevənjuː|n.|thu nhập
+E The company's revenues fell last year.|Năm ngoái thu nhập của công ty giảm.
+R revenue stamp||phiếu thu nhập
+R revenue tariff/tax||thuế thu nhập
+W surplus|ˈsɜːpləs|n.|thặng dư
+E The country has a trade surplus of one billion dollars.|Quốc gia này có một tỷ đô la thặng dư thương mại.
+N surplus cũng là tính từ, chỉ "dư thừa".
+S excess|n.|thặng dư
+A deficit|n.|số tiền thiếu hụt
+R trade surplus||thặng dư thương mại
+W turnover|ˈtɜːnˌəʊvə|n.|doanh số, doanh thu, tốc độ thay thế công nhân
+E Retail companies have a high turnover rate for employees.|Những công ty bán lẻ có tốc độ thay thế công nhân viên cao.
+R employee/staff turnover||tốc độ thay thế công nhân
+W voucher|ˈvaʊtʃə|n.|biên lai
+E The voucher is valid until April 30th.|Biên lai này có hiệu lực cho đến ngày 30 tháng 4.
+S receipt|n.|biên lai
+R gift voucher||phiếu quà tặng
+#5-5
+W coupon|ˈkuːpɒn|n.|vé, phiếu mua hàng, phiếu dự thưởng
+E My sister collects a lot of coupons from the newspaper.|Chị tôi thu nhiều phiếu dự thưởng từ báo.
+R discount coupon||phiếu mua hàng giảm giá
+W customs|ˈkʌstəmz|n.|hải quan
+E How long does it take to go through customs?|Đi qua hải quan mất bao lâu?
+N Khi chỉ hải quan, customs phải ở hình thức số nhiều, khi là số ít thì chỉ "thói quen".
+R customs officer||nhân viên hải quan
+R customs duty||nhiệm vụ hải quan
+W deduct|dɪˈdʌkt|v.|khấu trừ, làm giảm
+E We can deduct the late fee if you pay the bill by the 9th.|Chúng tôi có thể khấu trừ phí trễ nếu bạn thanh toán hoá đơn vào ngày 9.
+R deduction|n.|sự khấu trừ
+R tax-deductible|adj.|có thể khấu trừ thuế
+W detail|ˈdiːteɪl|n.|chi tiết
+E Check the details on the bill to make sure that everything is correct.|Kiểm tra những chi tiết trên hóa đơn để chắc chắn rằng mọi thứ đều đúng.
+N detail còn làm động từ, chỉ "thuyết minh chi tiết, kể tường tận".
+R detailed|adj.|tỉ mỉ
+W owe|əʊ|v.|mắc nợ
+E You currently owe two thousand dollars.|Hiện tại bạn nợ 2.000 đô la.
+N cách dùng owe sb money hoặc owe sb for sth.
+R owing|adj.|đang thiếu nợ
+W penalty|ˈpenəlti|n.|phạt đền, tiền phạt
+E There will be a five percent penalty for any bills paid more than thirty days late.|Sẽ có khoản tiền phạt 5% đối với những hoá đơn thanh toán trễ hơn 30 ngày.
+N để chỉ "hình phạt, trừng phạt vì...", dùng giới từ for.
+S punishment - fine|n.|tiền phạt
+R penalize|v.|trừng phạt
+W reimburse|ˌriːɪmˈbɜːs|v.|hoàn trả, trả lại
+E I will reimburse the cost to you.|Tôi sẽ trả lại chi phí cho bạn.
+N dạng câu thường dùng reimburse sb for sth.
+S repay - pay back||trả lại
+R reimbursement|n.|sự hoàn trả

@@ -1,0 +1,71 @@
+#5-3
+W overall|ˌəʊvərˈɔːl|adv.|tất cả, tổng quát, nhìn chung
+E You owe eleven thousand dollars overall.|Bạn nợ tất cả 11.000 đô la.
+N có thể làm tính từ, chỉ "toàn bộ".
+S generally|adv.|nhìn chung
+W refund|ˈriːfʌnd|n.|sự trả lại, số tiền trả lại
+E I got a really big tax refund last year.|Năm ngoái tôi có một khoản tiền hoàn thuế rất lớn.
+N khi làm động từ chỉ "hoàn trả (tiền)", phát âm [rɪˈfʌnd], ý gần với reimburse.
+R tax refund||tiền hoàn thuế
+R full refund||tiền hoàn trả đủ
+R nonrefundable|adj.|không thể hoàn trả lại
+W spouse|spaʊs|n.|vợ (chồng)
+E Both you and your spouse had to sign the loan agreement.|Cả bạn và vợ (chồng) bạn phải ký vào hợp đồng vay này.
+R spousal|adj.|thuộc về vợ (chồng)
+W withhold|wɪðˈhəʊld|v.|giữ lại, cầm lại
+E About two hundred dollars is withheld from Anna's paycheck each month.|Khoảng 200 đô la được giữ lại từ sec phải thanh toán của Anna mỗi tháng.
+R withholding tax||thuế giữ lại
+#5-4
+W accounting|əˈkaʊntɪŋ|n.|khoa kế toán, môn kế toán
+E The accounting department provides a company's financial information.|Ban kế toán cung cấp thông tin tài chính của công ty.
+N tiếng Anh của người Anh dùng accountancy.
+R account|n.|tài khoản
+R accountant|n.|kế toán viên
+R accounting/fiscal year||năm tài khóa
+W asset|ˈæset|n.|tài sản
+E The company has many assets that it could sell to raise money.|Công ty có nhiều tài sản có thể bán để thu tiền.
+R capital assets||tài sản vốn
+R liquid assets||tài sản dễ bán
+W audit|ˈɔːdɪt|v.|kiểm toán
+E We have finished auditing the company's accounts, and everything seems to be correct.|Chúng tôi vừa hoàn thành việc kiểm toán tài khoản của công ty và mọi thứ đều đúng.
+N cũng có thể làm danh từ.
+R auditor|n.|kiểm toán viên
+W budget|ˈbʌdʒɪt|v.|dự thảo ngân sách
+E It is important to budget for the year so that we will have enough money.|Điều quan trọng là phải dự thảo ngân sách của năm để chúng ta sẽ có đủ tiền.
+N chỉ "dự thảo ngân sách cho...", dùng giới từ for. Khi làm danh từ, budget chỉ "dự tính", khi là tính từ chỉ "rẻ".
+W calculate|ˈkælkjʊleɪt|v.|tính toán
+E Can you calculate how much the decoration will cost?|Bạn có thể tính toán xem trang trí tốn bao nhiêu tiền được không?
+S estimate - figure - assess|v.|tính, ước tính
+R calculation|n.|sự tính toán
+R calculator|n.|máy tính
+W capital|ˈkæpɪt(ə)l|n.|vốn, số tiền đầu tư
+E Without capital, you won't be able to get your business started.|Không có vốn, bạn sẽ không thể bắt đầu kinh doanh.
+N capital cũng có thể làm tính từ, chỉ "thuộc về vốn, viết hoa, quan trọng".
+R capital account||tài khoản vốn
+R capital investment||sự đầu tư vốn
+W client|ˈklaɪənt|n.|khách hàng
+E Most of our clients are happy to pay for our services because we help them save money.|Hầu hết khách hàng của chúng tôi vui vẻ trả cho dịch vụ của chúng tôi bởi vì chúng tôi giúp họ tiết kiệm tiền.
+S customer|n.|khách hàng
+W commission|kəˈmɪʃ(ə)n|n.|tiền hoa hồng
+E One of the advantages of investing online is that you don't need to pay commission to a broker.|Một trong những thuận lợi của đầu tư trực tuyến là bạn không cần trả tiền hoa hồng cho nhà môi giới.
+N commission cũng có thể làm động từ, chỉ "ủy nhiệm, ủy thác".
+W debt|det|n.|nợ, món nợ
+E I have paid off all my debts; I don't owe money to anybody.|Tôi vừa trả hết các khoản nợ của tôi; tôi không còn nợ tiền ai nữa.
+R debtor|n.|con nợ (creditor: chủ nợ)
+R debt collector||người thu nợ
+R debt-ridden|adj.|nợ chồng chất
+W expenditure|ɪkˈspendɪtʃə|n.|chi tiêu
+E Government expenditure must be kept under strict control.|Chi tiêu của chính phủ phải được giữ trong tầm kiểm soát nghiêm ngặt.
+S costs - expenses|n.|chi tiêu
+R expend|v.|tiêu xài
+W forecast|ˈfɔːkɑːst|n.|dự báo, dự đoán
+E According to our forecast, the company should be making a profit by next January.|Theo dự đoán của chúng tôi, công ty sẽ thu được lợi nhuận vào tháng Giêng tới.
+N cũng có thể làm động từ.
+S prediction|n.|sự dự đoán
+R forecaster|n.|người dự đoán, dự báo
+R weather forecaster||nhà dự báo thời tiết
+R economic forecaster||nhà dự báo kinh tế
+W outstanding|aʊtˈstændɪŋ|adj.|chưa thanh toán
+E We still have two bills outstanding, but I can pay them this week.|Chúng tôi vẫn còn hai hóa đơn chưa thanh toán nhưng tôi có thể thanh toán chúng vào tuần này.
+N outstanding cũng có ý "kiệt xuất, ưu tú".
+S unpaid - owing - payable|adj.|chưa thanh toán

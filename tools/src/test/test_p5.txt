@@ -1,0 +1,603 @@
+@P5
+Q101|The newest employee is ____ to do the jobs no one else wants.
+A expect
+B accepted
+C expected
+D expert
+Q102|He ____ the folder on the table.
+A laid
+B lied
+C lies
+D lay
+Q103|Lung disease is often a ____ of smoking.
+A consensus
+B consequence
+C consideration
+D condition
+Q104|I spoke to the project manager ____ the phone earlier.
+A with
+B by
+C to
+D on
+Q105|The rebel leaders have agreed to ____ a cease-fire with the government.
+A negotiate
+B negotiable
+C negotiation
+D negotiated
+Q106|The contract will ____ to show the numbers we agreed on.
+A revise
+B revised
+C be revised
+D be revising
+Q107|The reports are coming in so fast that it's hard to stay ____ of them.
+A on top
+B above
+C over
+D onto
+Q108|Would you like ____ water?
+A a
+B some
+C these
+D one
+Q109|Because it has done so well recently, Johnson Tool and Die was able to ____ its loan early.
+A rely
+B reply
+C replay
+D repay
+Q110|The car is almost ____ gas, so we have to stop at a gas station.
+A empty
+B out
+C out of
+D for
+Q111|Jerry and Susan ____ when they were in college.
+A meet
+B will meet
+C have met
+D met
+Q112|You have to be over 18 to be ____ for this contest.
+A eligible
+B qualify
+C worthy
+D confirmed
+Q113|The committee ____ members of the community.
+A composes
+B is comprised of
+C is made up
+D consist of
+Q114|His responsibilities as a consultant are completely different ____ those when he worked for a company.
+A for
+B of
+C as
+D from
+Q115|____ finance this expansion, we have decided to sell some more stock.
+A In addition to
+B In spite of
+C In reference to
+D In order to
+Q116|If I finish my report early, then I can help you with ____.
+A you
+B your
+C yours
+D yourself
+Q117|Since our usual supplier wouldn't give us the price we wanted, I guess we have to look for an ____.
+A alternative
+B appointment
+C apprentice
+D arrangement
+Q118|This bill is ____, so we have to pay it immediately.
+A overdrawn
+B overboard
+C overdue
+D overdose
+Q119|After careful consideration, we are going to ____ your offer and go with another firm.
+A prohibit
+B reject
+C dismiss
+D ignore
+Q120|I ____ to Singapore five times in the last six months for business.
+A have gone
+B go
+C am going
+D have been
+Q121|He is the man ____ used to work for Connant Design.
+A whom
+B who
+C whose
+D while
+Q122|This is a great ____, with little risk and good long-term returns.
+A investment
+B pension
+C asset
+D capital
+Q123|Can you ____ me your pen? I just need to write a quick note.
+A borrow
+B sell
+C lend
+D take
+Q124|Dr. Stevens was going out of town for a week, so his secretary got ____ with his patients and rescheduled their appointments.
+A in touch
+B out of touch
+C to contact
+D hold
+Q125|The budget meeting will be ____ the morning of next Monday.
+A on
+B in
+C for
+D until
+Q126|The consensus ____ that Tom is the best for the job.
+A does
+B is
+C are
+D has
+Q127|The product had to be completely redesigned when a ____ was discovered.
+A deduct
+B defeat
+C deficit
+D defect
+Q128|An entrepreneur needs to have ____ and vision, or he will never get investors.
+A initiation
+B initiate
+C initiated
+D initiative
+Q129|You can ____ a message with my secretary if I'm not in the office.
+A leave
+B put
+C take
+D send
+Q130|We have the supplies you need ____, so we can get them to you tomorrow.
+A on track
+B on order
+C on hand
+D on average
+Q131|Roger prefers to talk to clients over the phone and ____ meets them in person.
+A often
+B rarely
+C frequently
+D always
+Q132|According to company ____, employees are not allowed to give out that sort of information over the phone.
+A dress code
+B agenda
+C affiliate
+D policy
+Q133|I just need to get this ____ by my manager.
+A signed
+B signature
+C sign
+D signatory
+Q134|The partitions are made ____ plastic, so they are light and durable.
+A by
+B of
+C with
+D in
+Q135|On the ____ of your experience, we're going to offer you a higher starting salary.
+A basic
+B contrary
+C basis
+D top
+Q136|____ Harvey had the most experience, Jill was still chosen to be the team leader.
+A Because
+B Unless
+C Despite
+D Even though
+Q137|Tom and Mary called ____ other at least once a day.
+A each
+B all
+C every
+D ever
+Q138|Kelly had a very ____ meeting with her clients.
+A success
+B successful
+C successive
+D successfully
+Q139|I'm ____ a long and mutually beneficial relationship between our firms.
+A looking up to
+B looking into
+C looking forward to
+D looking out for
+Q140|This meeting isn't ____. You will be penalized if you don't go.
+A option
+B opt
+C opinion
+D optional
+@P6
+@T141-143
+Every great product or service started __141__ as just a sparkle in someone's eye. Whether you want to invent the next must-have technology or simply __142__ your boss to add another coffee machine, the key to turning your idea into __143__ is to make sure the right people take it seriously.
+Q141
+A out
+B in
+C to
+D with
+Q142
+A convinces
+B convince
+C connivance
+D contractual
+Q143
+A real
+B realty
+C reality
+D retail
+@T144-146
+One of the biggest __144__ to the long-term success of a team is __145__ the faith of top management before your task is complete. Time, manpower, and money are ultimately the three most important resources a company has. If management feels like any of these resources is being misappropriated, your task may become less and less __146__ to the company.
+Q144
+A threatening
+B threats
+C threat
+D threaten
+Q145
+A losing
+B lose
+C lost
+D loses
+Q146
+A crude
+B cruel
+C crucial
+D crux
+@T147-149
+__147__ with all job interviews, panel interviews serve two purposes: first, they allow the interviewers to determine if candidates are suitable for the position; second, they give candidates an opportunity to learn about the business and the job. __148__ the structure of a panel interview may be more intimidating to a candidate than a one-on-one interview, this can be a useful way of determining how candidates fare under pressure. __149__, the session should not turn into an aggressive or hostile grilling. There are a number of tips and tricks to conducting a panel interview that helps ensure it proceeds as planned and assists in identifying the best person for the role.
+Q147
+A As
+B To
+C Under
+D For
+Q148
+A Nevertheless
+B Although
+C Indeed
+D Therefore
+Q149
+A However
+B More
+C Unfortunately
+D Despite
+@T150-152
+Abusive behavior from your boss can range __150__ shouting or using threatening language and obscenities to more physical manifestations. Your organization should have grievance procedures for dealing with such behavior. __151__ should be the last thing you consider. However, if you feel unsafe, don't hesitate to get free of the situation immediately and report the incident to authorities. Under no circumstances is it appropriate to fight fire with fire. You don't want to __152__ the situation, and if formal proceedings arise from the dispute, you'll want to be the one who stayed calm and legally innocent.
+Q150
+A to
+B with
+C on
+D from
+Q151
+A Quit
+B Quitting
+C Quits
+D Quitter
+Q152
+A exacerbate
+B extricate
+C extirpate
+D exhilarate
+@P7
+@T153-155|Questions 153 through 155 refer to the following message.
+Dear CanEx Credit customer,
+Congratulations on your decision to purchase our credit insurance package. For just twenty dollars per year, your credit rating will be protected. In the event of accidental injury or involuntary dismissal from employment, your minimum monthly payment will be made on your behalf. As an added benefit, in the unfortunate event that you or your spouse should die, your CanEx Credit balance will be paid in full, up to a maximum of $10,000. This will give your loved ones peace of mind during a difficult time.
+Q153|What has the CanEx customer just purchased?
+A A $10,000 line of credit
+B Life insurance
+C A credit protection package
+D Unemployment insurance
+Q154|What will happen if the customer is injured and cannot work?
+A His credit card bill will be paid, up to $10,000.
+B $10,000 credit will be added to his account.
+C He will be loaned the money to pay his credit card bill.
+D His minimum monthly credit payment will be made for him.
+Q155|What does this plan offer in the event of the death of the customer's spouse?
+A CanEx will pay for all funeral arrangements.
+B CanEx will pay the credit card balance, up to $10,000.
+C The customer will be given $10,000 to cover the cost of the funeral.
+D None of the above
+@T156-158|Questions 156 through 158 refer to the following interoffice memo.
+Notice to All Employees:
+Our computer technician has requested that we visit the following link: www.malsoftremove.com in order to download a "malicious software removal tool". This procedure will remove the various common spyware, such as Blaster, Sasser, and Mydoom that affect the efficient operation of our computers. Although they aren't considered viruses, but rather technology to track our movements throughout the Internet for commercial purposes, they do tend to clog up the system and make things run more slowly. After downloading the tool, click "run" and allow it to complete its operation, which should take no more than ten minutes. Thank you for your cooperation.
+Sincerely,
+Margo Smith
+VP of Operations
+Q156|What is the main thing that this e-mail notice is asking employees to do?
+A They are being asked to remove all software from their computers.
+B They are being asked to download a spyware removal tool.
+C Employees are being asked not to use the Internet at work.
+D All of the above
+Q157|According to this passage, what is Blaster designed to do?
+A It tracks all personal e-mails.
+B It slows computers down for ten minutes.
+C It tracks visits to commercial Web sites.
+D It removes harmful software.
+Q158|What effect does Blaster have on computer operations?
+A It slows down the operating speed of the computer.
+B It facilitates the addition of spyware.
+C It allows the computer to run more smoothly.
+D It makes the computer vulnerable to viruses.
+@T159-161|Questions 159 through 161 refer to the following consumer-interest piece.
+Most people know at least one person who has in some way been affected by identity theft. In this age of aggressive credit marketing via direct mail, it is very easy for an individual with a good credit rating to obtain a credit card. And if they don't have a good credit rating? Well, then they steal the identity of someone who does—like you. And if after months of using this credit card that is in your name, they are suddenly unable or simply not inclined to pay the bill, it is not their credit rating that is adversely affected, but yours. So how do you protect yourself against identity theft? Protect your identity. Shred any personal bills or documents that may contain your signature before disposing of them. Keep your social insurance and identification numbers private and avoid including them in online communication. And when you hand your credit card over to be authorized, watch closely to ensure that it isn't being activated more than once.
+Q159|This advice is likely to appear in all of the following BUT ...
+A In a warning given online
+B In the business section of a newspaper
+C In documentation with your monthly credit card bill
+D In an article on social unrest
+Q160|What is the main topic of this article?
+A How to prevent identity theft
+B How to avoid credit card debt
+C How to improve your credit rating
+D How to obtain credit when you have a poor rating
+Q161|What are consumers advised to do in order to protect themselves against identity theft?
+A Cut up credit cards and pay cash
+B Never use credit cards online
+C Keep signature and identification numbers private
+D Shred all flyers before disposing of them
+@T162-164|Questions 162 through 164 refer to the following job advertisement.
+StarTek Asia Services Ltd. has several immediate openings for Customer Care Representatives at our Vietnam headquarters. We are seeking dynamic individuals to join our call center team. Ideal candidates will possess excellent communication skills, customer service experience, strong keyboarding abilities, and sound knowledge of the Windows operating system. Must have a high school diploma (or equivalent). Benefit plan available after 90 days. Salary commensurate with experience. Bilingualism is an asset (spoken & written).
+StarTek Asia Services Ltd., Ste. 300-2901 Nguyen Drive, Ho Chi Minh City, Vietnam
+E-mail: hr@startekasia.com
+Q162|When will these customer service positions be available according to the ad?
+A Right away
+B Within 90 days
+C After 90 days
+D It is not stated.
+Q163|What is a prerequisite for the job?
+A Ability to speak Vietnamese
+B A university degree
+C Strong computer skills
+D Ability to fix computers
+Q164|What duties are involved with this position?
+A Dealing with customer complaints in person
+B Providing customer service on the phone and computer
+C Working in a high school environment
+D Teaching computer science
+@T165-167|Questions 165 through 167 refer to the following letter.
+Dear Mr. Clarkson,
+Thank you for your previous donation to the Canadian Foundation for Cancer Research. As you know, we rely on the generosity of people like you to fund our medical research toward the treatment and cure of cancer. We are making slow but persistent steps toward a cure every year, and this past year was no exception. With the amazing discovery of the "pilot cell" that travels ahead of the cancer cells, making the host tissue fertile for cancer growth, scientists have found yet another link in the chain of this mysterious disease. We sincerely hope that we can count on you again this year for a tax-deductible donation to our efforts. Please make your check out to the Canadian Foundation for Cancer Research, P.O. Box 3902, Station A, Ottawa, Ontario, K7A 2B9. And thank you for your continuing generosity.
+The Canadian Foundation for Cancer Research
+Q165|Why is Mr. Clarkson receiving mail from the Canadian Foundation for Cancer Research?
+A He made a donation in the past.
+B He works for them as a scientist.
+C He subscribes to their newsletter.
+D He is a recovering cancer patient.
+Q166|What breakthrough discovery did scientists make earlier this year?
+A They found a cure for cancer.
+B They found a special type of cancer in pilots.
+C They found a special cell that prepares tissue for cancer growth.
+D They found that cancer affects fertility.
+Q167|How are donation funds used according to this letter?
+A Donations are used to help cancer patients pay for treatment.
+B Donations are used to fund cancer research programs.
+C Donations are used to pay for cancer medicine for those in need.
+D Donations are used to pay the salaries of scientists.
+@T168-171|Questions 168 through 171 refer to the following travel itinerary.
+Travel Reservation for Mr. Donald Stewart, Atlantic Marketing
+Dep: 29/03/08 23:55 Taipei—EVER AIRWAYS Flight No. EVA2390
+Arr: 29/03/08 19:20 Vancouver—Duration: 10h25min—2 meals, one snack
+Aisle seat confirmed, 29J Deluxe Economy
+Dep: 29/03/08 22:45 Vancouver—NORTHAIR Flight No. NOR338
+Arr: 30/03/08 5:50 Toronto—Duration: 4h5min—1 meal, one snack
+Aisle seat confirmed, 15A Deluxe Economy
+Please contact Gloria at FarEast Travel if you have any questions: (02) 2389-9990.
+Remember to arrive at the airport two hours before international flights.
+Q168|In what city will Mr. Stewart be making a stopover?
+A Taipei
+B Vancouver
+C Toronto
+D He has no stopover.
+Q169|How long is the flight from Taipei to Canada?
+A Ten hours, twenty-five minutes
+B Two hours, thirty-nine minutes
+C Nineteen hours, twenty minutes
+D Twenty-three hours, fifty-five minutes
+Q170|At what time should Donald arrive at the Taipei airport?
+A He should be there by 9 p.m.
+B He should be there by 10 p.m.
+C He should be there by 11 p.m.
+D He should be there by 7:20 p.m.
+Q171|Where will Mr. Stewart be sitting on his flight?
+A Beside a window
+B In first class
+C Beside an aisle
+D Near the emergency exit
+@T172-175|Questions 172 through 175 refer to the following recipe.
+Recipe for French-Canadian Toast (serves 2)
+Ingredients: 2 large eggs; 1 cup milk; 1 teaspoon pure vanilla; ½ teaspoon ground cinnamon; 1 tablespoon icing sugar; 4 thick slices whole wheat bread, lightly toasted; 1 cup thinly sliced fresh fruit with whipped cream and Canadian maple syrup, to taste.
+Directions: preheat frying pan to medium • spray pan with nonfat cooking spray • crack eggs into shallow bowl • add milk to eggs and blend briskly with fork • add vanilla and cinnamon, stir in • dip one piece of toast in egg mixture, turning quickly and coating both sides (Warning: do not allow the toast to sit in the mixture for too long, or it will become soggy.) • place toast in frying pan, lightly fry until brown • turn toast over and fry other side • repeat dipping and frying with three other pieces of toast • sprinkle French toast with icing sugar and serve with fresh fruit topping, Canadian maple syrup, and a dollop of whipped cream
+Q172|What must be done to the bread before dipping it in the egg mixture?
+A It must be sweetened.
+B It must be toasted.
+C It must be fried.
+D It must be chopped.
+Q173|What word in the recipe means "to mix?"
+A Dip
+B Spray
+C Blend
+D Fry
+Q174|Other than eggs, milk, and cinnamon, what goes into the dipping mixture?
+A Maple syrup
+B Icing sugar
+C Nonfat cooking spray
+D Vanilla
+Q175|What will happen if you leave the toast in the egg mixture for too long?
+A The mixture will get soggy.
+B The toast will get too soft and wet.
+C The toast will get burnt.
+D The toast will turn yellow.
+@T176-178|Questions 176 through 178 refer to the following letter.
+Dear Editor,
+On Wednesday, June 29th, you printed an article regarding the Manhattan General Hospital Expansion Campaign. In the story, you stated that Marie Clarke was the director of fund-raising. In fact, she is the director of the hospital. Sam Maclean is the director of fund-raising for the expansion. If you could print a correction of this discrepancy this week, it would be most appreciated. We would like to assist Mr. Maclean in his efforts and to commend him on the campaign progress thus far.
+Many thanks,
+Lorne Green (a concerned citizen)
+Q176|What is Mr. Maclean's role in connection with the Manhattan General Hospital?
+A He is in charge of raising money for patients.
+B He is the director of the hospital.
+C He is organizing fund-raising for the hospital expansion.
+D He is a concerned citizen.
+Q177|Why is Mr. Green writing this letter to the newspaper editor?
+A He wants the editor to correct a mistake that was printed.
+B He wants to write a story applauding fund-raising efforts.
+C He wants to show his appreciation for the hospital.
+D He wants the newspaper to donate money to the campaign.
+Q178|Why does the Manhattan General Hospital need to raise money?
+A They need to hire Marie Clarke as director.
+B They need to build an addition to their complex.
+C They need to give their doctors a raise.
+D They need to pay for advertising in the newspaper.
+@T179-180|Questions 179 and 180 refer to the following notice.
+Dear Customers,
+We regret to inform you that Corner Laundry will be closed for the remainder of the week due to a death in the family. If you have items in our care, please go to City Laundry at 238 Park Street on or after the date printed on your claim ticket. Our associates Mr. & Mrs. Thomas have graciously offered to take care of business for us in our absence. Thank you very much for your understanding, and we apologize for any inconvenience this arrangement may cause. We look forward to serving you on Monday, the 28th.
+Management
+Q179|Who are Mr. & Mrs. Thomas?
+A Owners of Corner Laundry
+B Customers of Corner Laundry
+C Customers of City Laundry
+D Operators of City Laundry
+Q180|How will customers of Corner Laundry pick up their dry-cleaning?
+A They have to wait until Monday when Corner Laundry reopens.
+B They can pick up their items at City Laundry.
+C They can claim their laundry at the Thomas residence.
+D They can get their money back after the date on their ticket.
+@T181-185|Questions 181 through 185 refer to the following letters.
+Dear Mr. Lilly,
+I am writing in the hopes that you can give me information about changes in airline security at the Lincoln International Airport. I am traveling to Canada this Monday and would like to avoid any unnecessary delays while making my way to the gate. I have called your office several times, only to be kept on hold for what I consider to be an extremely unreasonable length of time. I have encountered numerous lengthy delays in the past year at airports, especially Lincoln, and have grown tired of the changes in rules and regulations.
+Please send information about banned items or other security measures that may slow a passenger's progress through the airport.
+Thank you,
+Paul Watson
+————
+Mr. Watson,
+Thank you so much for your letter and concern. I apologize for the length of time it has taken me to respond to your request, but as I'm sure you can imagine, there have been a great many letters and e-mails similar to yours that have demanded my attention. The best source of information about changes in our procedures here at the airport is at Lincolnfly.com, which I believe you will find to be very useful.
+It is my sincere hope that you realize the enormous pressure that effective security places on our staff. However, I am sure that you will encounter smooth, safe, and efficient progress as you make your way to your gate and final destination. Should you have any other questions, please refer to our Web site and its daily updates.
+Sincerely,
+James Lilly
+Q181|Why does Mr. Watson decide to e-mail Mr. Lilly?
+A Mr. Watson can not reach Mr. Lilly by phone.
+B Mr. Watson is not happy with the food service at Lincoln.
+C Mr. Watson wants to get the Lincoln Web site address.
+D Mr. Watson is trying to get information on a flight to Canada.
+Q182|Why does it take so long for Mr. Lilly to respond to Mr. Watson?
+A Mr. Lilly's e-mail address has been changed.
+B Mr. Lilly is no longer in charge of airport security.
+C Mr. Lilly usually reaches customers by phone.
+D Mr. Lilly has to answer other requests first.
+Q183|Where is Mr. Watson traveling?
+A Canada
+B Africa
+C The U.S.A.
+D Europe
+Q184|How often is the Lincoln Web site updated?
+A Annually
+B Weekly
+C Biweekly
+D Daily
+Q185|When does Mr. Watson plan on traveling to Canada?
+A Monday
+B Tuesday
+C Wednesday
+D Friday
+@T186-190|Questions 186 through 190 refer to the following letters.
+Ms. Andrews,
+I'm very glad to hear from you! Yes, we are interested in trying out your stress management program for our sales staff here at All-Done paralegal services. I have to say that everyone is very excited to begin immediately. The only thing, however, is that I'll need to run the final plan by my superiors, just to assure them that what we plan to do here is in the best interest of the company as a whole. I'm sure you understand.
+Now, what I'd like from you is an itemized list of the benefits of your program. Please try to avoid any technical jargon, as this might not go over well with top management. I am confident that your corporate yoga classes will, in the long run, motivate our staff and contribute to a positive environment at All-Done. I was most impressed by your claim that workers generally achieve a sense of community and that this usually translates into higher productivity. I couldn't ask for a better scenario. I'm sure the program will be very enjoyable for all. I am looking forward to joining myself!
+Please send that list and at least a ballpark figure as to what the program fee will be. I look forward to hearing from you soon.
+Sincerely,
+Penny Courtland
+————
+Dear Ms. Courtland,
+Here are the noted benefits of the program I am offering you and your staff. I hope it will persuade your superiors to give it a try.
+Yoga's Most Often Cited Effects on Workers: √ reduced stress √ sound sleep √ improvement of concentration √ lower amount of leave taking √ stronger sense of office community √ fewer arguments among staff members √ fewer visits to doctors
+Yoga's benefits are so numerous. It gives a high payoff for the amount of effort involved. Workers love it, and if they love it, they come to work to get it.
+I do want to say that yoga does require some commitment of time and is more difficult for people with certain physical limitations. And one drawback is that some people feel self-conscious doing some of the poses. That, in my experience, is the exception and not the rule, however.
+I hope this answers your questions. Take good care.
+Yours,
+Angela Andrews
+Q186|What information does Ms. Courtland request that Ms. Andrews didn't mention?
+A Her fee for services
+B Times of classes
+C The number of acceptable students
+D Dress codes for class
+Q187|What benefit of yoga for the workers is NOT mentioned by Ms. Andrews?
+A Stress reduction
+B Good sleep
+C Concentration increase
+D Flexibility of the body
+Q188|What is mentioned as a potential drawback for the class?
+A Lack of interest by workers
+B Lack of available funds
+C Distance to and from All-Done
+D Self-consciousness of some participating workers
+Q189|What does Ms. Courtland want Ms. Andrews to avoid in the information she supplies?
+A The estimated cost of services
+B How many students would be required to open a class
+C Any technical words that her superiors may not understand
+D A discussion of the psychological impact of yoga practice
+Q190|What does Ms. Courtland need to convince her superiors of?
+A That yoga will increase management's morale
+B That her superiors would also be able to join the class
+C That the program fee will not be too high
+D That the program would be good for the company as a whole
+@T191-195|Questions 191 through 195 refer to the following advertisements.
+I.
+The Stonewall Hotel and Conference Center is found in the historic and enchanting city of Laural, Virginia, centrally located in the heart of bustling downtown. Enjoy your business trip while you step back in time and visit numerous historic sites in this colonial city. For those important business meetings, the Stonewall Hotel offers the ideal setting for seminars and conferences of all sizes. The Stonewall Hotel has nearly 8,500 square feet of elegant meeting space that can accommodate up to 400 for a banquet or 495 theater-style.
+II.
+The Stoney Brook Inn in Laural, Virginia is just right for your intimate engagement. Our beautiful stone lodge beckons you through its doors. The vaulted ceilings and warm earth tones make the perfect setting for a romantic vacation. From adventurous hiking to exquisite dining, you'll find the historic setting a dream getaway as you spend time in the gorgeous mountain areas. A lovely gift and craft shop will offer you just the right souvenir to remember your time here. We have the combination to take you to a different level of privacy and comfort. Come for a visit. We're confident you'll find our Southern hospitality and personal service beyond compare.
+Q191|What kind of setting does the Stoney Brook Inn offer?
+A A family setting
+B A modern setting
+C A professional setting
+D A historic setting
+Q192|What does the Stonewall Hotel NOT offer its guests?
+A An intimate setting
+B A conference area for business
+C Historic sites
+D A central location in the city
+Q193|Where is the Stonewall Hotel located?
+A On the outskirts of town
+B In a modern district
+C In the town center
+D On a quiet, private lane
+Q194|Which kinds of guests might be most interested in the Stoney Brook Inn?
+A Large families
+B Honeymooners
+C Businessmen
+D Beachgoers
+Q195|What kind of city is Laural?
+A A purely urban environment
+B A city located on the plains of the Midwest
+C A city by the Atlantic Ocean
+D A city that offers both urban and rural settings
+@T196-200|Questions 196 through 200 refer to the following letters.
+Dear Mr. Mack,
+I am an aspiring comic who has just moved to this area from New York. I am writing to express my interest in your "open-mic" night at your comedy club. Though I've done only a few acts at the London Club here in the city, I think I'm ready to give it a shot. I'm sure I'll be able to get big laughs out of your audience if I'm given a chance.
+I have no idea what the rules of your club are, and I have to admit that some of my routine is meant for an adult audience only. There might be some language that would be inappropriate for a younger, more conservative crowd. Could you give me some ideas about what I am allowed to do during my act?
+Thank you,
+Peter Tims
+————
+Dear Peter,
+Thanks for your letter. I can only offer you this standard set of rules that my club follows. So, please make sure you read them very closely.
+The Comedy Spot Comedy Club's "open-mic" policy has always been an integral part of our program. In it, we hope to feature good, up-and-coming talent. We offer our guests a show that falls within the bounds of good taste. Vulgarity, profanity, racial slurs, and X-rated humor are not tolerated on the stage.
+Please take the following suggestions into account:
+PREPARE MATERIAL—Know what you are going to talk about BEFORE you go on stage. Don't try and "wing it." It is harder than it looks. Have your material rehearsed and know it by heart. That will help.
+TIME YOURSELF—You should come prepared with 4-6 minutes of material. That is about the average.
+DRESS PROFESSIONALLY—All comics are expected to dress professionally with nice pants and a shirt. Cutoffs, sandals, and the like are not appropriate. We consider the following a good rule of thumb: if you wouldn't wear it to work, don't wear it here.
+BEHAVE PROPERLY—Comics that disregard our rules will have their microphone cut off. The host will then reenter the stage. This will happen abruptly and you will find that your show has been put to an end. So, the best advice is: DON'T DO IT.
+Best,
+Phil Mack
+Q196|What rule might possibly make Peter reconsider performing at the club?
+A The rule concerning dress code
+B The rule concerning vulgarity
+C The rule concerning time
+D The rule concerning material
+Q197|What kind of clothes should Peter wear to the club to perform?
+A Shorts and a T-shirt
+B A costume
+C A nice shirt and pants
+D A pair of cutoff jeans
+Q198|How long does Peter have to perform?
+A Five minutes exactly
+B Four minutes exactly
+C Ten to fifteen minutes
+D Four to six minutes
+Q199|Where is Peter originally from?
+A New York
+B Chicago
+C London
+D San Francisco
+Q200|What will happen to Peter if he doesn't follow the rules?
+A He will be given a new microphone.
+B The host will take over the show.
+C Someone will shout at him abruptly.
+D They will ask him for some advice.

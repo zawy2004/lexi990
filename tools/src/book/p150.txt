@@ -1,0 +1,48 @@
+#8-4
+W system|ˈsɪstəm|n.|hệ thống, chế độ, phương pháp
+E The station has a very good system for making sure the trains leave on time.|Nhà ga này có hệ thống rất tốt để bảo đảm rằng xe lửa khởi hành đúng giờ.
+R method - way - approach|n.|phương pháp
+R systematic|adj.|có hệ thống, có phương pháp
+R systematize|v.|hệ thống hóa, sắp xếp theo hệ thống
+#9-1
+W action|ˈækʃ(ə)n|n.|hành động, hành vi
+E I don't like action movies very much; there's always too much fighting.|Tôi không thích phim hành động lắm; lúc nào cũng có quá nhiều cảnh đánh nhau.
+R action hero||người hùng
+R act|v.|hành động
+W admire|ədˈmaɪə|v.|hâm mộ, ngưỡng mộ
+E I really admire this actor because all his movies are great.|Tôi thực sự hâm mộ nam diễn viên này vì tất cả phim của anh ấy đều hay.
+N cách nói thể hiện "tôn sùng (ai đó) ở mặt nào hoặc việc nào" là admire sb for N./V-ing.
+S appreciate - esteem - respect - regard|v.|khâm phục
+R admirable|adj.|đáng ngưỡng mộ, tuyệt diệu
+R admiration|n.|sự ngưỡng mộ, hâm mộ
+R admirer|n.|người hâm mộ, người ngưỡng mộ
+W collection|kəˈlekʃ(ə)n|n.|sự sưu tập, sự thu thập
+E I have a collection of nature DVDs.|Tôi có bộ sưu tập những DVD về thiên nhiên.
+R collect|v.|sưu tập, thu thập
+R collector|n.|người sưu tập
+W dialogue|ˈdaɪəlɒg|n.|cuộc đối thoại
+E There wasn't much dialogue in that new kung fu movie.|Không có nhiều cuộc đối thoại trong phim kung fu mới.
+N tiếng Anh của người Mỹ thường ghi là dialog.
+R conversation|n.|cuộc đối thoại
+A monologue|n.|độc thoại
+R dialogue box||hộp thoại
+W entertainment|ˌentəˈteɪnmənt|n.|cuộc giải trí, cuộc tiêu khiển
+E Movies are my favorite kind of entertainment.|Phim là kiểu giải trí ưa thích nhất của tôi.
+S amusement - recreation|n.|sự giải trí
+R entertain|v.|giải trí
+R entertainer|n.|người làm trò tiêu khiển
+R entertaining|adj.|làm vui lòng, làm vừa ý
+W experience|ɪkˈspɪərɪəns|n.|kinh nghiệm, trải nghiệm
+E For me, seeing a movie is a really enjoyable experience.|Đối với tôi, xem phim là một trải nghiệm thực sự thú vị.
+N có thể đi với giới từ of hoặc with; cũng có thể sử dụng như động từ.
+R experienced|adj.|từng trải, lão luyện
+R experiential|adj.|theo kinh nghiệm
+W leisure|ˈleʒə|adj.|nhàn rỗi, rảnh rỗi
+E One of my favorite leisure activities is watching movies.|Một trong những hoạt động ưa thích nhất của tôi lúc rảnh rỗi là xem phim.
+N khi là danh từ thì thể hiện "thời gian nhàn rỗi", hoặc có thể nói leisure time. at (one's) leisure thể hiện "ở thời gian nhàn rỗi (của ai đó), khi (ai đó) nhàn rỗi".
+S spare|adj.|nhàn rỗi, rảnh rỗi
+R leisure suit||quần áo thoải mái
+W release|rɪˈliːs|v.|phóng thích, phát hành, đưa ra bán
+E When will the movie be released in Taiwan?|Khi nào bộ phim này được công chiếu ở Đài Loan?
+N khi làm danh từ, nghĩa là "phát hành, công bố" hoặc "đĩa hát được phát hành", "tin tức được công bố".
+R release date||ngày phát hành

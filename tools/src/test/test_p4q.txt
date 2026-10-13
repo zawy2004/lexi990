@@ -1,0 +1,151 @@
+@P4
+Q71|C|Who is Paul Harris?
+A A radio show host
+B A webcast show host
+C An entrepreneur
+D A tech reporter
+Q72|A|What is Rapid?
+A A failed dot-com venture
+B Paul Harris' new venture
+C Paul Harris' second venture
+D A video Web site
+Q73|B|What is Talker 12?
+A A branch of Steel Communications
+B Paul Harris' new Web site
+C A very popular radio show
+D A new webcast show about technology
+Q74|A|How much time does the ad say the product will save you?
+A About sixteen hours
+B Exactly sixteen hours
+C Around seven hours
+D Exactly sixty hours
+Q75|B|How many hours does it take to develop a questionnaire to get specific information?
+A Sixteen
+B Seven
+C Seventeen
+D Seventy
+Q76|C|What makes Bust unique?
+A It can save you lots of time and money.
+B It is an easily used Microsoft Word document.
+C It can be easily adapted to work with a Microsoft Word document.
+D It can easily gather information about employers.
+Q77|B|What will Will Farber do?
+A Give a demonstration on the Internet
+B Explain how to use Web 2.0 in an organization
+C Explain Internet buzz words in an organization
+D Become an editor-in-chief
+Q78|A|What is ODNet?
+A An online magazine
+B A buzz word
+C A new collaborative tech revolution
+D A new tech-based organization
+Q79|D|What percentage of Web surfers know what Web 2.0 is?
+A Twenty percent
+B Ten percent
+C Thirteen percent
+D Thirty percent
+Q80|B|Who is Linda Livingston?
+A A movie critic
+B A psychologist
+C A team leader
+D A colleague of the speaker
+Q81|B|What bears a resemblance to the seven dwarfs?
+A Many team leaders
+B Many group members
+C The group of psychologists
+D The group of managers
+Q82|C|How does the speaker say she found out about Linda Livingston?
+A From a seminar
+B From a team meeting
+C From a colleague
+D From a film documentary
+Q83|A|How many critical elements does the author say he will review?
+A Five
+B Six
+C Four
+D Three
+Q84|D|What does the author NOT say he will provide insights into?
+A Strategic planning
+B Automation
+C Integration
+D Consolidation
+Q85|A|How can you get a copy of the author's book?
+A Through online registration
+B Through mail order only
+C Through a publisher only
+D Through a book-of-the-month club
+Q86|C|Who is Sally Malloy?
+A A salesperson
+B A bank manager
+C A bank representative
+D A telecommuter
+Q87|D|How did Ms. Walters prefer to get her bank statement?
+A By coming in to Central Union
+B By having it mailed to her
+C By entering her PIN and 7728 into the phone
+D By using Central Union's Internet service
+Q88|A|When did Ms. Walters select her PIN number?
+A During her first meeting with Sally
+B When she established her Internet account
+C When she first used the ATM services at Central
+D When she selected the 7728 account
+Q89|C|How much will the book sell for in stores?
+A $25
+B $45
+C $50
+D $100
+Q90|A|What does the book mentioned by the speaker concern?
+A How to hire suitable employees
+B Promoting within your company
+C How to write an effective resume
+D Dealing with people who put you on the spot
+Q91|A|What does the speaker say about choosing the right employees?
+A It is one of the most difficult decisions for a manager.
+B It is the most annoying task for managers.
+C It is one of the most time-consuming tasks for managers.
+D It is the least enjoyable part of being a manager.
+Q92|A|What is "Get It All, Get It Now?"
+A A radio program
+B A book
+C A magazine
+D A seminar
+Q93|B|Who is Al Preston?
+A A respected television host
+B A respected radio host
+C A well-known salesman
+D An author of top-selling books
+Q94|D|What does the speaker NOT say about Dan Conrad?
+A He has twenty years of experience.
+B He is a straight talker.
+C He is a skillful salesperson.
+D He hits below the belt when he speaks.
+Q95|B|What is ESF?
+A A camp for parents and children
+B A camp that will train children how to be leaders
+C A camp for troubled children
+D A camp that offers parents more free time with their children
+Q96|A|How old is the camp?
+A 100 years old
+B 10 years old
+C 50 years old
+D 40 years old
+Q97|B|When will the children's adventure begin?
+A Before the orientation
+B After their parents leave
+C In about two weeks
+D After a short movie introducing the camp
+Q98|D|What are "katas?"
+A Martial arts teachers
+B A name for one's opponent
+C An older style of aikido
+D Sets of movements
+Q99|C|Why does the speaker say she uses the strategy of aikido?
+A To get into better shape
+B To create a bond between employees
+C To gain an advantage over her competitors
+D To retain her position in her company
+Q100|A|What kinds of advantages does the author say her strategy gives her company?
+A Ones that can't be counted or measured
+B Ones that can be quantified and studied
+C Ones that are subtle
+D Ones that are tangible

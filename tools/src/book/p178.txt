@@ -1,0 +1,22 @@
+#10-5
+W record|ˈrekɔːd|n.|sổ sách ghi chép, hồ sơ
+E Your hospital record shows your medical history.|Hồ sơ của bệnh viện cho biết quá trình điều trị của bạn.
+N khi là động từ chỉ "ghi chép, ghi nhận, thu âm", phát âm [rɪˈkɔːd].
+R account - history|n.|bản kê khai
+W refer|rɪˈfɜː|v.|đưa đến
+E My doctor referred me to an excellent surgeon.|Bác sĩ của tôi gửi cho tôi một bác sĩ phẫu thuật giỏi.
+N cách dùng là refer sb/sth to sb.
+R referral|n.|sự hướng dẫn đến chuyên gia y học
+R reference|n.|sự tham khảo
+W regardless|rɪˈgɑːdlɪs|adv.|bất chấp, không chú ý tới
+E Your insurance must cover you regardless of your medical history.|Bảo hiểm của bạn phải chi trả cho bạn bất kể quá trình điều trị của bạn.
+N thường đi chung với of.
+W result|rɪˈzʌlt|n.|kết quả
+E The results show that everything is normal and you have nothing to worry about.|Kết quả cho thấy rằng mọi việc là bình thường và bạn không có gì phải lo lắng.
+N cũng có thể là động từ, result from thể hiện "do, bởi vì", result in thể hiện "dẫn đến...".
+W sample|ˈsɑːmp(ə)l|n.|vật mẫu, hàng mẫu
+E The nurse just needs to take a blood sample.|Y tá chỉ cần lấy mẫu máu.
+N sample cũng có thể xem là động từ, chỉ "thử, lấy mẫu".
+R blood sample||mẫu máu
+R urine sample||mẫu nước tiểu
+R free sample||hàng mẫu miễn phí

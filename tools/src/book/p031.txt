@@ -1,0 +1,64 @@
+#1-5
+W cancellation|ˌkænsəˈleɪʃ(ə)n|n.|sự hủy bỏ
+E We are sorry to inform you of the cancellation of the conference.|Chúng tôi thật tiếc phải thông báo với quý vị về việc hủy bỏ buổi hội nghị.
+A continuation|n.|sự tiếp tục
+R cancel|v.|hủy bỏ
+W gather|ˈgæðə|v.|tập trung, tụ họp
+E Thousands of managers are gathering in Taipei for the trade fair.|Hàng ngàn giám đốc đang tập trung tại Đài Loan tham dự hội chợ thương mại.
+S meet - assemble - get together||gặp gỡ, tụ họp
+A disperse - break up||giải tán
+R gathering|n.|hội, nhóm
+W hold|həʊld|v.|tổ chức
+E The meeting was held in Taipei.|Cuộc họp được tổ chức tại Đài Loan.
+N khi hold dùng với ý chỉ "tổ chức" thường dùng dạng bị động, ngoài ra, ý nghĩa thường gặp khác là "nắm giữ, bảo lưu, bảo tồn"...
+W location|ləʊˈkeɪʃ(ə)n|n.|địa điểm
+E We need to find a good location for the convention.|Chúng tôi cần tìm một địa điểm tốt để tổ chức hội nghị.
+S place - site - spot - position|n.|địa điểm, chỗ
+R locate|v.|xác định vị trí, định vị
+W productive|prəˈdʌktɪv|adj.|đạt năng suất, hiệu quả
+E I thought the discussion was very productive.|Tôi nghĩ buổi thảo luận rất thành công.
+S constructive|adj.|giúp ích
+A unproductive|adj.|không đạt năng suất
+R produce|v.|sản xuất
+R production|n.|sự sản xuất
+W session|ˈseʃ(ə)n|n.|buổi, phiên, phiên họp
+E The presentation will be given in two sessions: one in the morning, and the other in the afternoon.|Bài thuyết trình được chia thành 2 buổi: một buổi sáng và một buổi trưa.
+R training session||buổi huấn luyện
+R emergency session||cuộc họp khẩn cấp
+#1-6
+W arrangement|əˈreɪndʒmənt|n.|sự sắp xếp, sự giao kèo
+E We have a special arrangement with the supplier, so we don't have to pay immediately.|Chúng tôi có một giao kèo đặc biệt với nhà cung cấp, vì thế chúng tôi không cần thanh toán ngay.
+S agreement|n.|sự giao kèo, bản hợp đồng
+R arrange|v.|sắp xếp
+W competition|ˌkɒmpɪˈtɪʃ(ə)n|n.|sự cạnh tranh
+E It is important to know who your competition will be.|Thật quan trọng để biết ai là đối thủ cạnh tranh của bạn.
+N khi chỉ ý "cạnh tranh", là danh từ không đếm được. Khi chỉ "đối thủ cạnh tranh", tức chỉ đối thủ ở trên thương trường hay trong trận đấu, giống với "competitor".
+S competitor - rival|n.|đối thủ cạnh tranh
+R compete|v.|cạnh tranh, tranh tài
+R competitive|adj.|có tính cách cạnh tranh
+W consequence|ˈkɒnsɪkwəns|n.|hậu quả, kết quả
+E The consequence of not planning well is a business that does badly.|Hậu quả của việc không hoạch định tốt là một cuộc làm ăn thua lỗ.
+S effect - result|n.|kết quả
+R consequent|adj.|tiếp theo sau là hậu quả
+R consequently|adv.|do đó, bởi vậy
+W cover|ˈkʌvə|v.|bao gồm, bao hàm
+E A good business plan should cover everything.|Một kế hoạch kinh doanh tốt nên bao hàm mọi việc.
+N cover còn có nghĩa là "đủ để chi trả...", "đảm bảo (tổn thất)".
+S deal with - concern - include||giải quyết, bao gồm
+W designate|ˈdezɪgneɪt|v.|bổ nhiệm, chỉ định
+E We voted last night, and designated Tom the spokesman for our group.|Tối qua chúng tôi đã bầu chọn và bổ nhiệm Tom là người phát ngôn cho nhóm chúng tôi.
+R designation|n.|sự bổ nhiệm
+R designed|adj.|cố ý, có dụng ý
+W determine|dɪˈtɜːmɪn|v.|quyết định
+E We have determined both our market and price.|Chúng tôi vừa quyết định thị trường và giá cả của chúng tôi.
+S decide|v.|quyết định
+S identify|v.|nhận diện
+R determined|adj.|cương quyết
+R determination|n.|sự quyết định
+W develop|dɪˈveləp|v.|phát triển
+E We need to develop a strong sales team.|Chúng ta cần phát triển một đội bán hàng hùng mạnh.
+R development|n.|sự phát triển
+R developer|n.|người phát triển
+R developing|adj.|đang phát triển
+W downsize|ˈdaʊnsaɪz|v.|cắt giảm nhân công
+E With the economy having problems, a lot of companies have been forced to downsize to stay competitive.|Khi nền kinh tế đang gặp khó khăn, nhiều công ty buộc phải cắt giảm nhân công để duy trì khả năng cạnh tranh.

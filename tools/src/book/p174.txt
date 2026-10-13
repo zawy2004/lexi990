@@ -1,0 +1,67 @@
+#10-4
+W annually|ˈænjʊəli|adv.|hằng năm
+E I annually go for checkups at my clinic.|Tôi đi kiểm tra sức khỏe tổng quát hằng năm.
+S yearly|adv.|hằng năm
+R annual|adj.|hằng năm
+W concern|kənˈsɜːn|v.|lo lắng, quan tâm
+E I was a little concerned about the pain in my arm.|Tôi hơi lo lắng cho cái đau trên cánh tay.
+N dạng câu thường dùng be concerned about hoặc be concerned + mệnh đề that.
+S disturb - bother - worry - upset|v.|lo lắng
+R concerned|adj.|lo lắng
+R concerning|prep.|liên quan đến ai/cái gì
+W evident|ˈevɪdənt|adj.|hiển nhiên, rành rành
+E It was evident that she had not been taking good care of herself.|Rõ ràng cô ấy không tự chăm sóc mình tốt.
+S apparent - obvious - clear|adj.|rõ ràng, hiển nhiên
+R evidence|n.|chứng cớ, bằng chứng
+W identify|aɪˈdentɪfaɪ|v.|nhận ra, nhận diện
+E I hope the clinic can identify the problem.|Tôi hy vọng dưỡng đường này có thể nhận ra vấn đề.
+N cách dùng là identify A as B (xác định A như B).
+S distinguish - recognize - single out - determine||phân biệt, nhận biết
+R identification|n.|sự nhận diện
+W usually|ˈjuːʒʊəli|adv.|thường thường, thông thường
+E It usually takes a few days to get the results of the test.|Thường mất vài ngày mới có kết quả xét nghiệm.
+S generally - normally - typically|adv.|thông thường
+R usual|adj.|thông thường
+#10-5
+W admit|ədˈmɪt|v.|nhận vào, cho vào
+E He's been admitted to the hospital for a few days.|Anh ấy được cho nhập viện vài ngày.
+N be admitted to (the) hospital chỉ "nhập viện"; ngược lại "xuất viện" là be discharged from (the) hospital.
+R admission|n.|sự vào hoặc được nhận vào
+W allow|əˈlaʊ|v.|cho phép
+E They don't allow you to smoke in the hospital.|Họ không cho phép bạn hút thuốc trong bệnh viện.
+N cách dùng allow sb to V. hoặc allow sb sth.
+S permit|v.|cho phép
+A forbid - ban - prohibit|v.|cấm
+R allowable|adj.|được cho phép
+R allowance|n.|sự thừa nhận, sự công nhận
+W alternative|ɔːlˈtɜːnətɪv|n.|sự thay thế, sự chọn lựa khác
+E I don't want to go to the hospital. Are there any alternatives?|Tôi không muốn đến bệnh viện. Có cách nào khác không?
+N dùng alternative to sth khi thể hiện "ngoài sự lựa chọn...". Còn có thể làm tính từ, chỉ "lựa chọn (một trong hai), thay phiên nhau".
+S replacement|n.|sự thay thế
+S choice - option|n.|sự lựa chọn
+R alternative medicine||thuốc thay thế
+R alternative energy||năng lượng thay thế
+W control|kənˈtrəʊl|n.|sự kiểm soát
+E The doctor has brought the boy's fever under control.|Bác sĩ đã kiểm soát được bệnh sốt của cậu bé.
+R controllable|adj.|có thể kiểm soát
+R controlled|adj.|được kiểm soát
+W detect|dɪˈtekt|v.|phát hiện, khám phá ra
+E They have detected a problem with his blood.|Họ phát hiện ra máu của anh ấy có vấn đề.
+S find (out) - discover - notice|v.|khám phá
+A miss - overlook|v.|bỏ qua
+R detection|n.|sự phát hiện, sự khám phá ra
+R detectable|adj.|có thể phát hiện ra
+R detective|n., adj.|thám tử, trinh thám
+R detector|n.|người khám phá ra, máy dò
+W diagnose|ˈdaɪəgnəʊz|v.|chẩn đoán
+E The woman was diagnosed with cancer.|Người phụ nữ được chẩn đoán mắc bệnh ung thư.
+N "chẩn đoán ai đó mắc bệnh gì đó" là diagnose sb with/as (having) sth, "chẩn đoán tình trạng nào đó của bệnh nào đó" là diagnose sth as sth.
+R diagnosis|n.|sự chẩn đoán
+R diagnostic|adj.|chẩn đoán
+W monitor|ˈmɒnɪtə|v.|giám sát, trông coi
+E They are monitoring his condition.|Họ đang giám sát tình trạng của anh ấy.
+N khi là danh từ chỉ "máy giám sát".
+S watch - keep an eye on||giám sát
+W recommendation|ˌrekəmenˈdeɪʃ(ə)n|n.|sự đề nghị, sự gợi ý
+E I underwent the operation on my doctor's recommendation.|Tôi phải trải qua ca phẫu thuật theo đề nghị của bác sĩ.
+R recommend|v.|đề nghị, gợi ý

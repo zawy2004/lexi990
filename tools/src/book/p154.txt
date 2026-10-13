@@ -1,0 +1,80 @@
+#9-2
+W audience|ˈɔːdɪəns|n.|khán giả, thính giả
+E The audience enjoyed the play.|Khán giả thích vở kịch này.
+N là danh từ tổng hợp. Nếu muốn chỉ "một vị khán giả" thì phải nói a member of the audience. Ngoài ra, khán giả xem trận đấu thể thao được gọi là spectators hoặc the crowd.
+R auditorium|n.|thính phòng
+W continue|kənˈtɪnjuː|v.|tiếp tục
+E The show will continue after the break.|Buổi diễn này sẽ tiếp tục sau giờ giải lao.
+S resume - restart|v.|tiếp tục
+A discontinue|v.|gián đoạn
+R continuous|adj.|liên tục, không ngừng
+R continuously|adv.|liên tục
+R continuity|n.|sự liên tục, liên tiếp
+W criticism|ˈkrɪtɪsɪz(ə)m|n.|lời phê bình, sự phê bình
+E The theater came under criticism for allowing people to smoke.|Nhà hát này bị phê bình vì cho phép người xem hút thuốc.
+R criticize|v.|phê bình, bình phẩm
+R critic|n.|nhà phê bình
+R critical|adj.|bình phẩm, phê bình
+W occur|əˈkɜː|v.|xảy ra, diễn ra, xuất hiện
+E The opening of the new theater should occur this summer.|Buổi khai trương nhà hát mới sẽ diễn ra vào mùa hè này.
+S happen - take place||xảy ra, diễn ra
+R occurrence|n.|sự kiện, chuyện xảy ra
+W perform|pəˈfɔːm|v.|biểu diễn, trình diễn, cử hành
+E The actors performed really well.|Các diễn viên diễn thật sự hay.
+S act - play|v.|diễn
+R perform well/poorly/satisfactorily||biểu diễn hay/tệ/một cách hài lòng
+R performance|n.|buổi biểu diễn, buổi trình diễn
+R performer|n.|người biểu diễn
+W rehearse|rɪˈhɜːs|v.|nhắc lại, diễn tập
+E We need to rehearse more because we still haven't got it quite right.|Chúng ta cần diễn tập nhiều hơn bởi vì chúng ta vẫn chưa diễn đúng lắm.
+R rehearsal|n.|sự nhắc lại, sự diễn tập
+W schedule|ˈskedjuːl|v.|dự định, lên kế hoạch
+E The play is scheduled to begin next Friday.|Vở kịch này dự định bắt đầu vào thứ Sáu tới.
+N khi làm động từ thường dưới dạng bị động: be scheduled to V. hoặc be scheduled for N. Khi làm danh từ chỉ "biểu thời gian, bảng phụ lục".
+W successive|səkˈsesɪv|adj.|liên tục, liên tiếp, lần lượt
+E This Christmas play has been shown here for four successive years.|Vở kịch Giáng Sinh này được diễn ở đây 4 năm liên tiếp.
+S consecutive - sequential|adj.|liên tục, liên tiếp
+R succeed|v.|thành công
+R successively|adv.|liên tục, liên tiếp, lần lượt
+R succession|n.|sự kế tiếp, sự kế vị
+R by succession||kế vị, nối ngôi
+#9-3
+W available|əˈveɪləb(ə)l|adj.|sẵn có để dùng, có hiệu lực
+E The CD will be available in stores next month.|Đĩa CD này sẽ có trong cửa hàng vào tháng tới.
+S accessible - obtainable|adj.|sử dụng được
+A unavailable - inaccessible - unobtainable|adj.|không dùng được
+R freely/easily available||miễn phí/dễ dàng sử dụng
+W category|ˈkætɪgəri|n.|loại
+E His music is so different that it can't be put into just one category.|Nhạc của anh ấy rất khác đến nỗi không thể xếp nó vào một loại nào.
+S class - group - kind - type|n.|loại
+R categorize|v.|chia loại, phân loại
+R categorization|n.|sự phân loại
+W combine|kəmˈbaɪn|v.|kết hợp, phối hợp
+E His songs combine jazz with traditional music.|Những bài hát của anh ấy phối hợp giữa nhạc jazz và nhạc dân tộc.
+N cách dùng thường gặp combine A with B.
+S blend - mix - merge - incorporate - integrate|v.|kết hợp, phối hợp
+A break down - break up - separate||giải tán, phân chia
+R combination|n.|sự kết hợp, phối hợp
+W disparate|ˈdɪspərət|adj.|khác hẳn, khác loại
+E She has taken two disparate music styles and made them work very well together.|Cô ấy chơi 2 thể loại nhạc khác nhau và kết hợp chúng rất hay.
+S different - diverse - distinct|adj.|khác nhau
+A same - similar - parallel|adj.|giống nhau
+R disparity|n.|sự khác biệt
+W element|ˈelɪmənt|n.|yếu tố
+E Loud drums are just one element of the band's style.|Trống âm thanh lớn chỉ là một yếu tố trong phong cách của ban nhạc.
+S component - factor|n.|yếu tố, nhân tố
+R elementary|adj.|sơ cấp, sơ đẳng
+W fashion|ˈfæʃ(ə)n|n.|mốt, thời trang
+E Rock music isn't in fashion anymore.|Nhạc rock không còn hợp thời nữa.
+R fashionable|adj.|đúng mốt, hợp thời trang
+W impact|ˈɪmpækt|n.|sự ảnh hưởng, tác động
+E Her music has had quite an impact on the world.|Nhạc của cô ấy rất có ảnh hưởng trên thế giới.
+N khi chỉ "có ảnh hưởng đến..." dùng cách nói have an impact on; impact cũng có thể là động từ.
+S effect - influence - sway|n.|ảnh hưởng, tác động
+R adverse/profound/significant/major impact||tác động bất lợi/sâu sắc/đáng kể/chính yếu
+R soften/lessen an impact||làm giảm tác động
+W influence|ˈɪnflʊəns|v.|tác động, ảnh hưởng
+E He was influenced by Japanese pop music.|Anh ấy bị ảnh hưởng bởi nhạc pop Nhật Bản.
+N khi thể hiện "ảnh hưởng ai đó làm việc gì đó", dùng influence sb to V; influence cũng có thể là danh từ.
+S affect - impact|v.|tác động, ảnh hưởng
+R influential|adj.|có ảnh hưởng, có sức thuyết phục

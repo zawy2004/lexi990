@@ -1,0 +1,648 @@
+#1|Contracts|Hợp đồng
+abide by|v|to comply with, to conform|tuân theo, tuân thủ|
+agreement|n|a mutual arrangement, a contract|sự thỏa thuận, hợp đồng|agree (v), agreeable (adj)
+assurance|n|a guarantee, confidence|sự bảo đảm, sự chắc chắn|
+cancel|v|to annul, to call off|hủy bỏ|
+determine|v|to find out, to influence|xác định, quyết định|
+engage|v|to hire, to involve|thuê, tham gia, thu hút|
+establish|v|to institute permanently, to bring about|thành lập, thiết lập|
+obligate|v|to bind legally or morally|bắt buộc, ràng buộc|obligation (n), obligatory (adj)
+party|n|a person or group participating in an action or plan; the persons or sides concerned in a legal matter|bên (tham gia hợp đồng), đương sự|
+provision|n|a measure taken beforehand, a stipulation|điều khoản, sự dự phòng, sự cung cấp|provide (v), provider (n)
+resolve|v|to deal with successfully, to declare|giải quyết, quyết tâm|
+specify|v|to mention explicitly|ghi rõ, chỉ rõ|specification (n), specific (adj)
+#2|Marketing|Tiếp thị
+attract|v|to draw by appeal|thu hút, hấp dẫn|attraction (n), attractive (adj)
+compare|v|to examine similarities and differences|so sánh|comparison (n), comparable (adj)
+compete|v|to strive against a rival|cạnh tranh, tranh đua|competition (n), competitive (adj)
+consume|v|to absorb, to use up|tiêu thụ, tiêu dùng|consumer (n), consumable (adj)
+convince|v|to bring to believe by argument, to persuade|thuyết phục|
+current|adj|happening or existing at the present time|hiện tại, đang thịnh hành|currently (adv)
+fad|n|a practice followed enthusiastically for a short time, a craze|mốt nhất thời|
+inspire|v|to spur on, to stimulate imagination or emotion|truyền cảm hứng|inspiration (n)
+market|v|to buy and sell a product; (n) the demand for a product|tiếp thị, thị trường|marketing (n), marketable (adj)
+persuade|v|to move by argument or logic|thuyết phục|persuasion (n), persuasive (adj)
+productive|adj|constructive, high yield|năng suất, hiệu quả|productivity (n)
+satisfy|v|to make happy|làm hài lòng, thỏa mãn|satisfaction (n), satisfactory (adj)
+#3|Warranties|Sự bảo hành
+characteristic|adj|revealing of individual traits|đặc trưng, đặc thù; (n) nét đặc trưng|
+consequence|n|that which follows necessarily|hậu quả, kết quả|
+consider|v|to think about carefully|cân nhắc, xem xét|consideration (n), considerable (adj)
+cover|v|to provide protection against|bao gồm, bảo hiểm cho, chi trả|coverage (n)
+expire|v|to come to an end|hết hạn, hết hiệu lực|expiration (n)
+frequently|adv|occurring commonly, widespread|thường xuyên|frequent (adj), frequency (n)
+imply|v|to indicate by inference|ngụ ý, hàm ý|implication (n)
+promise|v|to pledge to do, bring about, or provide|hứa, hứa hẹn; (n) lời hứa|
+protect|v|to guard|bảo vệ|protection (n), protective (adj)
+reputation|n|the overall quality of character|danh tiếng, uy tín|reputable (adj), reputed (adj)
+require|v|to deem necessary or essential|yêu cầu, đòi hỏi|requirement (n), requisite (adj)
+vary|v|to be different from another, to change|thay đổi, khác nhau|variety (n), various (adj)
+#4|Business Planning|Kế hoạch kinh doanh
+address|v|to direct to the attention of|giải quyết, đề cập đến; (n) địa chỉ|
+avoid|v|to stay clear of, to keep from happening|tránh, ngăn ngừa|avoidance (n)
+demonstrate|v|to show clearly and deliberately, to present by example|chứng minh, trình bày, biểu diễn|demonstration (n), demonstrative (adj)
+develop|v|to expand, progress, or improve|phát triển|development (n), developer (n)
+evaluate|v|to determine the value or impact of|đánh giá|evaluation (n), evaluator (n)
+gather|v|to accumulate, to conclude|thu thập, tập hợp|gathering (n)
+offer|v|to propose, to present in order to meet a need or satisfy a requirement|đề nghị, cung cấp; (n) lời đề nghị|
+primary|adj|most important, first in a list, series, or sequence|chính, chủ yếu, hàng đầu|primarily (adv)
+risk|n|the chance of loss or damage|rủi ro|risky (adj)
+strategy|n|a plan of action|chiến lược|strategize (v), strategic (adj)
+strong|adj|powerful, economically or financially sound|mạnh, vững mạnh|strength (n), strengthen (v)
+substitute|v|to take the place of another|thay thế; (n) vật/người thay thế|substitution (n)
+#5|Conferences|Hội nghị
+accommodate|v|to fit, to provide with something needed|chứa được, đáp ứng, cung cấp chỗ ở|accommodation (n), accommodating (adj)
+arrangement|n|the plan or organization|sự sắp xếp, sự bố trí|arrange (v)
+association|n|an organization of persons or groups having a common interest|hiệp hội, sự liên kết|associate (v)
+attend|v|to go to, to pay attention to|tham dự, chú ý|attendee (n), attendance (n)
+get in touch|v|to make contact with|liên lạc với|
+hold|v|to accommodate; to conduct|tổ chức, chứa được|
+location|n|a position or site|địa điểm, vị trí|locate (v)
+overcrowded|adj|too crowded|quá đông, chật ních|
+register|v|to record|đăng ký, ghi danh|register (n), registration (n)
+select|v|to choose from a group|lựa chọn|selection (n), selective (adj)
+session|n|a meeting|phiên họp, buổi họp|
+take part in|v|to join or participate|tham gia|
+#6|Computers|Máy tính
+access|v|to obtain, to gain entry|truy cập, tiếp cận|access (n), accessible (adj)
+allocate|v|to designate for a specific purpose|phân bổ, chỉ định|allocation (n)
+compatible|adj|able to function together|tương thích|compatibility (n)
+delete|v|to remove; to erase|xóa|deletion (n)
+display|n|what is visible on a monitor; (v) to show|màn hình hiển thị; (v) trưng bày, hiển thị|
+duplicate|v|to produce something equal; to make identical|sao chép, nhân bản|duplicate (n), duplication (n)
+fail|v|not to succeed; not to work correctly|thất bại, hỏng|failure (n), fallible (adj)
+figure out|v|to understand, to solve|hiểu ra, tìm ra|
+ignore|v|not to notice; to disregard|phớt lờ, làm ngơ|
+search|v|to look for; (n) investigation|tìm kiếm; (n) sự tìm kiếm|
+shut down|v|to turn off; to cease operation|tắt máy, ngừng hoạt động|
+warn|v|to alert; to tell about a danger or problem|cảnh báo|warning (n), warning (adj)
+#7|Office Technology|Công nghệ văn phòng
+affordable|adj|able to be paid for; not too expensive|giá cả phải chăng|afford (v)
+as needed|adv|as necessary|khi cần|
+be in charge of|v|to be in control or command of|phụ trách, chịu trách nhiệm|
+capacity|n|the ability to contain or hold; the maximum that something can hold|sức chứa, công suất, năng lực|
+durable|adj|sturdy, strong, lasting|bền, lâu bền|durability (n)
+initiative|n|the first step; an active role|sáng kiến, sự chủ động|initiate (v), initiation (n)
+physical|adj|perceived by the senses|thuộc về vật chất, thể chất|
+provider|n|a supplier|nhà cung cấp|provide (v), provision (n)
+recur|v|to occur again or repeatedly|tái diễn, lặp lại|recurrence (n), recurring (adj)
+reduction|n|a lessening, a decrease|sự giảm bớt|reduce (v), reducible (adj)
+stay on top of|v|to know what is going on; to know the latest information|nắm bắt kịp thời, theo sát|
+stock|n|a supply; (v) to keep on hand|hàng tồn kho; (v) trữ hàng|
+#8|Office Procedures|Quy trình văn phòng
+appreciate|v|to recognize, understand the importance of; to be thankful for|đánh giá cao, cảm kích|appreciation (n), appreciative (adj)
+be exposed to|v|to become aware of; to gain experience in|được tiếp xúc với, tiếp cận với|exposure (n)
+bring in|v|to hire or recruit; to cause to appear|tuyển vào, đưa vào|
+casual|adj|informal|thông thường, không trang trọng|casually (adv)
+code|n|rules of behavior|quy tắc, bộ luật|
+glimpse|n|a quick look|cái nhìn thoáng qua|
+made of|v|to consist of|được làm bằng, gồm có|
+out of|adj|no longer having, missing|hết, cạn|
+outdated|adj|obsolete; not currently in use|lỗi thời, lạc hậu|
+practice|n|method of doing something|thông lệ, cách làm, sự thực hành|practice (v), practical (adj)
+reinforce|v|to strengthen, support|củng cố, tăng cường|reinforcement (n)
+verbal|adj|oral|bằng lời nói|verbalize (v), verbally (adv)
+#9|Electronics|Điện tử
+disk|n|an object used to store digital information|đĩa (lưu trữ)|
+facilitate|v|to make easier|tạo điều kiện thuận lợi|facilitation (n)
+network|n|an interconnected group or system|mạng lưới|network (v)
+popularity|n|the state of being widely admired or sought|sự phổ biến, được ưa chuộng|popularize (v), popular (adj)
+process|n|a series of operations or actions to bring about a result|quá trình, quy trình|process (v)
+replace|v|to put back in a former place or position|thay thế|replacement (n), replaceable (adj)
+revolution|n|a sudden or momentous change in a situation|cuộc cách mạng|revolutionize (v), revolutionary (adj)
+sharp|adj|abrupt or acute; smart|sắc, đột ngột, thông minh|sharply (adv)
+skill|n|developed ability|kỹ năng|skilled (adj)
+software|n|the programs for a computer|phần mềm|
+storage|n|the safekeeping of goods or information|sự lưu trữ, kho chứa|store (v)
+technical|adj|special skill or knowledge|thuộc về kỹ thuật, chuyên môn|technician (n)
+#10|Correspondence|Thư tín
+assemble|v|to put together; to bring together|lắp ráp, tập hợp|assembly (n)
+beforehand|adv|early, in advance|trước, sẵn sàng trước|
+complicated|adj|not easy to understand|phức tạp|complicate (v), complication (n)
+courier|n|a messenger, a delivery service|người đưa thư, dịch vụ chuyển phát|
+express|adj|fast and direct|nhanh, hỏa tốc|
+fold|v|to bend paper|gấp lại|
+layout|n|a format; the organization of material on a page|cách bố trí, bố cục|
+mention|v|to refer to; (n) something read or written|đề cập, nhắc đến|mention (n), mentionable (adj)
+petition|n|a formal, written request; (v) to make a formal request|đơn kiến nghị|
+proof|v|to look for errors|đọc soát lỗi; (n) bằng chứng|proofreader (n)
+registered|adj|recorded and tracked|(gửi) bảo đảm, đã đăng ký|registration (n), registered (adj)
+revise|v|to rewrite|sửa lại, chỉnh sửa|revision (n)
+#11|Job Advertising and Recruiting|Quảng cáo và tuyển dụng việc làm
+abundant|adj|plentiful, in large quantities|dồi dào, phong phú|abundance (n)
+accomplishment|n|an achievement, a success|thành tựu, thành tích|accomplish (v), accomplished (adj)
+bring together|v|to join, to gather|tập hợp lại, kết nối|
+candidate|n|one being considered for a position, office|ứng viên|
+come up with|v|to plan, to invent, to think of|nghĩ ra, đưa ra (ý tưởng)|
+commensurate|adj|in proportion to, corresponding, equal to|tương xứng, tương ứng|
+match|n|a fit, a similarity|sự phù hợp; (v) khớp với|
+profile|n|a group of characteristics or traits|hồ sơ, sơ lược tiểu sử|
+qualifications|n|requirements, qualities, or abilities needed for something|trình độ chuyên môn, năng lực|qualify (v), qualified (adj)
+recruit|v|to attract people to join an organization or a cause|tuyển dụng|recruitment (n), recruiter (n)
+submit|v|to present for consideration|nộp, đệ trình|submission (n), submittal (n)
+time-consuming|adj|taking up a lot of time|tốn thời gian|
+#12|Applying and Interviewing|Ứng tuyển và phỏng vấn
+ability|n|a skill, a competence|khả năng, năng lực|able (adj)
+apply|v|to look for; to submit an application|nộp đơn, ứng tuyển, áp dụng|applicant (n), application (n)
+background|n|a person's experience|lý lịch, kinh nghiệm, nền tảng|
+be ready for|v|to be prepared|sẵn sàng cho|
+call in|v|to request|mời đến, gọi đến|
+confidence|n|a belief in one's ability|sự tự tin|confident (adj), confidently (adv)
+constantly|adv|on a continual basis, happening all the time|liên tục, luôn luôn|constant (adj)
+expert|n|a specialist|chuyên gia|expertise (n), expert (adj)
+follow up|v|to take additional steps, to continue|theo dõi, tiếp tục xử lý|follow-up (n)
+hesitate|v|to pause, to be reluctant|do dự, lưỡng lự|hesitation (n)
+present|v|to introduce, to show, to offer for consideration|trình bày, giới thiệu|presentation (n), presentable (adj)
+weakness|n|a fault, a quality lacking strength|điểm yếu, nhược điểm|weak (adj)
+#13|Hiring and Training|Thuê mướn và đào tạo
+conduct|v|to hold, to take place, to behave|tiến hành, thực hiện|
+generate|v|to create, to produce|tạo ra, sinh ra|generation (n)
+hire|v|to employ, to offer a job or position|thuê, tuyển|hire (n), hiring (n)
+keep up with|v|to stay equal with|theo kịp, bắt kịp|
+look up to|v|to admire, to think highly of|ngưỡng mộ, kính trọng|
+mentor|n|a person who guides|người cố vấn, người hướng dẫn|mentoring (n)
+on track|adj|on schedule|đúng tiến độ|
+reject|v|to turn down, to say no|từ chối, bác bỏ|rejection (n)
+set up|v|to establish, to arrange|thiết lập, sắp đặt|setup (n)
+success|n|reaching a goal|sự thành công|succeed (v), successful (adj)
+training|n|the preparation or education for a specific job|sự đào tạo, huấn luyện|trainer (n), trainee (n)
+update|v|to make current; (n) the latest information|cập nhật; (n) thông tin mới nhất|
+#14|Salaries and Benefits|Lương và phúc lợi
+basis|n|the main reason for something, a base or foundation|cơ sở, nền tảng|base (v)
+be aware of|v|to be conscious of, to be knowledgeable about|nhận thức được, biết về|awareness (n)
+benefit|n|the advantages provided to an employee in addition to salary|phúc lợi, lợi ích|benefit (v), beneficial (adj)
+compensate|v|to pay, to make up for|bồi thường, đền bù, trả công|compensation (n), compensatory (adj)
+delicate|adj|sensitive|tế nhị, nhạy cảm, mỏng manh|delicately (adv)
+eligible|adj|able to participate in something, qualified|đủ điều kiện, đủ tư cách|eligibility (n)
+flexible|adj|not rigid, able to change easily|linh hoạt|flexibility (n)
+negotiate|v|to talk for the purpose of reaching an agreement, especially on prices or contracts|đàm phán, thương lượng|negotiation (n), negotiator (n)
+raise|n|an increase in salary|sự tăng lương; (v) nâng lên|
+retire|v|to stop working, to withdraw from a business or profession|nghỉ hưu|retirement (n), retired (adj)
+vested|adj|absolute, authorized|được bảo đảm, được trao quyền (hợp pháp)|
+wage|n|the money paid for work done, usually hourly|tiền công, tiền lương (theo giờ)|
+#15|Promotions, Pensions and Awards|Thăng chức, lương hưu và giải thưởng
+achieve|v|to succeed, to reach a goal|đạt được, giành được|achievement (n), achiever (n)
+contribute|v|to add to, to donate, to give|đóng góp|contribution (n), contributor (n)
+dedication|n|a commitment to something|sự cống hiến, tận tụy|dedicate (v), dedicated (adj)
+look forward to|v|to anticipate, to be eager for something to happen|mong đợi, háo hức chờ|
+look to|v|to depend on, to rely on|trông cậy vào, dựa vào|
+loyal|adj|faithful, believing in something or somebody|trung thành|loyalty (n)
+merit|n|excellence, high quality|công lao, giá trị, thành tích|merit (v)
+obvious|adj|easy to see or understand|rõ ràng, hiển nhiên|obviously (adv)
+productive|adj|useful, getting a lot done|năng suất, có hiệu quả|productivity (n)
+promote|v|to give someone a better job; to support, to make known|thăng chức; quảng bá|promotion (n), promoter (n)
+recognition|n|credit, praise for doing something well|sự công nhận, khen ngợi|recognize (v)
+value|n|worth|giá trị|value (v), valuable (adj)
+#16|Shopping|Mua sắm
+bargain|n|something offered or acquired at a price advantageous to the buyer|món hời; (v) mặc cả|
+bear|v|to have a tolerance for, to endure|chịu đựng|
+behavior|n|the manner of one's action|hành vi, cách cư xử|behave (v)
+checkout|n|the act, time, or place of checking out, as at a hotel or a supermarket|quầy thanh toán, sự trả phòng|
+comfort|n|a condition or feeling of pleasurable ease, well-being, and contentment|sự thoải mái, tiện nghi|comfortable (adj), comfortably (adv)
+expand|v|to increase the size, volume, quantity, or scope of; to enlarge|mở rộng|expansion (n), expanded (adj)
+explore|v|to investigate systematically|khám phá, khảo sát|exploration (n), exploratory (adj)
+item|n|a single article or unit|món hàng, mặt hàng, khoản mục|
+mandatory|adj|required or commanded, obligatory|bắt buộc|
+merchandise|n|items available in stores|hàng hóa|merchandising (n)
+strict|adj|precise, exact|nghiêm ngặt, khắt khe|strictness (n), strictly (adv)
+trend|n|the current style|xu hướng|trendy (adj)
+#17|Ordering Supplies|Đặt mua vật tư
+diverse|adj|different; made up of distinct qualities|đa dạng|diversify (v), diversity (n)
+enterprise|n|a business; a large project|doanh nghiệp, dự án lớn|
+essential|adj|indispensable, necessary|thiết yếu, cần thiết|essentially (adv)
+everyday|adj|common, ordinary|hằng ngày, thông thường|
+function|v|to perform tasks|hoạt động, vận hành; (n) chức năng|function (n), functional (adj)
+maintain|v|to continue, to support, to sustain|duy trì, bảo trì|maintenance (n), maintainable (adj)
+obtain|v|to acquire|đạt được, có được|obtainable (adj)
+prerequisite|n|something that is required or necessary as a prior condition|điều kiện tiên quyết|
+quality|n|a distinguishing characteristic|chất lượng, phẩm chất|
+smooth|adj|without difficulties; deliberately polite and agreeable in order to win favor|suôn sẻ, trôi chảy|smooth out (v), smoothly (adv)
+source|n|the origin|nguồn, nguồn gốc|
+stationery|n|writing paper and envelopes|văn phòng phẩm|
+#18|Shipping|Vận chuyển
+accurate|adj|exact; errorless|chính xác|accuracy (n), accurately (adv)
+carrier|n|a person or business that transports passengers or goods|hãng vận chuyển, người vận chuyển|carry (v)
+catalog|n|a list or itemized display; (v) to make an itemized list of|danh mục, ca-ta-lô|
+fulfill|v|to finish completely|hoàn thành, thực hiện (đơn hàng, yêu cầu)|fulfillment (n)
+integral|adj|necessary for completion|không thể thiếu, thiết yếu|
+inventory|n|goods in stock; an itemized record of these goods|hàng tồn kho, bản kiểm kê|
+minimize|v|to reduce, to give less importance to|giảm thiểu|minimal (adj), minimum (n)
+on hand|adj|available|có sẵn|
+remember|v|to think of again|nhớ, ghi nhớ|
+ship|v|to transport; to send|vận chuyển, gửi hàng|shipper (n), shipment (n)
+sufficient|adj|as much as is needed|đủ|sufficiently (adv)
+supply|v|to make available for use|cung cấp; (n) nguồn cung, vật tư|supplier (n)
+#19|Invoices|Hóa đơn
+charge|n|an expense or a cost; (v) to demand payment|phí; (v) tính phí|
+compile|v|to gather together from several sources|biên soạn, tổng hợp|compilation (n)
+customer|n|one who purchases a commodity or service|khách hàng|
+discount|n|a reduction in price; (v) to reduce in price|sự giảm giá|
+efficient|adj|acting or producing effectively with a minimum of waste|hiệu quả, năng suất|efficiency (n)
+estimate|v|to approximate the amount or value of something; to form an opinion about something|ước tính; (n) bản ước tính|estimation (n)
+impose|v|to establish or apply as compulsory; to force upon others|áp đặt, đánh (thuế)|imposition (n), imposing (adj)
+mistake|n|an error or a fault|lỗi, sai lầm|mistaken (adj)
+order|n|a request made to purchase something; (v) to command or direct|đơn đặt hàng; (v) đặt hàng|
+promptly|adv|on time, punctually, without delay|ngay lập tức, đúng giờ|prompt (adj), promptness (n)
+rectify|v|to set right or correct|sửa chữa, khắc phục|
+terms|n|conditions|điều khoản, điều kiện|
+#20|Inventory|Kiểm kê hàng hóa
+adjust|v|to change in order to match or fit, to cause to correspond|điều chỉnh|adjustment (n), adjustable (adj)
+automatic|adj|operating independently|tự động|automation (n), automatically (adv)
+crucial|adj|extremely significant or important|cực kỳ quan trọng|
+discrepancy|n|a divergence or disagreement|sự chênh lệch, không khớp|
+disturb|v|to interfere with, to interrupt|làm phiền, quấy rầy|disturbance (n), disturbingly (adv)
+liability|n|an obligation, a responsibility|trách nhiệm pháp lý, khoản nợ|liable (adj)
+reflect|v|to give back a likeness|phản ánh|reflection (n), reflector (n)
+run|v|to operate|vận hành, điều hành|
+scan|v|to look over quickly|quét, xem lướt|scanner (n)
+subtract|v|to take away, to deduct|trừ đi, khấu trừ|subtraction (n)
+tedious|adj|tiresome by reason of length, slowness, or dullness; boring|tẻ nhạt, chán ngắt|
+verify|v|to prove the truth of|xác minh, kiểm chứng|verification (n)
+#21|Banking|Ngân hàng
+accept|v|to receive, to respond favorably|chấp nhận|acceptance (n), acceptable (adj)
+balance|n|the remainder; (v) to compute the difference between credits and debits of an account|số dư (tài khoản); (v) cân đối|
+borrow|v|to use temporarily|vay, mượn|borrower (n)
+cautious|adj|careful, wary|thận trọng|caution (n)
+deduct|v|to take away from a total, to subtract|khấu trừ|deductible (adj), deduction (n)
+dividend|n|a share in a distribution|cổ tức|
+down payment|n|an initial partial payment|tiền đặt cọc, khoản trả trước|
+mortgage|n|the amount due on a property; (v) to borrow money with your house as collateral|khoản vay thế chấp; (v) thế chấp|
+restricted|adj|limited|bị hạn chế|restrict (v), restriction (n)
+signature|n|the name of a person written by that person|chữ ký|sign (v)
+take out|v|to withdraw, to remove|rút (tiền), lấy ra|
+transaction|n|a business deal|giao dịch|transact (v)
+#22|Accounting|Kế toán
+accounting|n|the recording and gathering of financial information for a company|kế toán, công tác kế toán|accountant (n), account (n)
+accumulate|v|to gather, to collect|tích lũy|accumulation (n), accumulated (adj)
+asset|n|something of value|tài sản|
+audit|n|a formal examination of financial records; (v) to examine the financial records|cuộc kiểm toán; (v) kiểm toán|auditor (n)
+budget|n|a list of probable expenses and income for a given period|ngân sách|budget (v), budgetary (adj)
+build up|v|to increase over time|tích tụ, tăng dần|buildup (n)
+client|n|a customer|khách hàng|
+debt|n|something owed, as in money or goods|khoản nợ|debtor (n)
+outstanding|adj|still due, not paid or settled|chưa thanh toán, tồn đọng; nổi bật|
+profitable|adj|advantageous, beneficial|có lãi, sinh lời|profit (n,v)
+reconcile|v|to make consistent|đối chiếu (sổ sách), hòa giải|reconciliation (n)
+turnover|n|the number of times a product is sold and replaced, or an employee leaves and another is hired|doanh thu, tỷ lệ thay thế nhân viên|
+#23|Investments|Đầu tư
+aggressive|adj|competitive, assertive|năng nổ, táo bạo, quyết liệt|aggressively (adv)
+attitude|n|a feeling about something or someone|thái độ|
+commit|v|to promise, to pledge|cam kết|commitment (n), noncommittal (adj)
+conservative|adj|cautious, restrained|thận trọng, bảo thủ|
+fund|n|an amount of money for something specific; (v) to provide money for|quỹ; (v) tài trợ|funding (n)
+invest|v|to put money into a business or activity with the hope of making more money; to put effort into something|đầu tư|investment (n), investor (n)
+long-term|adj|involving or extending over a long period|dài hạn|
+portfolio|n|a list of investments|danh mục đầu tư, hồ sơ năng lực|
+pull out|v|to withdraw, to stop participating; (n) a withdrawal, removal|rút ra, rút lui|
+resource|n|assets, valuable things|nguồn lực, tài nguyên|
+return|n|the amount of money gained as profit|lợi nhuận thu về; (v) trả lại|returns (n), returnable (adj)
+wise|adj|knowledgeable, able to offer advice based on experience|khôn ngoan, sáng suốt|wisdom (n), wisely (adv)
+#24|Taxes|Thuế
+calculate|v|to figure out, to compute|tính toán|calculation (n), calculator (n)
+deadline|n|a time by which something must be finished|hạn chót|
+file|v|to enter into public record; (n) a group of documents or information about a person or an event|nộp (hồ sơ), lưu trữ; (n) hồ sơ|
+fill out|v|to complete|điền vào (mẫu đơn)|
+give up|v|to quit, to stop|từ bỏ|
+joint|adj|together, shared|chung, liên kết|jointly (adv)
+owe|v|to have a debt, to be obligated to pay|nợ|owing (adj)
+penalty|n|a punishment, a consequence|hình phạt, tiền phạt|penalize (v), penal (adj)
+prepare|v|to make ready|chuẩn bị|preparation (n), preparatory (adj)
+refund|n|the amount paid back; (v) to give back|tiền hoàn lại; (v) hoàn tiền|refundable (adj)
+spouse|n|a husband or wife|vợ/chồng|
+withhold|v|to keep from, to refrain from|khấu trừ, giữ lại|withholding (n)
+#25|Financial Statements|Báo cáo tài chính
+desired|adj|wished or longed for|mong muốn|desire (n,v)
+detail|v|to report or relate minutely or in particulars|trình bày chi tiết; (n) chi tiết|detailed (adj)
+forecast|n|a prediction of a future event; (v) to estimate or calculate in advance|dự báo|
+level|n|a relative position or rank on a scale|mức độ, cấp độ|
+overall|adj|regarded as a whole, general|tổng thể, toàn bộ|
+perspective|n|a mental view or outlook|quan điểm, góc nhìn|
+projected|adj|estimated or predicted based on present data|được dự kiến, ước tính|project (n,v), projection (n)
+realistic|adj|tending to or expressing an awareness of things as they really are|thực tế|reality (n), realistically (adv)
+target|v|to establish as a goal; (n) a goal|nhắm tới; (n) mục tiêu|
+translation|n|the act or process of translating|sự chuyển đổi, bản dịch|translate (v), translatable (adj)
+typical|adj|conforming to a type|điển hình, tiêu biểu|typically (adv)
+yield|n|an amount produced; (v) to produce a profit|sản lượng, lợi tức; (v) sinh lợi|
+#26|Property and Departments|Bất động sản và phòng ban
+adjacent|adj|next to|liền kề, sát bên|
+collaboration|n|the act of working with someone|sự hợp tác|collaborate (v), collaborative (adj)
+concentrate|v|to focus, to think about|tập trung|concentration (n)
+conducive|adj|contributing to, leading to|có lợi cho, thuận lợi cho|
+disrupt|v|to interrupt, to disturb|làm gián đoạn, phá vỡ|disruption (n), disruptive (adj)
+hamper|v|to impede or interfere|cản trở|
+inconsiderate|adj|rude, impolite|thiếu chu đáo, không quan tâm người khác|
+lobby|n|an anteroom, foyer, or waiting room|sảnh, hành lang|
+move up|v|to advance, improve position|thăng tiến, tiến lên|
+open to|adj|receptive to, vulnerable|sẵn sàng đón nhận, dễ bị|
+opt|v|to choose, to decide on|lựa chọn|option (n), optional (adj)
+scrutinize|v|to look at carefully and closely|xem xét kỹ lưỡng|scrutiny (n), inscrutable (adj)
+#27|Board Meetings and Committees|Cuộc họp hội đồng và ủy ban
+adhere to|v|to follow, to pay attention to|tuân thủ, tuân theo|adherence (n)
+agenda|n|a list of topics to be discussed|chương trình nghị sự|
+bring up|v|to introduce a topic|đưa ra, nêu lên (vấn đề)|
+conclude|v|to stop, to come to a decision|kết thúc, kết luận|conclusion (n), conclusive (adj)
+go ahead|v|to proceed with; (n) permission to do something|tiến hành; (n) sự cho phép|
+goal|n|objective, purpose|mục tiêu|
+lengthy|adj|long in time, duration, or distance|dài dòng, kéo dài|length (n)
+matter|n|an item, issue, topic of interest|vấn đề, sự việc|
+periodically|adv|from time to time|định kỳ|period (n), periodic (adj)
+priority|n|something of importance, something that should be done before other things|sự ưu tiên|prioritize (v), prior (adj)
+progress|n|a movement forward; (v) to move forward on something, especially work or a project|sự tiến triển|progression (n), progressive (adj)
+waste|v|not to use wisely; (n) something not worthwhile|lãng phí; (n) rác thải, sự lãng phí|wasteful (adj)
+#28|Quality Control|Kiểm soát chất lượng
+brand|n|an identifying mark or label, a trademark|thương hiệu, nhãn hiệu|
+conform|v|to match specifications or qualities|tuân theo, phù hợp|conformity (n)
+defect|n|an imperfection or flaw|khuyết điểm, lỗi|defective (adj)
+enhance|v|to make more attractive or valuable|nâng cao, cải thiện|enhancement (n)
+garment|n|an article of clothing|quần áo, hàng may mặc|
+inspect|v|to look at closely, to examine carefully or officially|kiểm tra, thanh tra|inspection (n), inspector (n)
+perceive|v|to notice, to become aware of, to see|nhận thấy, nhận thức|perception (n), perceptive (adj)
+repel|v|to keep away, to fight against|đẩy lùi, chống lại|repellent (n, adj)
+take back|v|to return something, to withdraw or retract|trả lại, rút lại|
+throw out|v|to dispose of|vứt bỏ|
+uniform|adj|consistent in form or appearance|đồng nhất, đồng đều; (n) đồng phục|uniformity (n)
+wrinkle|n|a crease, ridge, or furrow, especially in skin or fabric|nếp nhăn|
+#29|Product Development|Phát triển sản phẩm
+anxious|adj|worried|lo lắng; háo hức|anxiety (n), anxiously (adv)
+ascertain|v|to discover, to find out for certain|xác minh, tìm ra chắc chắn|
+assume|v|to take upon oneself, to believe to be true|cho rằng; đảm nhận|assumption (n)
+decade|n|a period of ten years|thập kỷ|
+examine|v|to interrogate, to scrutinize|kiểm tra, xem xét|examination (n)
+experiment|v|to try out a new procedure or idea; (n) a test or trial|thử nghiệm; (n) cuộc thí nghiệm|experimentation (n), experimental (adj)
+logical|adj|formally valid, using orderly reasoning|hợp lý, logic|logic (n)
+research|n|the act of collecting information about a particular subject|sự nghiên cứu|research (v), researcher (n)
+responsibility|n|task, duty|trách nhiệm|responsible (adj), responsibly (adv)
+solve|v|to find a solution, explanation, or answer|giải quyết|solution (n)
+supervisor|n|an administrator in charge|người giám sát, quản lý|supervise (v)
+systematic|adj|methodical in procedure, organized|có hệ thống|system (n)
+#30|Renting and Leasing|Thuê và cho thuê
+apprehensive|adj|anxious about the future|lo sợ, e ngại|apprehend (v), apprehension (n)
+circumstance|n|a condition, a situation|hoàn cảnh, tình huống|
+condition|n|the state of something, a requirement|tình trạng, điều kiện|conditional (adj)
+due to|prep|because of|do, bởi vì|
+fluctuate|v|to go up and down, to change|dao động, biến động|fluctuation (n)
+get out of|v|to escape, to exit|thoát khỏi, rút khỏi|
+indicator|n|a sign, a signal|chỉ số, dấu hiệu|indicate (v), indication (n)
+lease|n|a contract to pay to use property for an amount of time; (v) to make a contract to use property|hợp đồng thuê; (v) cho thuê, thuê|
+lock into|v|to commit, to be unable to change|bị ràng buộc vào, khóa chặt vào|
+occupy|v|to dwell or reside in; to take up space|chiếm giữ, cư ngụ|occupancy (n), occupant (n)
+option|n|a choice, an alternative|sự lựa chọn|optional (adj)
+subject to|adj|under legal power, dependent|tùy thuộc vào, phải chịu|
+#31|Selecting a Restaurant|Chọn nhà hàng
+appeal|v|to be attractive or interesting|hấp dẫn, lôi cuốn; (n) sức hấp dẫn|appealing (adj)
+arrive|v|to reach a destination|đến nơi|arrival (n)
+compromise|n|a settlement of differences in which each side makes concessions|sự thỏa hiệp|compromise (v)
+daring|adj|having the courage required|táo bạo, liều lĩnh|dare (v)
+familiar|adj|often encountered or seen; common|quen thuộc|familiarize (v)
+guide|n|one who leads, directs, or gives advice|người hướng dẫn; sách hướng dẫn|guidance (n), guidable (adj)
+majority|n|the greater number or part|đa số|major (adj)
+mix|v|to combine or blend into one mass; (n) a combination|trộn, pha trộn|mixture (n), mixable (adj)
+rely|v|to have confidence in; to depend on|tin cậy, dựa vào|reliability (n), reliable (adj)
+secure|v|to get possession of; to obtain|giành được, đảm bảo có được|security (n)
+subjective|adj|particular to a given person; highly personal; not objective|chủ quan|
+suggest|v|to offer for consideration or action|đề xuất, gợi ý|suggestion (n), suggestible (adj)
+#32|Eating Out|Đi ăn ngoài
+basic|adj|serving as a starting point or basis|cơ bản|basically (adv)
+complete|adj|having all necessary or normal parts, components, or steps|hoàn chỉnh, đầy đủ|completion (n), completely (adv)
+excite|v|to arouse an emotion|kích thích, làm phấn khích|excitement (n), exciting (adj)
+flavor|n|a distinctive taste|hương vị|flavorful (adj)
+forget|v|to be unable to remember|quên|forgetful (adj), forgettable (adj)
+ingredient|n|an element in a mixture|thành phần, nguyên liệu|
+judge|v|to form an opinion|đánh giá, phán xét|judgment (n)
+mix-up|n|a confusion; (v) to confuse|sự nhầm lẫn|
+patron|n|a customer, especially a regular customer|khách quen|patronize (v)
+predict|v|to state, tell about, or make known in advance|dự đoán|prediction (n), predictable (adj)
+random|adj|having no specific pattern, purpose, or objective|ngẫu nhiên|randomly (adv)
+remind|v|to cause to remember|nhắc nhở|reminder (n)
+#33|Ordering Lunch|Đặt bữa trưa
+burdensome|adj|of or like a burden; onerous|nặng nề, phiền toái|burden (n)
+common|adj|widespread, frequent, usual|phổ biến, thông thường|in common, commonly (adv)
+delivery|n|the act of conveying or delivering|sự giao hàng|deliver (v)
+elegant|adj|exhibiting refined, tasteful beauty|thanh lịch, trang nhã|elegance (n), elegantly (adv)
+fall to|v|to become one's responsibility|thuộc trách nhiệm của|
+impress|v|to affect strongly, often favorably|gây ấn tượng|impression (n), impressionable (adj)
+individual|adj|by or for one person; special; particular|riêng lẻ, cá nhân|individualize (v), individually (adv)
+list|n|a series of names, words, or other items; (v) to make a list|danh sách; (v) liệt kê|
+multiple|adj|having, relating to, or consisting of more than one part|nhiều, đa dạng|multiply (v)
+narrow|v|to limit or restrict; (adj) limited|thu hẹp; (adj) hẹp|
+pick up|v|to take on passengers or freight|đón, nhận (hàng)|
+settle|v|to make compensation for, to pay; to choose|thanh toán; giải quyết; quyết định|settlement (n)
+#34|Cooking as a Career|Nghề nấu ăn
+accustom to|v|to become familiar with, to become used to|làm quen với|accustomed (adj)
+apprentice|n|a student worker in a chosen field|người học việc|apprenticeship (n)
+culinary|adj|relating to the kitchen or cooking|thuộc về nấu nướng, ẩm thực|
+demanding|adj|requiring much effort or attention|khắt khe, đòi hỏi cao|demand (n,v)
+draw|v|to cause to come by attracting|thu hút, lôi kéo|
+incorporate|v|to unite one thing with something else already in existence|kết hợp, sáp nhập|incorporation (n)
+influx|n|a flowing in|dòng (người, tiền...) đổ vào|
+method|n|a procedure|phương pháp|methodology (n), methodical (adj)
+outlet|n|a means of release or gratification, as for energies, drives, or desires|lối thoát, nơi giải tỏa; cửa hàng bán lẻ|
+profession|n|an occupation requiring considerable training and specialized study|nghề nghiệp|professional (adj), professionally (adv)
+relinquish|v|to let go; to surrender|từ bỏ, buông bỏ|
+theme|n|an implicit or recurrent idea; a motif|chủ đề|thematic (adj)
+#35|Events|Sự kiện
+assist|v|to give help or support to|hỗ trợ, giúp đỡ|assistance (n), assistant (n)
+coordinate|v|to adjust or arrange parts to work together|điều phối, phối hợp|coordination (n), coordinator (n)
+dimension|n|a measure of width, height, or length|kích thước, khía cạnh|
+exact|adj|characterized by accurate measurements or inferences|chính xác|exactly (adv)
+general|adj|involving only the main feature rather than precise details|chung, tổng quát|generalize (v), generally (adv)
+ideal|adj|imaginary; existing as a perfect model|lý tưởng|idealize (v), ideally (adv)
+lead time|n|the time between the initial stage of a project and the appearance of results|thời gian chuẩn bị, thời gian chờ|
+plan|n|a scheme for making something happen; (v) to formulate a scheme|kế hoạch; (v) lên kế hoạch|planner (n)
+proximity|n|the state of being near or next to; closeness|sự gần gũi, vị trí gần|
+regulate|v|to control by rules|điều chỉnh, quản lý|regulation (n), regulatory (adj)
+site|n|a place or setting|địa điểm|
+stage|v|to exhibit or present|tổ chức, dàn dựng; (n) sân khấu, giai đoạn|
+#36|General Travel|Du lịch tổng quát
+agency|n|an establishment engaged in doing business|đại lý, cơ quan|agent (n)
+announcement|n|a public notification|thông báo|announce (v), announcer (n)
+beverage|n|a drink other than plain water|đồ uống|
+blanket|n|a covering for keeping warm; any full coverage; (v) to cover uniformly|chăn, mền; (adj) toàn bộ|
+board|v|to enter a boat, plane, or train|lên (tàu, xe, máy bay)|boarding (n), onboard (adj)
+claim|v|to take as rightful; to retrieve|nhận (hành lý), yêu cầu; (n) sự khiếu nại|
+delay|v|to postpone until a later time; (n) the period of time during which one is delayed|trì hoãn; (n) sự chậm trễ|
+embark|v|to go onboard a flight or ship; to begin|lên tàu; bắt đầu|embarkation (n)
+itinerary|n|a proposed route for a journey, showing dates and means of travel|lịch trình|
+prohibit|v|to forbid by authority or to prevent|cấm|prohibition (n)
+valid|adj|having legal efficacy or correctness|có hiệu lực, hợp lệ|validate (v), validation (n)
+#37|Airlines|Hãng hàng không
+deal with|v|to attend to; to manage; to see to|giải quyết, xử lý|
+destination|n|the place to which one is going or directed|điểm đến|
+distinguish|v|to make noticeable or different|phân biệt|distinguishable (adj), distinguishably (adv)
+economical|adj|intended to save money, time, or effort|tiết kiệm|economy (n), economize (v)
+equivalent|adj|equal|tương đương|equivalence (n)
+excursion|n|a pleasure trip; a trip at a reduced fare|chuyến tham quan|
+expensive|adj|marked by high prices|đắt|expense (n), expensively (adv)
+extend|v|to make longer; to offer|kéo dài, gia hạn; dành cho|extension (n)
+prospective|adj|likely to become or be|tiềm năng, sắp tới|prospect (n)
+situation|n|the combination of circumstances at a given moment|tình huống, hoàn cảnh|
+substantial|adj|considerable in importance, value, degree, amount, or extent|đáng kể|substance (n), substantially (adv)
+system|n|a functionally related group of elements|hệ thống|systematic (adj)
+#38|Trains|Tàu hỏa
+comprehensive|adj|covering broadly; inclusive|toàn diện, bao quát|comprehensiveness (n), comprehensively (adv)
+deluxe|adj|noticeably luxurious|sang trọng, cao cấp|
+directory|n|a book or collection of information or directions|danh bạ, bảng chỉ dẫn|
+duration|n|the time during which something lasts|khoảng thời gian (kéo dài)|
+entitle|v|to allow or qualify|cho quyền|entitlement (n)
+fare|n|the money paid for transportation|giá vé|
+offset|v|to counterbalance|bù đắp|
+operate|v|to perform a function|vận hành, hoạt động|operation (n), operational (adj)
+punctual|adj|prompt|đúng giờ|punctuality (n), punctually (adv)
+relatively|adv|somewhat|tương đối|relative (adj)
+remainder|n|the remaining part|phần còn lại|remain (v)
+remote|adj|far removed|xa xôi, hẻo lánh|remoteness (n), remotely (adv)
+#39|Hotels|Khách sạn
+advance|n|a move forward|sự tiến bộ; (adj) trước (in advance)|advanced (adj)
+chain|n|a group of enterprises under a single control|chuỗi (cửa hàng, khách sạn)|
+check in|v|to register at a hotel; to report one's presence|làm thủ tục nhận phòng|check-in (n)
+confirm|v|to validate|xác nhận|confirmation (n), confirmed (adj)
+expect|v|to consider probable or reasonable|mong đợi, dự kiến|expectation (n), expectant (adj)
+housekeeper|n|someone employed to do domestic work|nhân viên dọn phòng, quản gia|housekeeping (n)
+notify|v|to report|thông báo|notification (n)
+preclude|v|to make impossible; to rule out|ngăn chặn, loại trừ|
+quote|v|to give exact information on; (n) a quotation|báo giá, trích dẫn|quotation (n), quotable (adj)
+rate|n|the payment or price according to a standard|giá, mức phí, tỷ lệ|
+reserve|v|to set aside|đặt trước|reservation (n)
+service|n|useful functions|dịch vụ|serve (v)
+#40|Car Rentals|Thuê xe hơi
+busy|adj|engaged in activity|bận rộn|
+coincide|v|to happen at the same time|trùng khớp, xảy ra đồng thời|coincidence (n), coincidentally (adv)
+confusion|n|a lack of clarity, order, or understanding|sự nhầm lẫn, bối rối|confuse (v)
+contact|v|to get in touch with|liên lạc|contact (n)
+disappoint|v|to fail to satisfy the hope, desire, or expectation of|làm thất vọng|disappointment (n)
+intend|v|to have in mind|dự định|intention (n), intent (adj)
+license|n|the legal permission to do or own a specified thing|giấy phép|
+nervous|adj|easily agitated or distressed; uneasy or apprehensive|lo lắng, hồi hộp|nervousness (n), nervously (adv)
+optional|adj|not compulsory or automatic|tùy chọn, không bắt buộc|option (n)
+tempt|v|to be inviting or attractive to|cám dỗ, lôi cuốn|temptation (n), tempting (adj)
+thrill|n|the source or cause of excitement or emotion|sự hồi hộp, phấn khích|thrilled (adj)
+tier|n|a rank or class|tầng, bậc, hạng|
+#41|Movies|Phim ảnh
+attain|v|to achieve|đạt được|attainment (n), attainable (adj)
+combine|v|to come together|kết hợp|combination (n)
+continue|v|to maintain without interruption|tiếp tục|continuation (n), continual (adj)
+description|n|a representation in words or pictures|sự mô tả|describe (v), descriptive (adj)
+disperse|v|to spread widely, to scatter|giải tán, phân tán|
+entertainment|n|a diverting performance or activity|sự giải trí|entertain (v), entertaining (adj)
+influence|v|to alter or affect|ảnh hưởng; (n) sự ảnh hưởng|influential (adj)
+range|n|the scope|phạm vi, loạt|
+release|v|to make available to the public; to give permission for performance|phát hành, công bố|
+represent|v|to typify|đại diện, tiêu biểu cho|representative (n)
+separate|adj|detached; kept apart|riêng biệt|separate (v), separately (adv)
+successive|adj|following in order|liên tiếp, kế tiếp|succession (n)
+#42|Theater|Nhà hát
+action|n|the series of events that form the plot of a story or play|hành động, diễn biến|act (v), acting (n)
+approach|v|to go near; to come close to in appearance or quality; (n) a way or means of reaching something|tiếp cận, đến gần; (n) cách tiếp cận|approachable (adj)
+audience|n|the spectators at a performance|khán giả|
+create|v|to produce through artistic or imaginative effort|tạo ra, sáng tạo|creation (n), creative (adj)
+dialogue|n|a conversation between two or more persons|cuộc đối thoại|
+element|n|a fundamental or essential constituent|yếu tố, thành phần|
+experience|n|an event or a series of events participated in or lived through|kinh nghiệm, trải nghiệm|experience (v), experienced (adj)
+occur|v|to take place; to come about|xảy ra|occurrence (n)
+perform|v|to act before an audience; to give a public presentation of|biểu diễn, thực hiện|performance (n), performer (n)
+rehearse|v|to practice in preparation for a public performance|diễn tập|rehearsal (n)
+review|n|a critical estimate of a work or performance; (v) to write a criticism of a performance|bài phê bình, đánh giá; (v) xem xét lại|reviewer (n)
+sold out|adj|having all tickets completely sold, especially ahead of time|bán hết vé|
+#43|Music|Âm nhạc
+available|adj|ready for use; willing to serve|có sẵn, rảnh|availability (n)
+broad|adj|covering a wide scope|rộng, bao quát|broaden (v)
+category|n|a division in a system of classification; a general class of ideas|hạng mục, loại|categorize (v), categorical (adj)
+disparate|adj|fundamentally distinct or different|khác biệt hoàn toàn|disparity (n)
+divide|v|to separate into parts|chia, phân chia|division (n)
+favorite|adj|preferred|được yêu thích nhất|favor (n), favorable (adj)
+instinct|n|an inborn pattern that is a powerful motivation|bản năng|instinctive (adj)
+preference|n|someone or something liked over another or others|sự ưu tiên, sở thích|prefer (v), preferential (adj)
+reason|n|the basis or motive for an action; an underlying fact or cause|lý do|reasonable (adj)
+relaxation|n|the act of relaxing or the state of being relaxed; refreshment of body or mind|sự thư giãn|relax (v), relaxed (adj)
+taste|n|the ability to discern what is excellent or appropriate|gu, khiếu thẩm mỹ, vị giác|tasteful (adj)
+urge|v|to advocate earnestly; (n) a natural desire|thúc giục, khuyến khích; (n) sự thôi thúc|urgent (adj)
+#44|Museums|Bảo tàng
+acquire|v|to gain possession of; to get by one's own efforts|đạt được, thu được, mua lại|acquisition (n)
+admire|v|to regard with pleasure; to have esteem or respect for|ngưỡng mộ, chiêm ngưỡng|admiration (n)
+collection|n|a group of objects or works to be seen, studied, or kept together|bộ sưu tập|collect (v), collector (n)
+criticism|n|an evaluation, especially of literary or other artistic works|sự phê bình|criticize (v), critic (n)
+express|v|to give an opinion or depict emotion|bày tỏ, diễn đạt|expression (n)
+fashion|n|the prevailing style or custom|thời trang, cách thức|fashionable (adj)
+leisure|n|freedom from time-consuming duties; free time|thời gian rảnh rỗi|leisurely (adj)
+respond|v|to make a reply; to react|phản hồi, đáp lại|response (n), responsive (adj)
+schedule|n|a list of times of events; (v) to enter on a schedule|lịch trình; (v) lên lịch|
+significant|adj|meaningful; having a major effect; important|đáng kể, quan trọng|significance (n), significantly (adv)
+specialize|v|to concentrate on a particular activity|chuyên về|specialist (n), specialized (adj)
+#45|Media|Truyền thông
+assignment|n|something, such as a task, that is assigned|nhiệm vụ được giao|assign (v)
+choose|v|to select one thing over another|chọn|choice (n), choosy (adj)
+constant|adj|unchanging or invariable|không đổi, liên tục|constantly (adv)
+constitute|v|to be the elements or parts of|cấu thành, tạo thành|constitution (n)
+decisive|adj|characterized by decision and firmness|quyết đoán, mang tính quyết định|decide (v), decision (n)
+disseminate|v|to scatter widely; to distribute|phổ biến, truyền bá|dissemination (n)
+impact|n|a strong, immediate impression|tác động, ảnh hưởng|impact (v)
+in-depth|adj|in complete detail; thorough|chuyên sâu, kỹ lưỡng|
+investigative|adj|specializing in uncovering and reporting hidden information|(thuộc) điều tra|investigate (v), investigation (n)
+link|n|an association; a relationship|mối liên kết|link (v)
+subscribe|v|to receive a periodical regularly on order|đăng ký (mua báo, dịch vụ)|subscription (n), subscriber (n)
+thorough|adj|exhaustively complete|kỹ lưỡng, thấu đáo|thoroughness (n), thoroughly (adv)
+#46|Doctor's Office|Phòng khám bác sĩ
+annual|adj|yearly|hằng năm|annually (adv)
+appointment|n|arrangements for a meeting; a position in a profession|cuộc hẹn; sự bổ nhiệm|appoint (v)
+assess|v|to determine the value or rate of something|đánh giá|assessment (n), assessable (adj)
+diagnose|v|to recognize a disease; to analyze the nature of something|chẩn đoán|diagnosis (n), diagnostic (adj)
+effective|adj|producing the desired effect; being in effect|hiệu quả; có hiệu lực|effectively (adv)
+instrument|n|a tool for precise work; the means whereby something is achieved|dụng cụ, công cụ|
+manage|v|to handle; to deal with; to guide|quản lý, xoay xở|management (n), manager (n)
+prevent|v|to keep from happening; to hinder|ngăn ngừa|prevention (n), preventive (adj)
+recommend|v|to present as worthy; to endorse|giới thiệu, khuyên|recommendation (n), recommendable (adj)
+record|v|to set down in writing; (n) an official copy of documents|ghi lại; (n) hồ sơ, bản ghi|
+refer|v|to direct for treatment or information; to mention|giới thiệu đến, chuyển đến; đề cập|referral (n), reference (n)
+serious|adj|weighty, important|nghiêm trọng|seriously (adv)
+#47|Dentist's Office|Phòng khám nha khoa
+aware|adj|having knowledge|nhận thức được, biết|awareness (n)
+catch up|v|to bring up to date|bắt kịp, cập nhật|
+distraction|n|the act of being turned away from the focus|sự xao nhãng|distract (v), distracted (adj)
+encouragement|n|inspiration or support|sự khích lệ, động viên|encourage (v)
+evident|adj|easily seen or understood; obvious|hiển nhiên, rõ ràng|evidence (n), evidently (adv)
+habit|n|a customary manner or practice|thói quen|habitual (adj), habitually (adv)
+illuminate|v|to provide or brighten with light|chiếu sáng, làm sáng tỏ|illumination (n)
+irritate|v|to chafe or inflame; to bother|làm khó chịu, kích ứng|irritation (n), irritable (adj)
+overview|n|a summary; a survey; a quick look|cái nhìn tổng quan|
+position|n|the right or appropriate place|vị trí; chức vụ|
+regularly|adv|occurring at fixed intervals|thường xuyên, đều đặn|regular (adj)
+restore|v|to bring back to an original condition|khôi phục, phục hồi|restoration (n)
+#48|Health Insurance|Bảo hiểm y tế
+allow|v|to let do or happen; to permit|cho phép|allowance (n), allowable (adj)
+alternative|n|the choice between two mutually exclusive possibilities|sự lựa chọn thay thế|alternate (v), alternatively (adv)
+aspect|n|a feature, an element; an appearance|khía cạnh|
+concern|v|to be of interest or importance to|liên quan đến; làm lo lắng; (n) mối lo ngại|concerned (adj)
+emphasize|v|to stress|nhấn mạnh|emphasis (n), emphatic (adj)
+incur|v|to acquire or come into|gánh chịu, phải chịu (chi phí)|
+personnel|n|a group of employees or workers|nhân sự, toàn bộ nhân viên|
+policy|n|a set of rules and regulations|chính sách; hợp đồng bảo hiểm|
+portion|n|a section or quantity within a larger thing; a part of a whole|phần, khẩu phần|
+regardless|adv|in spite of|bất kể, bất chấp|
+salary|n|a fixed compensation paid regularly for work done; one's pay|tiền lương|
+suitable|adj|appropriate to a purpose or an occasion|phù hợp|suit (v), suitably (adv)
+#49|Hospitals|Bệnh viện
+admit|v|to permit to enter|cho vào, tiếp nhận (nhập viện); thừa nhận|admittance (n), admission (n)
+authorization|n|the act of sanctioning|sự ủy quyền, sự cho phép|authorize (v)
+designate|v|to indicate or specify|chỉ định|designation (n), designator (n)
+escort|n|a person accompanying another to guide or protect|người hộ tống; (v) hộ tống|
+identify|v|to ascertain the name or belongings of|nhận dạng, xác định|identifiable (adj), identification (n)
+mission|n|an inner calling to pursue an activity or perform a service|sứ mệnh, nhiệm vụ|
+permit|v|to allow|cho phép; (n) giấy phép|permissible (adj), permission (n)
+pertinent|adj|having relevance to the matter at hand|thích đáng, liên quan|
+procedure|n|a series of steps taken to accomplish an end|thủ tục, quy trình|
+result|n|an outcome|kết quả|result (v)
+statement|n|an accounting showing an amount due; a bill|bản sao kê, bản báo cáo; lời tuyên bố|state (v)
+usual|adj|ordinary, expected|thông thường|usually (adv)
+#50|Pharmacy|Hiệu thuốc
+consult|v|to seek advice or information of|tham khảo, hỏi ý kiến|consultation (n), consultative (adj)
+control|v|to exercise authoritative or dominating influence|kiểm soát|control (n)
+convenient|adj|suited or favorable to one's purpose; easy to reach|thuận tiện|convenience (n), conveniently (adv)
+detect|v|to discover or ascertain|phát hiện|detection (n), detectable (adj)
+factor|n|a contribution to an accomplishment, a result, or a process|yếu tố, nhân tố|
+interaction|n|an influence; a mutual activity|sự tương tác|interact (v)
+limit|n|the point beyond which something cannot proceed|giới hạn; (v) hạn chế|limitation (n)
+monitor|v|to keep track of|giám sát, theo dõi|
+potential|adj|capable of being but not yet in existence; possible|tiềm năng|potentially (adv)
+sample|n|a portion, piece, or segment that is representative of a whole|mẫu thử|sample (v)
+sense|n|a judgment; an intellectual interpretation|giác quan, ý thức, cảm nhận|sensible (adj)
+volunteer|n|one who performs a service without pay; (v) to perform as a volunteer|tình nguyện viên; (v) tình nguyện|volunteerism (n), voluntary (adj)

@@ -1,0 +1,68 @@
+#5-1
+W down payment|daʊn ˈpeɪmənt||trả tiền hàng tháng
+E We are saving money to make a down payment on the house we want to buy.|Chúng tôi đang tiết kiệm tiền để thanh toán tiền hàng tháng cho căn nhà chúng tôi muốn mua.
+W endorse|ɪnˈdɔːs|v.|ký hậu
+E Can you endorse the back of the check, please?|Vui lòng ký phía sau tờ sec?
+N endorse ngoài chỉ "ký đằng sau (séc, hối phiếu)", còn được thể hiện nhiều với ý "làm đại diện (cho sản phẩm nào đó), chứng thực" và "người nổi tiếng chứng thực" tiếng Anh là celebrity endorsement.
+R endorsement|n.|sự ký hậu
+W exchange|ɪksˈtʃeɪndʒ|v.|đổi
+E Please help me exchange these N.T. dollars for yuan.|Vui lòng giúp tôi đổi những đồng đôla Đài Loan này sang đồng nhân dân tệ.
+R exchange rate||tỉ giá hối đoái
+R foreign exchange||trao đổi ngoại tệ
+W mortgage|ˈmɔːgɪdʒ|n.|vật cầm cố, vật thế chấp
+E We've almost finished paying off the mortgage on our house.|Chúng tôi hầu như hoàn thành việc thanh toán thế chấp cho căn nhà của chúng tôi.
+N có thể dùng take out a... mortgage để thể hiện số tiền và kỳ hạn của thế chấp, ví dụ như take out a $50,000 mortgage chỉ "thế chấp 50 ngàn", take out a ten year mortgage chỉ "thế chấp 10 năm".
+S loan|n.|nợ, khoản vay
+W overdraw|ˌəʊvəˈdrɔː|v.|rút tiền quá mức
+E I overdrew my account by five thousand dollars.|Tôi rút quá 5 ngàn đôla khỏi tài khoản của tôi.
+R overdrawn|adj.|bị rút quá mức
+W restricted|rɪˈstrɪktɪd|adj.|hạn định, hạn chế
+E This special account is restricted to local customers.|Tài khoản đặc biệt này được hạn định cho những khách hàng địa phương.
+N khi chỉ "hạn chế ở (người hay vật việc nào đó)" dùng giới từ to.
+S confined - limited|adj.|hạn chế, giới hạn
+R restrict|v.|hạn chế, giới hạn
+R restriction|n.|sự giới hạn
+W transaction|trænˈzækʃən|n.|hợp đồng, giao dịch
+E I'd like a list of my last ten transactions.|Tôi muốn một danh sách gồm 10 giao dịch cuối cùng của tôi.
+R transact|v.|làm giao dịch
+W typically|ˈtɪpɪk(ə)li|adv.|đặc trưng, tiêu biểu, điển hình
+E It typically takes two days for the money to reach your account.|Thường thì phải biết 2 ngày tiền mới đến tài khoản của bạn.
+R typical|adj.|điển hình, tiêu biểu
+#5-2
+W accumulate|əˈkjuːmjʊleɪt|v.|tích luỹ
+E She accumulated over a million dollars through investing.|Cô ấy tích luỹ được trên một triệu đô la từ việc đầu tư.
+S amass - gather - collect|v.|tích lũy, thu thập
+R accumulation|n.|sự tích lũy
+W aggressively|əˈgresɪvli|adv.|xông xáo, mạnh mẽ, dữ dội
+E I made a lot of money by investing aggressively in stock.|Tôi kiếm được nhiều tiền bằng cách đầu tư xông xáo vào cổ phiếu.
+A passively|adv.|một cách thụ động
+R aggressive|adj.|dữ dội, mạnh mẽ
+R aggression|n.|sự dữ dội
+W bond|bɒnd|n.|trái phiếu
+E Savings bonds offer a low-risk return for your investment, but are not as profitable as a good stock.|Những trái phiếu tiết kiệm tạo ra lãi với rủi ro thấp hơn cho việc đầu tư của anh, nhưng không nhiều lợi nhuận như cổ phiếu tốt.
+N khi bond là động từ chỉ "làm cho bó lại, lấy... làm thế chấp".
+R Treasury bond||trái phiếu kho bạc
+W cautiously|ˈkɔːʃəsli|adv.|cẩn thận, thận trọng
+E You should invest more cautiously, or you could lose a lot of money.|Bạn nên đầu tư một cách thận trọng nếu không bạn sẽ mất nhiều tiền.
+S carefully|adv.|một cách cẩn thận
+R cautious|adj.|thận trọng
+R caution|n.|sự lưu ý
+R cautiousness|n.|sự thận trọng
+W commit|kəˈmɪt|v.|giam giữ
+E With this kind of investment, you must commit your money for at least five years.|Với kiểu đầu tư này, bạn phải giam tiền của bạn ít nhất 5 năm.
+N dạng câu thể hiện "dùng thời gian, tiền bạc... vào việc nào đó" là commit sth to sth.
+R commitment|n.|sự giam giữ
+W conservative|kənˈsɜːvətɪv|adj.|ước chừng, khoảng chừng
+E I should make about ten thousand dollars, and that's a conservative estimate.|Tôi sẽ kiếm được 10 ngàn đô la, và đó là một dự đoán ước chừng.
+R conservatively|adv.|một cách ước chừng
+R conservation|n.|sự ước chừng, chừng mực
+W currency|ˈkʌrənsi|n.|giá trị tiền tệ
+E Where can I change foreign currency?|Tôi có thể đổi ngoại tệ ở đâu?
+R foreign currency||ngoại tệ
+R hard currency||tiền mặt
+W depression|dɪˈpreʃ(ə)n|n.|sự suy thoái
+E The stock market crash meant the coming of a depression.|Sự sụp đổ của thị trường chứng khoán có nghĩa là sự suy thoái sắp xảy ra.
+N depression cũng có thể chỉ "sự buồn rầu, sự suy nhược".
+S recession - slump|n.|sự suy thoái
+R depressing|adj.|có khuynh hướng suy thoái
+R depress|v.|làm cho suy sụp

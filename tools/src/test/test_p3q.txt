@@ -1,0 +1,151 @@
+@P3
+Q41|B|What does the man say about Sandy?
+A He thinks she is a favorite of the boss.
+B He thinks she is creative.
+C He thinks she is overbearing.
+D He wishes she worked in a different department.
+Q42|B|What did the woman just finish doing with Sandy?
+A Calculating the payroll
+B Thinking up new ideas
+C Having a wonderful lunch
+D Talking about the weather
+Q43|A|What does the man say plays a role in the company?
+A Your family relationship with the boss
+B The duration of time spent there
+C The amount of hours put in every day
+D A strong merit system
+Q44|D|What does the woman say slipped out of her mouth?
+A Undeserved compliments
+B Personal insults
+C Gossip about others
+D Expressions of disapproval
+Q45|C|What does the man say the woman needs to learn?
+A How to organize a meeting
+B When to offer the final price in a negotiation
+C How to remain quiet
+D What to say to potential customers
+Q46|D|What does the woman say was the result of her comments?
+A She failed to close the sale.
+B She opened up an unseen opportunity.
+C She caused the meeting to end abruptly.
+D She created a very chaotic situation.
+Q47|C|When do they have to be in Shanghai?
+A Around three p.m.
+B Sometime after 12:30 p.m.
+C By 12:00 noon
+D Just before evening
+Q48|D|What does the woman think their chances are for arriving on time?
+A It depends on the weather.
+B It might happen if the flight still takes off.
+C It is possible, but only after three.
+D It is not going to be possible.
+Q49|A|What is the reason for the flight's delay?
+A Bad weather
+B Mechanical failure
+C Technical difficulty
+D Overbooking
+Q50|C|What does the man think about Lori's work?
+A He thinks it's too conservative.
+B He can't understand it completely.
+C It's very new and different.
+D It's exactly what his company is looking for.
+Q51|B|What kind of approach does the man want to use?
+A One that is aimed at young couples with no children
+B One that has previously been shown to be effective
+C One that has a lot of different colors
+D One that is on the cutting edge of technology
+Q52|B|What does the woman say she appreciates?
+A A fresh idea
+B The man's praise
+C The new slides
+D A conservative idea
+Q53|C|What does the man want the woman to do?
+A Try a new product
+B Stop using a product
+C Look at an advertisement
+D Remember an advertisement
+Q54|B|What does the advertisement claim?
+A A certain product can improve work performance.
+B A certain product can aid memory.
+C A certain product can improve one's health.
+D A certain product can aid healing.
+Q55|A|How many times does the woman say she's seen the advertisement?
+A Twenty times
+B Twelve times
+C One time
+D Two times
+Q56|C|What does the man say about the ad's colors?
+A They should be more lively.
+B They are the same as the previous ad's.
+C They look very energetic.
+D They look lackluster.
+Q57|D|What does the woman think about the colors?
+A They are too dull.
+B They will be easily topped.
+C They will cost too much.
+D They are extreme.
+Q58|B|What does the man say the colors will do?
+A Distract customers
+B Get people's attention
+C Upstage the logo
+D Draw criticism
+Q59|A|What does the woman say about Paul?
+A She can't rely on him to do the presentation.
+B She is unable to find him at the moment.
+C There are few people as qualified as Paul.
+D Paul will not return from vacation this week.
+Q60|A|Why can't the man do the presentation?
+A He has previously scheduled appointments.
+B He is preparing a workbook for employees.
+C He is busy doing the books.
+D He has little knowledge about the subject.
+Q61|D|What does the man say the woman will have to do?
+A Contact Paul
+B Cancel the presentation
+C Work with him closely on the project
+D Do the best she can in this situation
+Q62|C|How long has the man been working on the manual?
+A Over a month
+B Exactly a month
+C Close to a month
+D Nearly two months
+Q63|A|What does the woman mistakenly think about the man?
+A He has woken up early.
+B He is staying up late.
+C He has not fallen asleep.
+D He is neglecting his other work.
+Q64|B|At what time does this conversation take place?
+A Early in the evening
+B Early in the morning
+C Late in the afternoon
+D Just before midnight
+Q65|D|What does the man decide to do about the soup?
+A Stop eating it
+B Complain to the manager
+C Ask for his money back
+D Write his comments on a survey
+Q66|C|What does the woman suggest the man do?
+A Leave the restaurant
+B Call the waitress
+C Express dissatisfaction
+D Order another dish
+Q67|D|What is the man's opinion about the soup?
+A It tastes bad.
+B It is too oily.
+C It is the wrong dish.
+D Its flavor is not the same.
+Q68|A|What happened to the Korean builders?
+A They were refused by the city.
+B They could not afford the new development.
+C The bid they placed was too low.
+D The city funded their designs.
+Q69|B|What kind of place are the man and woman discussing?
+A One that is cosmopolitan
+B A place in the country
+C A capital city
+D One with an urban environment
+Q70|B|What does the man say attracts the tourists?
+A The ocean
+B The rural environment
+C The cheap hotels
+D The top-notch restaurants

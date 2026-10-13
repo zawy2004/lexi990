@@ -1,0 +1,78 @@
+#8-2
+W fare|feə|n.|tiền xe, tiền vé
+E How much is the bus fare from the station to the zoo?|Vé xe buýt từ trạm này đến sở thú bao nhiêu tiền?
+R bus/train/cab fare||tiền vé xe buýt/xe lửa/taxi
+R half-fare|adj.|nửa tiền vé bình thường
+R full-fare|adj.|tiền vé đầy đủ
+W quote|kwəʊt|n.|việc đặt giá, định giá
+E Can you give me a quote for remodeling the whole kitchen?|Anh có thể định giá cho việc sửa chữa toàn bộ nhà bếp chứ?
+N chỉ "báo giá của...", dùng giới từ for, thể hiện "trích dẫn từ...", dùng giới từ from.
+R quotation|n.|bản dự kê giá
+R quotation mark||dấu ngoặc kép
+W rate|reɪt|n.|tỷ lệ, giá
+E Does the taxi rate go up during holidays?|Có phải giá taxi tăng lên trong suốt lễ hội không?
+R the going rate||giá hiện hành
+R hourly/weekly/monthly rate||mức giá hàng giờ/hàng tuần/hàng tháng
+R birth/unemployment/crime rate||tỷ lệ sinh/thất nghiệp/tội phạm
+W reservation|ˌrezəˈveɪʃ(ə)n|n.|sự đặt chỗ trước
+E You have a reservation for two tickets to Tokyo.|Bạn đặt chỗ trước cho 2 vé đi Tokyo.
+S booking|n.|sự mua vé trước, đặt chỗ trước
+R reserve|v.|đặt chỗ trước, dự phòng
+W tempt|tempt|v.|lôi cuốn, cám dỗ
+E I was tempted to buy first-class tickets, but I didn't.|Tôi bị lôi cuốn mua những vé hạng nhất nhưng tôi không mua được.
+N cách dùng tempt sb to V. và tempt sb into V-ing.
+S allure - seduce|v.|lôi cuốn, cám dỗ
+R temptation|n.|sự cám dỗ, lôi cuốn
+R tempting|adj.|hấp dẫn, cám dỗ
+W ticket|ˈtɪkɪt|n.|vé
+E How much is a ticket to Hong Kong?|Vé đến Hồng Kông bao nhiêu tiền?
+R big-ticket|adj.|mẻ lớn
+R round-trip ticket||vé khứ hồi
+R one-way ticket||vé một chiều
+R season ticket||vé đợt
+R meal ticket||vé ăn
+W valid|ˈvælɪd|adj.|hiệu lực, hợp lệ
+E Only keep the coupons that are still valid.|Chỉ giữ những phiếu mua hàng nào vẫn còn hiệu lực.
+A invalid|adj.|hết hiệu lực, không còn hợp lệ
+R validate|v.|phê chuẩn, công nhận giá trị
+R validation|n.|sự phê chuẩn, sự công nhận giá trị
+#8-3
+W coincide|ˌkəʊɪnˈsaɪd|v.|trùng với, đồng nhất với
+E Our trip coincides with the festival.|Chuyến tham quan của chúng ta trùng với lễ hội này.
+N khi chỉ "cùng lúc xảy ra với...", dùng giới từ with.
+S concur|v.|đồng tình, trùng hợp
+R coincidence|n.|sự trùng hợp
+R coincident|adj.|trùng khớp, trùng hợp
+R coincidental|adj.|trùng khớp
+W comprehensive|ˌkɒmprɪˈhensɪv|adj.|bao hàm, toàn diện
+E It's a fully comprehensive tour package; meals and drinks are included.|Một chuyến du lịch trọn gói bao gồm thức ăn và nước uống.
+S complete - all-inclusive - extensive|adj.|hoàn toàn, hoàn thành
+R comprehensively|adv.|hoàn toàn, toàn diện
+W confusion|kənˈfjuːʒ(ə)n|n.|sự hỗn loạn, sự nhầm lẫn, lộn xộn
+E There seems to be some confusion as to when we're stopping for lunch.|Dường như có vài sự lộn xộn khi chúng tôi nghỉ để ăn trưa.
+S puzzlement - bewilderment - perplexity|n.|sự hỗn loạn, sự rắc rối
+R confuse|v.|làm xáo trộn
+R confused|adj.|lộn xộn, không rõ ràng
+R confusing|adj.|khó hiểu, gây bối rối
+W contact|ˈkɒntækt|v.|liên lạc, liên hệ
+E You need to contact the hotel to let them know we'll be late.|Bạn cần liên hệ với khách sạn để cho họ biết chúng ta sẽ đến trễ.
+N khi là danh từ thường đi với giới từ with, cũng có thể mang nghĩa "người quen, cơ hội gặp gỡ", khi mang nghĩa này thường dưới dạng số nhiều.
+W delay|dɪˈleɪ|v.|hoãn, trì hoãn
+E The flight has been delayed until three o'clock.|Chuyến bay bị hoãn lại cho đến 3 giờ.
+N khi đi với động từ, delay + V-ing, thể hiện "trì hoãn làm việc gì đó".
+S postpone - defer - hold up||hoãn, trì hoãn
+A advance|v.|trước, đi trước
+W depart|dɪˈpɑːt|v.|xuất phát, khởi hành
+E The train will depart at six o'clock, so don't be late.|Xe lửa sẽ khởi hành lúc 6 giờ, vì thế đừng có đến trễ.
+N thể hiện "khởi hành đến...", dùng depart for + nơi chốn; thể hiện "xuất phát từ...", dùng depart from + nơi chốn.
+S leave - go - get off||xuất phát
+A arrive|v.|đến nơi
+R departure|n.|sự khởi hành
+W duration|djʊˈreɪʃ(ə)n|n.|khoảng thời gian
+E I spent the duration of my vacation relaxing on the beach.|Tôi thư giãn trên bãi biển trong suốt kỳ nghỉ.
+S time - span - stretch|n.|khoảng thời gian
+W embarkation|ˌembɑːˈkeɪʃn|n.|sự cho lên tàu
+E At embarkation, please have your passport available.|Lúc lên tàu, vui lòng cầm sẵn hộ chiếu của quý vị.
+A disembarkation|n.|sự cho lên bờ, sự xuống xe
+R embark|v.|lên tàu, lên xe
+R embark on/upon sth||bắt tay vào việc gì

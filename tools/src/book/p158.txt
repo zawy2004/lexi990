@@ -1,0 +1,70 @@
+#9-3
+W range|reɪndʒ|v.|xếp loại, đi khắp
+E Her songs range from sad love songs to loud rock.|Các bài hát của cô ấy bao gồm từ những bản tình ca buồn đến những bản rock sôi động.
+N cách dùng range from A to B hoặc range between A and B.
+W relaxation|ˌriːlækˈseɪʃn|n.|sự thư giãn, sự nghỉ ngơi, sự giải trí
+E For relaxation, I listen to classical music.|Để thư giãn, tôi nghe nhạc cổ điển.
+S fun - recreation|n.|sự giải trí, tiêu khiển
+R relax|v.|thư giãn, giải trí
+R relaxed|adj.|thanh thản, thoải mái
+W sellout|ˈselaʊt|n.|buổi diễn bán hết vé, sự bán đắt hàng
+E The popular singer's concerts were all sellouts.|Các buổi nhạc của ca sĩ nổi tiếng luôn bán hết vé.
+R sell out||bán hết vé, bán hết hàng
+R sold-out|adj.|bán hết (vé, hàng)
+W significant|sɪgˈnɪfɪkənt|adj.|quan trọng, chính yếu
+E The musician has had a significant impact on jazz music.|Nhạc sĩ này có ảnh hưởng quan trọng về nhạc jazz.
+S important - crucial - noteworthy|adj.|quan trọng, chính yếu
+A insignificant - negligible - inconsequential|adj.|tầm thường, không đáng kể
+R significance|n.|sự quan trọng, sự đáng kể
+W spectrum|ˈspektrəm|n.|loạt những dải âm thanh tương tự quang phổ
+E He can play a broad spectrum of musical instruments.|Anh ấy có thể chơi những loại nhạc cụ có quang phổ rộng.
+N thường dùng a spectrum of sth thể hiện "vật/việc trong phạm vi nào đó".
+S range|n.|dãy, tầm truyền
+R wide/broad spectrum||dải âm thanh rộng
+W taste|teɪst|n.|sự thưởng thức, sở thích, thị hiếu
+E Her taste in music is very strange.|Thị hiếu âm nhạc của cô ấy rất lạ.
+N thể hiện "thị hiếu ở phương diện nào đó", dùng giới từ in. Khi thể hiện "sự thưởng thức...", dùng giới từ for, ví dụ a taste for fine wines (thưởng thức rượu ngon).
+S liking - preference - appetite|n.|sở thích
+A acquired taste||sở thích từ thói quen
+#9-4
+W acquire|əˈkwaɪə|v.|đạt được, thu được, kiếm được
+E I have acquired a large number of very old paintings.|Tôi thu được rất nhiều bức tranh cũ.
+S obtain - gain|v.|giành được, đạt được
+A lose|v.|đánh mất
+R acquisition|n.|sự đạt được, thu được, kiếm được
+R acquisitive|adj.|có khả năng tiếp thu, có thể học hỏi
+R acquirement|n.|sự đạt được, thu được, kiếm được
+W approach|əˈprəʊtʃ|n.|phương pháp, cách tiếp cận
+E His approach to art is to paint what he feels, not what he sees.|Cách tiếp cận nghệ thuật của anh ấy là vẽ những gì anh ấy nhận thấy chứ không phải những gì anh ấy nhìn thấy.
+N khi thể hiện "phương pháp của..." dùng dạng câu an approach to sth.
+S method - style|n.|phương pháp, phương thức
+R approachable|adj.|có thể tiếp cận, có thể tiếp xúc
+W broaden|ˈbrɔːd(ə)n|v.|mở rộng
+E Studying art has really broadened my mind.|Nghiên cứu nghệ thuật làm đầu óc tôi mở mang.
+R broad|adj.|rộng
+R breadth|n.|bề rộng, sự phóng khoáng
+W constantly|ˈkɒnstəntli|adv.|luôn luôn, liên tục, liên miên
+E He's constantly experimenting with new techniques.|Anh ấy liên tục tìm kiếm những kỹ thuật mới.
+S always - invariably|adv.|luôn luôn
+S often - frequently|adv.|liên tục, thường xuyên
+R constant|adj.|liên tục, không ngừng
+R constancy|n.|tính kiên định, sự bất biến
+W creative|kriːˈeɪtɪv|adj.|sáng tạo, giàu trí tưởng tượng
+E I'm not very creative, so I'm not very good at art.|Tôi không giàu trí tưởng tượng vì vậy tôi không giỏi về nghệ thuật.
+S imaginative - original - ingenious - innovative - inventive|adj.|giàu trí tưởng tượng
+A uncreative - unimaginative - unoriginal|adj.|không sáng tạo, không giàu trí tưởng tượng
+R creativity|n.|sự sáng tạo
+W disperse|dɪˈspɜːs|v.|giải tán
+E The crowd began to disperse after the concert.|Đám đông bắt đầu giải tán sau buổi nhạc.
+S scatter|v.|giải tán, phân tán
+R dispersal|n.|sự giải tán
+W in-depth|ɪnˈdepθ|adj.|sâu sắc, hoàn toàn
+E We shall take an in-depth look at the art of that period.|Chúng tôi sẽ xem xét kỹ nghệ thuật trong giai đoạn đó.
+S complete - comprehensive - thorough|adj.|hoàn toàn, sâu sắc
+W prefer|prɪˈfɜː|v.|thích hơn, ưa chuộng hơn
+E What style of art do you prefer?|Bạn thích loại hình nghệ thuật nào hơn?
+N khi thể hiện "thích B hơn A", dùng prefer B to A.
+S favor|v.|thích hơn
+R preference|n.|sự ưa chuộng hơn
+R preferable|adj.|thích hợp hơn
+R preferably|adv.|tốt nhất là

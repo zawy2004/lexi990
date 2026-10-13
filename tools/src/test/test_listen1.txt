@@ -1,0 +1,172 @@
+@P1
+Q1|B
+A She is getting measured for a suit.
+B She is being helped by a salesman.
+C She is getting dressed at home.
+D She is buying a wedding ring.
+Q2|C
+A He is folding a letter.
+B He is doing a crossword puzzle.
+C He is writing a note in his notebook.
+D He is typing an e-mail on his computer.
+Q3|D
+A The two men work at a gas station.
+B The two men are moving the couch.
+C The two men are getting ready to sleep.
+D The two men are cleaning the furniture.
+Q4|D
+A The man is buying a train ticket.
+B The woman is holding the ticket in her left hand.
+C The man is checking in at a hotel.
+D The woman works for an airline.
+Q5|C
+A The woman is driving in a race.
+B The woman is putting on lipstick.
+C The woman is sitting in the driver's seat.
+D The woman is opening her car door.
+Q6|A
+A The man has a ponytail.
+B They are looking out the window.
+C They are sitting in a coffee shop.
+D The woman is entering some data.
+Q7|A
+A The man is wearing safety goggles.
+B The man is wearing a pair of gloves.
+C The man is using a fire extinguisher.
+D The man is fixing some plumbing.
+Q8|A
+A There is a stack of books next to the chair.
+B The man is meeting with someone.
+C The man has his feet on a footstool.
+D The room is on the ground floor.
+Q9|B
+A The people are sitting in a doctor's office.
+B One woman is checking her watch.
+C Everyone in line is wearing jeans.
+D The man is wearing a backpack.
+Q10|A
+A The woman is walking in front of a fountain.
+B The woman has her baby in a stroller.
+C The woman is carrying luggage.
+D The woman is walking with her husband.
+@P2
+Q11|C|When are you going to get up tomorrow?
+A I already did that.
+B After the big meeting
+C About seven, I think.
+Q12|A|How often do you check your e-mail?
+A When I'm at the office, twice a day.
+B Only when it rains
+C I write a hundred e-mails every day.
+Q13|C|Why in the world did you buy that old car?
+A I hear Paris is nice this time of year.
+B No, I took the bus to work.
+C It was cheap, and it's easy to maintain.
+Q14|C|Did you give a presentation at the conference?
+A Yes, I got a new watch.
+B No, I'll take a taxi back to the airport.
+C Yes. I spent all week preparing for it.
+Q15|B|Would you prefer an appointment in the morning or afternoon?
+A Yes, mornings are usually busy.
+B I think afternoon would be better.
+C The governor isn't appointed; he's elected.
+Q16|B|How is your new secretary working out?
+A She goes to the gym about three times a week.
+B I couldn't ask for anything more.
+C She usually leaves at six.
+Q17|A|Tom is a natural leader, isn't he?
+A Yes, people listen to what he says.
+B Yes, he knows his way around the forest.
+C No, he does exactly what his boss tells him.
+Q18|C|Did you return the car to the rental company?
+A No, I didn't finish watching it.
+B My uncle gave it to me.
+C Yes, and I'll take a taxi to the airport.
+Q19|B|Where are we going to store these big boxes?
+A We can also order them online.
+B In the empty meeting room down the hall
+C You can put it in an envelope and mail it to me.
+Q20|B|Did you think Ken's announcement was a letdown?
+A No, I can come down any time you like.
+B Yes, I was expecting something more.
+C Yes, I thought he had a better voice than that.
+Q21|C|Are you and Tina able to help me with this project?
+A No, we aren't married.
+B No, we haven't been introduced yet.
+C We should be able to do that.
+Q22|A|Nancy, could you look over this letter to see if it's all right?
+A Sure, I have a couple of minutes.
+B If you're running a fever, you should see a doctor.
+C I haven't applied for that position.
+Q23|B|Did you park your car in the garage?
+A Yes, I parked it on the street.
+B Yes, it's safer, and it's out of the rain.
+C No, I took it into the office with me.
+Q24|A|The Internet has had a big impact on how we communicate.
+A It's also had an effect on how people spend their free time.
+B Communication is what keeps a marriage healthy.
+C It depends on whether you're using an Apple or a PC.
+Q25|C|There is a discrepancy between the invoice and the contents.
+A Live performance is always different from recordings.
+B I don't think anything can fit between them.
+C Can you double-check to find out the problem?
+Q26|B|How many feet are seven meters equivalent to?
+A It's about three twenty.
+B It's about twenty-three or so.
+C It depends on your connection speed.
+Q27|B|The balance of the payment will be due next month.
+A How many months after that will the whole bill be settled?
+B And then we'll own it outright, correct?
+C So the rate will be stable until the end of the year?
+Q28|C|Will you be applying for a transfer?
+A Rules do not apply to this situation.
+B In that case, I can stay in the same department.
+C I can't get a promotion if I stay here.
+Q29|A|All winners were randomly selected.
+A When are the prizes going to be handed out?
+B Then first place is the fastest, right?
+C I hear there was a controversy about drug testing.
+Q30|A|Do you know the extension of the party you want to reach?
+A Yes, Mr. Black's extension number is 73.
+B If he's at a party, I'll call back later.
+C I'm available after noon on Wednesday.
+Q31|B|Is this meeting mandatory?
+A No, it's for both men and women.
+B No, it's totally optional.
+C It's already been rescheduled.
+Q32|C|When is Mr. Thomas expecting a response?
+A He is a new customer.
+B He finally received the package.
+C He would like one as soon as possible.
+Q33|B|Who was the first to arrive today?
+A No, it was supposed to come tomorrow.
+B I think Ted was. He always does.
+C Is it the beginning of the month already?
+Q34|B|Do you think Mike is a suitable candidate?
+A He has a lot of luggage.
+B Yes, he has the background we want.
+C No, I don't think he's a good dresser.
+Q35|B|Who will succeed Mr. Layfield as CFO?
+A Yes, he is very successful as CFO.
+B I hear they're looking at outside candidates.
+C There is still an opening in the marketing department.
+Q36|C|Who is taking care of this account?
+A I have two daughters.
+B We make the deposit every night.
+C Tim is in charge of it.
+Q37|A|When is the new product due to be released?
+A It will be launched next Friday.
+B Due to budget cuts
+C It needs to be updated.
+Q38|B|How large is the staff here?
+A It has two floors.
+B There are thirteen people.
+C It's right across from the bank.
+Q39|A|Can we get a courier to take this package?
+A We can use the usual company.
+B The mail is delivered at ten.
+C I hear those are easy to drive.
+Q40|C|When should I call you?
+A My name is Arthur.
+B My number is 555-7393.
+C Anytime after three

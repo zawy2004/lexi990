@@ -1,0 +1,65 @@
+#2-3
+W correspondence|ˌkɒrɪˈspɒnd(ə)ns|n.|sự liên lạc thư từ
+E Most of the company's correspondence is now done by e-mail.|Hầu hết việc liên lạc của công ty bây giờ được thực hiện bằng thư điện tử.
+R correspondent|n.|người giao dịch bằng thư từ
+R correspond|v.|giao dịch trao đổi bằng thư tín
+W delete|dɪˈliːt|v.|xóa
+E Can I delete these e-mails now?|Bây giờ tôi có thể xoá những bức thư điện tử này chứ?
+S erase - cancel|v.|xóa, hủy bỏ
+R deletion|n.|sự xóa bỏ
+W disk|dɪsk|n.|ổ đĩa
+E Be sure to save all your files on a disk.|Hãy đảm bảo lưu tất cả hồ sơ dữ liệu trên ổ đĩa.
+R hard disk||đĩa cứng
+R disk drive||ổ đĩa
+W forward|ˈfɔːwəd|adv.|trước, phía trước
+E Arguing about past mistakes does not help you move forward to success.|Tranh cãi về những lỗi lầm trong quá khứ không giúp anh đạt được thành công phía trước.
+N vừa có thể làm tính từ, chỉ "hướng về trước, phía trước".
+A backward|adv., adj.|lạc hậu, thụt lùi đằng sau
+W glimpse|glɪmps|n., v.|sự liếc nhìn thoáng qua, liếc qua
+E I only had a glimpse of the fax; I'll read it properly now.|Tôi chỉ mới liếc qua tờ fax; bây giờ tôi sẽ đọc chi tiết nó.
+N Mẫu câu thường dùng là "have/catch a glimpse of N".
+S glance - peep|n.|liếc nhìn
+W ignore|ɪgˈnɔː|v.|phớt lờ, xao lãng
+E You must answer the telephone; you can't keep ignoring it.|Bạn phải trả lời điện thoại, bạn không thể phớt lờ hoài.
+S disregard - neglect - overlook|v.|xao lãng
+R ignorant|adj.|thất học, mù chữ, dốt nát
+W interaction|ˌɪntərˈækʃ(ə)n|n.|sự giao tiếp
+E Computers are more efficient, but customers often prefer interaction with real people.|Máy tính có nhiều lợi ích nhưng khách hàng thường thích giao tiếp với người thật hơn.
+R interact|v.|giao tiếp
+R interactive|adj.|ảnh hưởng lẫn nhau
+W letterhead|ˈletəhed|n.|giấy viết thư
+E All correspondence with our clients must be put on company letterhead.|Tất cả giao dịch bằng thư từ với khách hàng của chúng ta phải được viết trên giấy viết thư của công ty.
+W physically|ˈfɪzɪkli|adv.|về thân thể
+E The good thing about e-mails is that you don't have to physically send them.|Mặt tốt của thư điện tử là bạn không cần gửi chúng bằng sức người.
+A mentally|adv.|về đầu óc
+R physical|adj.|thuộc về thân thể, thể chất
+R physics|n.|môn vật lý, khoa vật lý
+W popularity|ˌpɒpjʊˈlærəti|n.|sự phổ biến
+E Faxes are losing popularity as people prefer to send e-mails.|Fax dần mất tính phổ biến khi người ta thích gửi bằng thư điện tử hơn.
+S favor|n.|sự đặc ân
+R popular|adj.|phổ biến
+W provider|prəˈvaɪdə|n.|nhà cung cấp
+E The Internet provider will send you monthly bills.|Nhà cung cấp dịch vụ Internet sẽ gửi hóa đơn hàng tháng cho bạn.
+R provide|v.|cung cấp
+R Internet service provider (ISP)||nhà cung cấp dịch vụ Internet
+#2-4
+W affordable|əˈfɔːdəb(ə)l|adj.|đủ khả năng, đủ điều kiện
+E This computer system is very affordable.|Hệ thống máy tính này rất hữu dụng.
+R afford|v.|có đủ sức, có thể
+W allocate|ˈæləkeɪt|v.|cấp cho, phân phát
+E Every member of staff is allocated his or her own desk.|Mỗi nhân viên được cấp một chiếc bàn làm việc.
+N biểu thị "đem vật gì đó chia cho người nào đó", cách dùng là "allocate sth to sb" hoặc "allocate sb sth".
+S allot|v.|cấp cho, phân phát, chia phần
+R allocation|n.|sự cấp phát
+W assemble|əˈsemb(ə)l|v.|họp lại, tụ tập, ráp
+E The new desks have arrived, but we need to assemble them ourselves.|Những chiếc bàn mới vừa đến nhưng chúng ta cần ráp chúng lại với nhau.
+S gather - put together||tụ tập, họp lại
+A disassemble|v.|giải thể, giải tán
+R assembly|n.|hội nghị
+R assembly hall||phòng hội nghị
+R assembly line||dây chuyền lắp ráp
+W compatible|kəmˈpætəb(ə)l|adj.|tương thích, tương hợp
+E Are these printers compatible with our computer system?|Những máy in này tương thích với hệ thống máy vi tính của bạn chứ?
+N thường dùng với giới từ with.
+A incompatible|adj.|không tương thích
+R compatibility|n.|sự tương thích, tính tương hợp

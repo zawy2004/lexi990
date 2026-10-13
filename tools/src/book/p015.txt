@@ -1,0 +1,86 @@
+#1-1
+W acceptance|əkˈseptəns|n.|sự chấp nhận
+E Now that you have shown your acceptance of our offer, I will prepare the contract for you to sign.|Do ông chấp nhận đơn đặt hàng của chúng tôi, tôi sẽ chuẩn bị hợp đồng để ông ký.
+N acceptance trong thương mại có thể dùng để chỉ "hóa đơn, hay chứng từ giao có đảm bảo thanh toán".
+S recognition|n.|sự công nhận
+A rejection|n.|sự từ chối
+R accept|v.|đồng ý, chấp nhận
+W agreement|əˈgriːmənt|n.|hợp đồng
+E The two countries signed a trade agreement.|Hai quốc gia đã ký một hợp đồng thương mại.
+N agreement khi mang nghĩa "hiệp định, hiệp ước" là danh từ đếm được, khi mang nghĩa là "đồng ý, thống nhất" thì lại là danh từ không đếm được. Trade agreement chỉ "hiệp định thương mại".
+S compact - treaty|n.|hiệp ước, thỏa ước
+R agree|v.|đồng ý
+W amend|əˈmend|v.|sửa đổi, hiệu chỉnh
+E Can we amend this part of the contract before we sign?|Chúng tôi có thể sửa đổi một phần của bản hợp đồng này trước khi chúng tôi ký không?
+S correct|v.|hiệu chỉnh
+R amendable|adj.|có thể hiệu chỉnh
+R amendment|n.|sự sửa đổi
+W amendment|əˈmendmənt|n.|sự sửa đổi, sự hiệu chỉnh
+E I have made the amendments you wanted; would you like to sign it now?|Tôi vừa thực hiện một số sửa đổi như ông muốn, vậy ông sẽ ký bây giờ chứ?
+N amendment thường dùng để chỉ "sự bổ sung hoặc sửa đổi một hiến pháp hay một đạo luật", ví dụ: a constitutional amendment là chỉ "sửa đổi một hiến pháp".
+S correction - alteration - emendation|n.|sự sửa đổi
+R amend|v.|sửa đổi, tu chỉnh
+W bind|baɪnd|v.|buộc, bó buộc, ràng buộc
+E She cannot work for anyone else as she is bound by her contract.|Cô ấy không thể làm việc cho người khác bởi vì cô ấy bị ràng buộc bởi hợp đồng của cô.
+N khi bind có nghĩa "bắt buộc, ràng buộc", thường dùng hình thức bị động dạng "be bound". Thì quá khứ và quá khứ phân từ của "bind" là "bound".
+A unbind - unfetter|v.|nới lỏng, tháo bỏ
+R binder|n.|người ràng buộc
+W binding|ˈbaɪndɪŋ|adj.|ràng buộc
+E The contract is legally binding.|Hợp đồng này là ràng buộc hợp pháp.
+N khi binding là một danh từ, có thể chỉ "bìa sách, keo, chất dán, dây buộc, miếng nẹp...".
+A nonbinding|adj.|không ràng buộc
+R bind|v.|bó buộc
+C abiding|adj.|kéo dài (=lasting)
+W breach|briːtʃ|n., v.|sự vi phạm, vi phạm
+E If you raise the price, that will be a breach of our contract.|Nếu ông tăng giá thì sẽ vi phạm hợp đồng của chúng ta.
+N breach of sth biểu thị "vi phạm việc gì đó", ví dụ: breach of an agreement (vi phạm hiệp ước), breach of etiquette (vi phạm thuần phong mỹ tục), breach of trust (bội tín)...
+S infraction - violation|n.|sự phá vỡ, sự vi phạm
+S break - violate - infringe|v.|phá vỡ, vi phạm
+A nonviolation - observance|n.|sự tuân thủ
+A follow - obey - observe|v.|làm theo, tuân theo
+W clause|klɔːz|n.|điều khoản
+E I want a clause put in the contract that says I will also get 5 percent of the profits.|Tôi muốn trong hợp đồng này có điều khoản rằng tôi cũng sẽ nhận được 5% lợi nhuận.
+N Trong ngữ pháp, clause có nghĩa là mệnh đề, ví dụ: main clause (mệnh đề chính), relative clause (mệnh đề quan hệ), subordinate clause (mệnh đề phụ thuộc)...
+R commerce clause||điều khoản thương mại
+R penalty clause||điều khoản bồi thường
+R saving clause||điều khoản tiết kiệm
+W contractual|kənˈtræktʃuəl|adj.|bằng hợp đồng
+E We have a contractual agreement.|Tôi có một thỏa thuận bằng hợp đồng.
+R contractual obligation||sự quy định theo hợp đồng
+R contract|n., v.|hợp đồng
+R contractually|adv.|tuân theo hợp đồng
+W currently|ˈkʌrəntli|adv.|hiện tại, hiện thời
+E We are currently tied to another contract, but that will end early next year.|Hiện tại chúng tôi bị ràng buộc bởi hợp đồng khác, nhưng nó sẽ kết thúc vào đầu năm sau.
+S now - presently - right now - at present||hiện tại, ngay bây giờ
+R current|adj.|hiện tại
+W obligate|ˈɒblɪgeɪt|v.|bắt buộc
+E You are obligated to buy our products for the next three years.|Anh phải có nghĩa vụ mua sản phẩm của chúng tôi trong khoảng 3 năm tới.
+N mẫu câu thường dùng là "be obligated to V.", biểu thị "có nghĩa vụ...".
+S force - constrain|v.|bắt buộc, ép buộc
+R obligation|n.|nghĩa vụ
+R obligatory|adj.|bắt buộc, cưỡng chế
+W obligation|ˌɒblɪˈgeɪʃ(ə)n|n.|nghĩa vụ, bổn phận, trách nhiệm
+E According to the contract, you have an obligation to pay.|Theo hợp đồng này, anh có nghĩa vụ phải thanh toán.
+S commitment - duty - responsibility|n.|nghĩa vụ, trách nhiệm
+R obligate|v.|bắt buộc
+W oblige|əˈblaɪdʒ|v.|bắt buộc, cưỡng chế
+E The law obliges people to pay tax.|Luật này buộc người dân phải nộp thuế.
+N oblige cũng có thể chỉ "khiến... cảm động", thường dùng quá khứ phân từ để biểu thị, ví dụ như: much obliged, I am obliged to you, hoặc là dùng would/ should be obliged để biểu thị, đây đều là những cách dùng chính thức.
+S compel - force|v.|bắt buộc, cưỡng chế
+S be obliged to|v.|bị buộc phải làm
+W party|ˈpɑːti|n.|bên
+E Both parties need to sign the contract.|Hai bên cần ký hợp đồng này.
+N Party ngoài ý nghĩa trên, còn có nghĩa là "chính đảng, đảng phái", ví dụ: the Democratic Party (Đảng Dân chủ).
+S participant|n.|bên tham gia
+R third party||bên thứ ba
+R the guilty party||bên phạm tội, bên vi phạm
+W persuasion|pəˈsweɪʒ(ə)n|n.|sự thuyết phục
+E It took a lot of persuasion to get her to sign.|Phải thuyết phục nhiều cô ấy mới chịu ký.
+R persuade|v.|thuyết phục
+R persuasive - convincing - inducing|adj.|mang tính thuyết phục, dễ tin
+W protect|prəˈtekt|v.|bảo vệ
+E The contract protects us both from any misunderstandings later.|Hợp đồng này bảo vệ cả hai chúng ta khỏi những hiểu lầm sau này.
+N khi protect có nghĩa là "bảo vệ", thường dùng mẫu câu: protect sb/ sth from against sth. Protect cũng có thể chỉ "(chính phủ) bảo vệ (tài sản đất nước)", hoặc "bảo hiểm cho tài sản của người nào đó".
+R protection|n.|sự bảo vệ
+R protective|adj.|mang tính bảo vệ
+R protectionism|n.|chủ nghĩa bảo vệ

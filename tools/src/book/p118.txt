@@ -1,0 +1,30 @@
+#6-3
+W lobby|ˈlɒbi|v.|vận động hành lang
+E It sounds like you are lobbying to fire the general manager.|Có vẻ như bạn đang vận động hành lang để sa thải tổng giám đốc.
+N cách dùng là lobby sb to do sth, có nghĩa là "vận động hành lang ai đó làm việc gì đó". Nghĩa thường gặp khác của lobby khi là danh từ là "hành lang".
+R lobbyist|n.|người vận động hành lang
+W matter|ˈmætə|n.|vấn đề, chủ đề
+E There is another matter I would like to discuss.|Có một chủ đề khác tôi muốn thảo luận.
+S subject - topic|n.|chủ đề, đề tài
+R an important matter/a matter of importance||một vấn đề quan trọng
+R a private/personal matter||vấn đề riêng tư
+W option|ˈɒpʃ(ə)n|n.|sự lựa chọn, tùy chọn
+E We have the option of delivering the order on Tuesday or Thursday.|Chúng ta có sự lựa chọn giao hàng vào thứ Ba hoặc thứ Năm.
+N "sự lựa chọn làm việc gì đó", cách dùng là option of doing sth.
+S choice - alternative|n.|sự lựa chọn
+R opt|v.|chọn lựa
+R optional|adj.|tùy ý lựa chọn
+R a viable option||một chọn lựa mang tính khả thi
+W periodically|ˌpɪərɪˈɒdɪk(ə)li|adv.|một cách định kỳ
+E We have meetings periodically, but not on a fixed schedule.|Chúng tôi có buổi họp định kỳ nhưng không phải theo lịch cố định.
+S occasionally - from time to time - at times - sometimes||theo dịp, định kỳ
+W progress|ˈprəʊgres|n.|sự tiến bộ
+E We didn't make much progress at the last meeting, so I hope we can be more successful this time.|Chúng ta không có nhiều tiến bộ tại buổi họp trước vì vậy tôi hy vọng chúng ta có thể thành công hơn vào lần này.
+N khi làm động từ, chỉ "tiến bộ, tiến hành".
+S advance|n.|tiến triển
+R progressive|adj.|có tiến bộ
+R progressively|adv.|có vẻ tiến bộ
+W solve|sɒlv|v.|giải quyết
+E You can solve many problems by discussing them with coworkers.|Bạn có thể giải quyết nhiều vấn đề bằng cách thảo luận với đồng nghiệp.
+S figure out - work out - resolve||giải quyết, tiến hành
+R solution|n.|sự giải quyết

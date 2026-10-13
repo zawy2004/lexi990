@@ -1,0 +1,72 @@
+#1-6
+W enterprise|ˈentəpraɪz|n.|doanh nghiệp
+E The city government offered grants in hopes of stimulating local enterprises.|Chính quyền thành phố trao trợ cấp với mong muốn kích thích những doanh nghiệp địa phương.
+R enterpriser|n.|doanh nhân
+R enterprising|adj.|có ý tưởng kinh doanh
+W entrepreneur|ˌɒntrəprəˈnɜː|n.|doanh nhân
+E Donald Trump is one of the most famous entrepreneurs in the world.|Donald Trump là một trong những doanh nhân nổi tiếng trên thế giới.
+N có nguồn gốc từ chữ Pháp.
+S enterpriser|n.|doanh nhân
+W establish|ɪˈstæblɪʃ|v.|thiết lập, thành lập
+E It isn't easy establishing a new business.|Thật không dễ để thành lập một doanh nghiệp mới.
+S start - found - set up||sáng lập, thành lập
+A close (down) - shut (up)|v.|đóng cửa
+R establishment|n.|sự thành lập
+W expand|ɪkˈspænd|v.|mở rộng
+E The company has recently found it difficult to expand its market base and reach new customers.|Gần đây công ty nhận thấy khó khăn để mở rộng thị trường và tìm kiếm khách hàng mới.
+R expansion|n.|sự mở rộng
+R expansive|adj.|bành trướng
+W fad|fæd|n.|mốt, kiểu thời trang; khuynh hướng
+E A good businessperson will know all the latest fads.|Một doanh nhân giỏi phải biết tất cả các khuynh hướng mới nhất.
+S craze - fashion - trend|n.|mốt, khuynh hướng
+R faddish|adj.|kỳ cục
+W franchise|ˈfræntʃaɪz|n.|đặc quyền, quyền ưu tiên
+E The largest fast-food chains operate on the franchise system.|Chuỗi nhà hàng thức ăn nhanh lớn nhất hoạt động dựa trên hệ thống đặc quyền.
+R franchisee|n.|đặc quyền
+R franchise organization||tổ chức đặc quyền
+W headquarters|ˌhedˈkwɔːtəz|n.|trụ sở
+E The CEO promised to hold a press conference from the company headquarters in Chicago.|Giám đốc điều hành hứa tổ chức một buổi hội báo tại trụ sở của công ty ở Chicago.
+N chữ này là hình thức số nhiều, nhưng có thể dùng như số ít hoặc số nhiều.
+R be headquartered in||được đặt tại...
+W joint venture|dʒɔɪnt ˈventʃə||liên doanh
+E Most of the foreign investments in mainland China are joint ventures between foreign and local firms.|Hầu hết đầu tư nước ngoài tại Trung Hoa đại lục đều là liên doanh giữa công ty nước ngoài và công ty địa phương.
+R venture capital||vốn rủi ro
+W mission|ˈmɪʃ(ə)n|n.|sứ mệnh, công việc, nhiệm vụ
+E This company's goals are outlined in our mission statement.|Mục tiêu của công ty này được nêu rõ trong bản báo cáo nhiệm vụ của chúng ta.
+W register|ˈredʒɪstə|v.|đăng ký
+E You must register the business before you can start selling anything.|Bạn phải đăng ký kinh doanh trước khi bắt đầu buôn bán thứ gì đó.
+N register có thể làm danh từ, chỉ "sổ đăng kí".
+R registration|n.|sự đăng ký
+R registered|adj.|được đăng ký
+R registry|n.|phòng đăng ký
+R cash register||máy rút tiền
+W require|rɪˈkwaɪə|v.|đòi hỏi, yêu cầu
+E Most banks require some kind of ID before they will let you open an account.|Hầu hết ngân hàng đòi hỏi vài loại chứng minh trước khi họ cho phép bạn mở một tài khoản.
+S want - need|v.|cần, muốn
+R requirement|n.|sự đòi hỏi
+W risk|rɪsk|n.|rủi ro
+E Starting a new business has its risks, but also many rewards.|Thành lập một doanh nghiệp mới có rủi ro nhưng cũng có nhiều lợi ích.
+N "risk" có thể làm động từ, chỉ "liều", sau có thường thêm V-ing.
+S danger - hazard - threat|n.|nguy hiểm, rủi ro
+R risk/venture capital||vốn rủi ro
+R risk management||sự quản lý rủi ro
+R risky|adj.|có tính chất rủi ro
+#2-1
+W capacity|kəˈpæsɪti|n.|sức chứa, dung tích, năng suất
+E The boardroom has a large seating capacity.|Phòng họp của công ty có sức chứa lớn.
+R surplus capacity||năng suất thặng dư
+R capacious|adj.|rộng
+W expose|ɪkˈspəʊz|v.|phơi bày, bộc lộ
+E The problem was exposed at the meeting.|Vấn đề được phơi bày tại cuộc họp.
+S uncover|v.|phơi bày, bộc lộ
+A protect|v.|bảo vệ
+R exposed|adj.|trần truồng
+R exposure|n.|sự phơi bày, sự tiết lộ
+W initiative|ɪˈnɪʃətɪv|n.|sáng kiến
+E I took the initiative of calling a meeting.|Tôi bắt đầu kêu gọi cuộc họp.
+N initiative thường dùng với động từ "take, seize, lose"... Ngoài ra, initiative cũng có thể làm tính từ, chỉ "mở đầu, sớm nhất".
+R initiate|v.|bắt đầu, sáng tạo
+R initial|adj.|thoạt đầu
+W mention|ˈmenʃ(ə)n|v.|đề cập
+E I think what you said is important. Maybe you should mention it at the meeting.|Tôi nghĩ những gì bạn nói là quan trọng. Có lẽ bạn nên đề cập nó tại buổi họp.
+S note|v.|ghi chú, lưu ý

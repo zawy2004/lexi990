@@ -1,0 +1,101 @@
+#6-1
+W adjacent|əˈdʒeɪs(ə)nt|adj.|gần, bên cạnh
+E The research department is adjacent to the design department.|Phòng nghiên cứu bên cạnh phòng thiết kế.
+S next to - beside||bên cạnh
+W conform|kənˈfɔːm|v.|tuân theo, tuân thủ
+E The finished product must conform to industry standards.|Sản phẩm được hoàn thành phải tuân thủ những tiêu chuẩn công nghiệp.
+N khi conform đứng riêng lẻ, chỉ "hành động theo qui phạm của xã hội". Khi chỉ "phù hợp (pháp luật, qui định)", cần thêm giới từ to hoặc with.
+S obey - follow - observe|v.|tuân theo
+A disobey|v.|không tuân theo
+W decade|ˈdekeɪd|n.|thập niên
+E We have been running this assembly line for almost a decade now.|Chúng tôi vận hành dây chuyền sản xuất này cho tới bây giờ được gần một thập niên.
+R century|n.|thế kỷ
+R millennium|n.|thiên niên kỷ
+W examine|ɪgˈzæmɪn|v.|kiểm tra
+E We examine the parts to make sure that they have been made well.|Chúng tôi kiểm tra những bộ phận này để đảm bảo rằng chúng được làm tốt.
+S inspect - check over - scrutinize||kiểm tra
+R examination|n.|sự kiểm tra, cuộc điều tra
+R examiner|n.|người kiểm tra
+R examinee|n.|người được kiểm tra
+W lease|liːs|v.|cho thuê
+E We don't own the building; we lease it.|Chúng tôi không phải chủ của tòa nhà này; chúng tôi thuê nó.
+N khi làm danh từ nó có nghĩa là "hợp đồng thuê, mướn nhà".
+S rent|v.|cho thuê
+W logical|ˈlɒdʒɪk(ə)l|adj.|lô gíc, hợp lý
+E It is logical to have the packing at the end of the assembly line, not the beginning.|Đó là hợp lý khi đóng gói ở giai đoạn cuối của dây chuyền sản xuất, không phải giai đoạn đầu.
+S rational - reasonable - sensible|adj.|hợp lý, có lý
+A illogical - unreasonable|adj.|vô lý
+R logic|n.|sự hợp lý
+R logically|adv.|một cách hợp lý
+W priority|praɪˈɒrɪti|n.|sự ưu tiên
+E Safety is our priority here, so you must first learn how to work on the line.|An toàn là ưu tiên của chúng tôi ở đây, vì thế trước tiên bạn phải học cách để làm việc trong hệ thống này.
+R first/top priority||ưu tiên hàng đầu
+R prioritize|v.|ưu tiên hóa
+W systematically|ˌsɪstəˈmætɪkli|adv.|một cách có hệ thống, có phương pháp
+E Doing things systematically helps make sure that everything gets done, and gets done well.|Tiến hành mọi việc có hệ thống giúp đảm bảo rằng mọi việc được làm và được làm tốt.
+R system|n.|hệ thống
+R systematic|adj.|có hệ thống
+W uniformly|ˈjuːnɪfɔːmli|adv.|một cách đồng bộ, giống nhau
+E If everything is done uniformly, then all the finished items should look exactly the same.|Nếu mọi thứ được làm một cách đồng bộ thì tất cả thành phẩm sẽ trông hoàn toàn giống nhau.
+S identically|adv.|tương tự nhau, y hệt nhau
+R uniform|adj.|như nhau, giống nhau
+R uniform|n.|đồng phục
+#6-2
+W circumstance|ˈsɜːkəmstəns|n.|tình trạng, điều kiện, hoàn cảnh
+E Under no circumstances should items go out if they have any problems.|Nếu những mặt hàng có vấn đề thì dù với bất kỳ hoàn cảnh nào cũng nên hủy bỏ chúng.
+S condition - situation - state|n.|tình trạng, điều kiện
+R economic/financial circumstances||tình trạng kinh tế/tài chính
+W collaboration|kəˌlæbəˈreɪʃn|n.|sự hợp tác
+E We can choose to work in collaboration with another company or on our own.|Chúng ta có thể chọn hợp tác làm việc với công ty khác hoặc chúng ta làm chủ.
+N dùng với "with + đối tượng hợp tác".
+S association - cooperation|n.|sự hợp tác
+R collaborate|v.|hợp tác
+R collaborative|adj.|mang tính hợp tác
+W concentrate|ˈkɒns(ə)ntreɪt|v.|tập trung
+E You have to concentrate very hard to make sure that you don't miss any problems.|Bạn phải tập trung rất nhiều để đảm bảo rằng bạn không bỏ lỡ bất kỳ vấn đề nào.
+N khi chỉ "chuyên tâm vào (vật việc nào đó)", cần thêm giới từ on.
+S focus|v.|tập trung
+A distract|v.|phân tán
+R concentration|n.|sự tập trung
+W condition|kənˈdɪʃ(ə)n|n.|điều kiện, tình trạng
+E We want everything to go out in perfect condition.|Tôi muốn mọi việc được tiến hành trong điều kiện hoàn hảo.
+R conditional|adj.|có điều kiện
+R living/working conditions||điều kiện sống/làm việc
+W defect|ˈdiːfekt|n.|khuyết điểm, khiếm khuyết, lỗi
+E If an item has even the smallest defect, we must not send it out.|Nếu một món hàng dù có khiếm khuyết nhỏ nhất thì chúng ta cũng không được gửi nó đi.
+S blemish - fault - flaw|n.|khuyết điểm, lỗi
+R birth defect||hoại tử
+R genetic defect||khiếm khuyết gen
+R defective|adj.|có nhược điểm
+W disruption|dɪsˈrʌpʃn|n.|sự phá vỡ
+E The mistake caused a big disruption to the order schedule.|Lỗi lầm đã gây nên sự phá vỡ lớn đối với kế hoạch đặt hàng.
+S disturbance|n.|sự rối loạn
+R disrupt|v.|phá vỡ
+R disruptive|adj.|(làm) gãy, vỡ
+W experiment|ɪkˈsperɪmənt|v.|làm thí nghiệm, thử nghiệm
+E We are experimenting with ways to improve the quality of our product.|Chúng tôi đang thử nghiệm những cách để nâng cao chất lượng sản phẩm của chúng tôi.
+N khi làm động từ, cần thêm giới từ with hoặc on. Cũng có thể làm danh từ, chỉ "thí nghiệm, sự thử".
+R experimental|adj.|thuộc về thí nghiệm
+R experimentation|n.|sự thử nghiệm
+W fluctuate|ˈflʌktʃʊeɪt|v.|biến chuyển, thay đổi
+E Quality can go up and down just a little, but it would be better if it didn't fluctuate at all.|Chất lượng có thể tăng lên rồi giảm xuống một tí nhưng nó sẽ tốt hơn nếu nó không thay đổi gì cả.
+S vary - change - shift|v.|thay đổi
+R fluctuation|n.|sự biến chuyển, sự thay đổi
+W garment|ˈgɑːmənt|n.|quần áo, y phục
+E We are very happy with the way our dresses and other garments look.|Chúng tôi rất hài lòng với kiểu cách của những chiếc đầm và những y phục khác của chúng tôi.
+N garment là cách nói trịnh trọng, thường khẩu ngữ dùng clothes, ngoài ra clothing là cách nói chung của y phục.
+R garment industry||ngành may mặc
+W hamper|ˈhæmpə|v.|cản trở, làm trở ngại
+E Our efforts are being hampered by a shortage of trained staff.|Những nỗ lực của chúng ta bị cản trở bởi thiếu nhân viên lành nghề.
+N khi làm danh từ, hamper chỉ "cái hòm mây (đựng thức ăn, quần áo)".
+S cramp - hold back - obstruct - hinder||làm trở ngại
+W indicator|ˈɪndɪkeɪtə|n.|dụng cụ chỉ báo, đồng hồ chỉ
+E Price is not always an indicator of quality.|Giá cả không phải lúc nào cũng là dụng cụ chỉ chất lượng.
+S pointer|n.|cây kim (đồng hồ)
+R indicate|v.|chỉ, chỉ dẫn
+R indication|n.|sự chỉ dẫn
+W inspect|ɪnˈspekt|v.|kiểm tra, điều tra
+E We inspect every item before it goes out.|Chúng tôi kiểm tra mỗi món hàng trước khi nó xuất.
+S examine - scrutinize|v.|kiểm tra
+R inspector|n.|thanh tra viên
+R inspection|n.|sự điều tra

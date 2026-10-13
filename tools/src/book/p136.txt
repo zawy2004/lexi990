@@ -1,0 +1,61 @@
+#8-1
+W beverage|ˈbevərɪdʒ|n.|nước giải khát
+E What kind of beverages do you offer?|Bạn gọi loại nước giải khát nào?
+S drink|n.|uống
+R alcoholic beverages||nước uống có cồn
+R nonalcoholic beverages||nước uống không chứa cồn
+W blanket|ˈblæŋkɪt|n., adj.|mền, chăn; bao trùm
+E Can you ask the flight attendant to give me a blanket?|Bạn có thể yêu cầu tiếp viên máy bay đưa cho tôi chiếc mền được chứ?
+N thường dùng a blanket of để hình dung "một lớp phủ dày", như a blanket of snow.
+R blanket statement||lời phát biểu chung chung
+W board|bɔːd|v.|lên tàu, lên máy bay
+E We need to board the plane now, as it will be leaving soon.|Bây giờ chúng ta phải lên máy bay vì nó sắp cất cánh.
+N thể hiện "mở cửa cho hành khách (máy bay, thuyền...) vào", có thể nói be boarding.
+R boarding pass||vé lên máy bay, lên tàu
+W chain|tʃeɪn|n.|chuỗi, dây xích, dây
+E If you pull that chain, the train will stop.|Nếu bạn kéo dây đó, xe lửa sẽ dừng.
+R chain store||chuỗi cửa hàng
+R food chain||xâu thức ăn
+R supply chain||hàng loạt cung cấp, chuỗi cung cấp
+W deluxe|dəˈlʌks|adj.|thuộc loại sang trọng, xa xỉ
+E We bought tickets for the deluxe train car.|Chúng tôi mua vé xe hạng sang.
+S luxurious - lavish|adj.|sang trọng, xa xỉ
+W disappoint|ˌdɪsəˈpɔɪnt|v.|làm hỏng, làm thất vọng
+E I'm sorry to disappoint you, but the train is not going to arrive in time.|Tôi xin lỗi đã làm bạn thất vọng nhưng tàu lửa đến không đúng giờ.
+S let down - dissatisfy - discontent||làm thất vọng
+A satisfy|v.|làm thỏa mãn, làm hài lòng
+R disappointment|n.|sự thất vọng
+R disappointing|adj.|làm thất vọng
+R disappointed|adj.|thất vọng
+W distinguish|dɪˈstɪŋgwɪʃ|v.|phân biệt, nhận ra
+E He can distinguish where a wine was produced just by tasting it.|Anh ấy có thể nhận ra rượu được sản xuất ở đâu chỉ bằng cách nếm thử.
+N cách dùng là distinguish A from B.
+S separate|v.|phân biệt
+R distinguished|adj.|đặc sắc, đặc trưng
+R distinguishable|adj.|có thể phân biệt, nhận biết được
+W license|ˈlaɪsns|n.|sự cho phép, giấy phép, chứng chỉ
+E You need a valid license to rent this car.|Bạn cần giấy phép hợp lệ để thuê chiếc ô tô này.
+N khi làm động từ chỉ "phân phát giấy chứng nhận cho ai đó".
+R driver's license||bằng lái xe
+R license plate||bảng đăng ký (xe ô tô...)
+W multiple|ˈmʌltɪp(ə)l|adj.|nhiều, phức tạp
+E This train ticket allows me to make multiple stops.|Vé xe lửa này cho phép tôi đón xe ở nhiều trạm.
+N khi làm danh từ chỉ "bội số".
+R multiple-choice|adj.|đa lựa chọn
+R multiple personality||đa tính cách
+W prohibit|prəˈhɪbɪt|v.|cấm, ngăn chặn
+E Smoking is prohibited on the train.|Cấm hút thuốc trên xe lửa.
+N dạng câu thường gặp prohibit sb from V-ing, nhưng thường dùng dưới dạng câu bị động.
+S ban - forbid|v.|cấm
+A allow - permit|v.|cho phép
+R prohibition|n.|sự ngăn cấm
+R prohibitive|adj.|nhằm ngăn cấm
+W relatively|ˈrelətɪvli|adv.|tương đối, khá, vừa phải
+E A plane ticket is relatively expensive, but we'll get there faster.|Vé máy bay tương đối đắt nhưng chúng ta sẽ đi nhanh hơn.
+S comparatively|adv.|tương đối
+R relative|adj., n.|có liên quan, cân đối với người bà con
+W service|ˈsɜːvɪs|n.|sự phục vụ
+E The service on the flight was really good, and so was the food.|Sự phục vụ trên máy bay thật sự tốt và thức ăn cũng ngon.
+R serve|v.|phục vụ
+R service charge||phí dịch vụ
+R service industry||ngành dịch vụ

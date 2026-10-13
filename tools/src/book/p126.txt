@@ -1,0 +1,80 @@
+#7-2
+W randomly|ˈrændəmli|adv.|tình cờ, ngẫu nhiên
+E I just randomly chose this place, but the food is actually quite good.|Tôi chỉ tình cờ chọn nơi này, nhưng thức ăn thật sự ngon.
+S aimlessly - at random||tình cờ
+R random|adj.|tình cờ
+W suggestion|səˈdʒestʃən|n.|sự đề nghị
+E I'll go with your suggestion and take the vegetarian pizza.|Tôi sẽ đi theo sự đề nghị của bạn và mang theo bánh pizza chay.
+S advice|n.|lời khuyên
+R suggest|v.|đề nghị
+R suggestive|adj.|có vẻ gợi ý
+#7-3
+W arrive|əˈraɪv|v.|đến
+E The guests have started to arrive.|Khách bắt đầu đến.
+N Dùng với nơi chốn, arrive at/in + nơi chốn.
+S come - show up - turn up||đến
+R arrival|n.|chuyến đến thăm
+W assist|əˈsɪst|v.|giúp, trợ giúp
+E Can you assist Carol with the scheduling?|Bạn có thể giúp Carol lên kế hoạch không?
+N dạng câu thường dùng assist sb with/in sth.
+S help - aid|v.|giúp, trợ giúp
+A interfere - hinder|v.|cản trở, gây trở ngại
+R assistance|n.|sự giúp đỡ
+R assistant|n., adj.|người trợ lý
+W burden|ˈbɜːd(ə)n|v.|đè nặng, chất nặng
+E Can I burden you with a favor?|Bạn có thể làm ơn giúp giùm tôi được không?
+N khi làm động từ, nó có cách dùng là burden sb with sth. Khi là danh từ, nó có nghĩa là "trách nhiệm".
+S load|v.|tải nặng
+S oppress|v.|đè nặng
+R beast of burden||thú vật chở đồ nặng
+R burdensome|adj.|nặng nề, làm khó chịu
+W commonly|ˈkɒmənli|adv.|thường thường, lắm khi
+E Wedding receptions are commonly held in hotels.|Các tiệc cưới thường được tổ chức trong khách sạn.
+S generally - normally|adv.|thường thường
+R common|adj.|phổ biến, chung
+R commoner|n.|người thường dân
+W individual|ˌɪndɪˈvɪdjʊəl|adj.|cá nhân, riêng tư
+E The entire staff received individual invitations to the party.|Toàn bộ nhân viên nhận lời mời riêng đến bữa tiệc.
+N individual cũng có thể là danh từ, chỉ "cá nhân, cá thể".
+S distinctive - peculiar - unique - separate|adj.|đặc trưng, riêng tư
+R individually|adv.|có vẻ riêng tư
+R individualism|n.|chủ nghĩa cá nhân
+R individualize|v.|cá nhân hóa
+W list|lɪst|n.|danh sách
+E There are almost a hundred people on our wedding list.|Có gần 100 người trong danh sách tiệc cưới của chúng tôi.
+S checklist - roll|n.|danh sách
+R waiting list||danh sách chờ
+R shopping list||danh sách mua sắm
+R mailing list||danh sách gửi thư
+W mix|mɪks|v.|sống hòa hợp với người khác, hòa đồng
+E Receptions are a great place for people to mix.|Tiệc chiêu đãi là một nơi tuyệt vời để mọi người giao thiệp với nhau.
+N dùng với giới từ with + người.
+S socialize - mingle|v.|hòa hợp
+R a good/bad mixer||người hòa đồng giỏi/dở
+W profession|prəˈfeʃ(ə)n|n.|nghề, nghề nghiệp
+E Anne enjoys her profession as a party planner.|Anne thích nghề làm người tổ chức tiệc.
+S occupation - employment - vocation|n.|chuyên môn, nghề nghiệp
+R professional|adj., n.|chuyên nghiệp
+#7-4
+W demand|dɪˈmɑːnd|v.|đòi hỏi, yêu cầu
+E But we booked the table a week ago! I demand to see the manager.|Nhưng chúng tôi đã đặt bàn cách đây một tuần! Tôi yêu cầu được gặp giám đốc.
+N Dùng với to V hoặc mệnh đề that. Ngoài ra, demand còn có thể làm danh từ, chỉ "yêu cầu, đòi hỏi".
+R demanding|adj.|đòi hỏi khắt khe
+W forget|fəˈget|v.|quên
+E Did you forget to make a reservation?|Bạn quên đặt chỗ trước phải không?
+N forget to V có nghĩa là "quên làm việc gì đó", forget V-ing có nghĩa là "quên sự việc gì ở quá khứ".
+A remember|v.|nhớ
+R forgetful|adj.|lãng quên
+R forgettable|adj.|đáng quên
+W mix-up|ˈmɪksʌp|n.|sự lẫn lộn, sự hỗn loạn, cuộc ẩu đả
+E There seems to be a mix-up: you gave us a table near the kitchen, but we wanted a table near the window.|Dường như có sự lẫn lộn: bạn dành cho chúng tôi bàn gần nhà bếp nhưng chúng tôi muốn một bàn gần cửa sổ.
+S foul-up - confusion|n.|sự lộn xộn
+S mixture|n.|sự trộn lẫn
+S fight|n.|sự cãi lộn
+R mixed|adj.|được trộn lẫn
+W patron|ˈpeɪtrən|n.|khách hàng quen, người bảo trợ
+E Patrons of the hotel can park their cars for free.|Khách hàng quen của khách sạn có thể đậu xe miễn phí.
+S customer|n.|khách hàng
+S sponsor|n.|người bảo trợ
+R patronize|v.|sự bảo trợ
+R patronage|n.|bảo trợ, giúp đỡ

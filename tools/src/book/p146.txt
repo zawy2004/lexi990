@@ -1,0 +1,75 @@
+#8-3
+W expect|ɪkˈspekt|v.|mong, mong đợi
+E What time do you expect the bus to arrive?|Bạn mong xe buýt đến lúc mấy giờ?
+R expectable|adj.|có thể kỳ vọng
+R expectation|n.|sự mong đợi
+R expectancy|n.|tình trạng mong chờ
+W intend|ɪnˈtend|v.|dự định
+E We intend to do lots of shopping on this trip!|Chúng tôi dự định sẽ mua sắm nhiều trong chuyến tham quan này.
+N cách dùng intend to V. hoặc intend for V-ing.
+S plan - aim - propose|v.|lên kế hoạch
+R intention|n.|ý định, dự định
+R intentional|adj.|cố ý, có chủ tâm
+R intentionally|adv.|cố ý, cố tình
+W itinerary|aɪˈtɪnərəri|n.|kế hoạch về một cuộc hành trình
+E According to the itinerary, we'll be going to see a show tomorrow night.|Theo kế hoạch cuộc hành trình, chúng ta sẽ xem buổi trình diễn vào tối mai.
+W notify|ˈnəʊtɪfaɪ|v.|thông báo
+E Please notify the tour guide if you will not be getting back on the bus.|Vui lòng thông báo cho hướng dẫn viên du lịch biết nếu bạn không thể trở lại xe buýt.
+N dạng câu thường gặp notify sb of sth hoặc mệnh đề notify sb that.
+S inform|v.|thông báo
+R notification|n.|sự thông báo
+W optional|ˈɒpʃ(ə)n(ə)l|adj.|tùy ý, không bắt buộc
+E You don't have to go shopping with everyone else; it's optional.|Bạn không phải đi mua sắm cùng mọi người; đó là không bắt buộc.
+S elective - voluntary|adj.|có thể lựa chọn, tình nguyện
+A compulsory - mandatory - obligatory - required|adj.|bắt buộc, cưỡng chế
+R option|n.|sự lựa chọn, tùy chọn
+R opt|v.|chọn, chọn lựa
+W preclude|prɪˈkluːd|v.|ngăn chặn, ngăn cản
+E Rain would preclude our plans to have a picnic.|Mưa sẽ ngăn cản kế hoạch đi dã ngoại của chúng ta.
+N cách dùng preclude sb from doing sth.
+S prevent|v.|ngăn chặn, ngăn cản
+R preclusion|n.|sự ngăn chặn, ngăn cản
+W remainder|rɪˈmeɪndə|n.|thời gian còn lại, phần còn lại
+E I think we will spend the remainder of the trip at the beach.|Tôi nghĩ chúng ta sẽ dành thời gian còn lại của chuyến tham quan tại bãi biển.
+N thường dùng dưới dạng the remainder (of sth).
+S rest - remains|n.|phần còn lại
+R remain|v.|còn lại, còn để
+R remaining|adj.|tình trạng giữ nguyên
+#8-4
+W advanced|ədˈvɑːnst|adj.|cao cấp, tiên tiến
+E The station has a very advanced computer system that tells you where all the trains are.|Nhà ga này có hệ thống máy tính tiên tiến cho bạn biết tất cả nơi những chuyến xe lửa đi qua.
+S developed - improved|adj.|tiến bộ
+A backward - primitive - undeveloped|adj.|lạc hậu
+R advance|v., n.|có tiến bộ, sự tiến bộ
+R advancement|n.|sự tiến bộ
+W announcement|əˈnaʊnsmənt|n.|sự thông báo
+E I just heard an announcement that the train is going to be late.|Tôi vừa nghe thông báo rằng xe lửa sẽ đến trễ.
+R announce|v.|thông báo
+R announcer|n.|người thông báo
+W busy|ˈbɪzi|adj.|bận rộn, náo nhiệt
+E This is the main station, so it's always very busy.|Đây là nhà ga chính, vì thế nó luôn náo nhiệt.
+S bustling - thriving - vibrant|adj.|náo nhiệt, nhộn nhịp
+A dead - inactive - lifeless|adj.|tẻ nhạt
+W claim|kleɪm|v.|đòi hỏi, yêu sách
+E You must show your ticket before you can claim your baggage.|Bạn phải trình vé trước khi bạn đòi hành lý của mình.
+N claim cũng làm danh từ, chỉ "sự yêu sách, sự yêu cầu".
+R baggage claim||khu vực hành lý
+W nervously|ˈnɜːvəsli|adv.|bồn chồn, lo lắng
+E She's scared of flying and is nervously looking out the window.|Cô ấy sợ đi máy bay và cô ấy lo lắng nhìn ra ngoài cửa sổ.
+S anxiously - uneasily - tensely|adv.|lo lắng
+R nervous|adj.|lo lắng
+R nerve|n.|dây thần kinh, khí phách
+W operate|ˈɒpəreɪt|v.|hoạt động, điều khiển, quản lý
+E That airline doesn't operate out of Taipei.|Hãng hàng không đó không hoạt động ngoài Đài Bắc.
+R operation|n.|sự hoạt động, sự điều khiển, quản lý
+R operational|adj.|sẵn sàng để dùng
+W punctually|ˈpʌŋktʃʊəli|adv.|đúng giờ
+E The trains always leave punctually; they're never late.|Xe lửa luôn khởi hành đúng giờ, chúng không bao giờ trễ.
+S on time||đúng giờ
+R punctual|adj.|đúng giờ
+R punctuality|n.|tính đúng giờ
+W remote|rɪˈməʊt|adj.|xa xôi, hẻo lánh, biệt lập
+E You don't see many people at this station because it's so remote.|Bạn không thấy nhiều người tại sân ga này vì nó quá hẻo lánh.
+S isolated - secluded|adj.|biệt lập, hẻo lánh
+R remote (control)|n.|điều khiển từ xa
+R remotely|adv.|ở mức rất nhỏ, rất mơ hồ, rất xa

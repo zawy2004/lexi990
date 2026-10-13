@@ -1,0 +1,69 @@
+#4-2
+W inventory|ˈɪnvənt(ə)ri|n.|bản kiểm kê hàng hóa
+E I have taken inventory to see what supplies we need to order.|Tôi kiểm kê hàng hóa để xem chúng tôi cần đặt những hàng hóa nào.
+S stock|n.|hàng tồn kho
+R inventory control||kiểm kê hàng tồn kho
+R inventory management||quản lý hàng tồn kho
+W maintain|meɪnˈteɪn|v.|duy trì
+E You can usually get better prices and service if you maintain a good relationship with the supplier.|Bạn thường có thể nhận giá cả và dịch vụ tốt hơn nếu bạn duy trì quan hệ tốt với nhà cung cấp.
+R maintenance|n.|sự duy trì
+R upkeep|n.|sự duy trì
+W order|ˈɔːdə|v.|đặt hàng
+E If we order the pens today, when will we receive them?|Nếu hôm nay chúng tôi đặt mua viết thì khi nào chúng tôi sẽ nhận chúng?
+N khi làm danh từ thì mang nghĩa "đơn đặt hàng, hàng đặt", như place an order (đặt hàng), receive an order (nhận được đơn đặt hàng).
+W promptly|ˈprɒmptli|adv.|nhanh chóng, ngay lập tức
+E I ordered the supplies and they promptly arrived the next day.|Tôi đặt hàng và chúng ngay lập tức đến vào ngày hôm sau.
+S immediately - without delay||ngay lập tức, không chậm trễ
+S on time||đúng giờ
+R prompt|adj.|nhanh chóng
+R promptness|n.|sự nhanh chóng
+W rectify|ˈrektɪfaɪ|v.|chỉnh sửa, hiệu đính
+E You sent us the wrong order. How will you rectify the situation?|Bạn đã gửi đơn hàng sai cho chúng tôi. Bạn sẽ sửa đổi tình trạng này như thế nào?
+S correct - put right||làm đúng, hiệu đính
+R rectification|n.|sự chỉnh sửa, sự hiệu đính
+W remember|rɪˈmembə|v.|nhớ, ghi nhớ
+E Did you remember to order the copy paper?|Bạn có nhớ đặt mua giấy copy không?
+N remember V-ing chỉ "nhớ làm việc gì đó ở quá khứ", remember to V chỉ "nhớ phải đi làm việc gì đó".
+A forget|v.|quên
+W stationery|ˈsteɪʃ(ə)n(ə)ri|n.|văn phòng phẩm
+E I need some more stationery: just some paper and pens.|Tôi cần thêm văn phòng phẩm: chỉ giấy và bút.
+R stationary|adj.|thuộc về văn phòng phẩm
+W sufficiently|səˈfɪʃəntli|adv.|đầy đủ
+E The defects resulted from the workers not being sufficiently trained.|Sai sót do từ những công nhân chưa được đào tạo đầy đủ.
+S enough|adv.|đủ
+A insufficiently|adv.|thiếu
+R sufficient|adj.|đầy đủ
+R suffice|v.|làm cho đủ
+R sufficiency|n.|sự đầy đủ
+W supply|səˈplaɪ|v.|cung cấp
+E This is the company that supplies our computer equipment.|Đây là công ty cung cấp thiết bị máy tính.
+N khi supply là danh từ thì nó có nghĩa "sự cung cấp, hàng cung cấp, nguồn dự trữ", như water supply (sự cung cấp nước), electricity supply (sự cung ứng điện).
+S provide|v.|cung cấp
+R supplier|n.|nhà cung cấp
+R supply and demand||cung và cầu
+W verify|ˈverɪfaɪ|v.|xác minh, xác nhận, khẳng định
+E Can you verify that the order will arrive by the end of the week?|Bạn có thể khẳng định hàng đặt sẽ đến vào cuối tuần chứ?
+S confirm|v.|khẳng định
+R verifiable|adj.|có thể xác minh
+R verification|n.|sự xác minh
+#4-3
+W carrier|ˈkærɪə|n.|hãng vận tải, tàu chuyên chở
+E We can ship it out tomorrow, but which carrier do you want to use?|Chúng tôi có thể gửi chở hàng bằng tàu vào ngày mai, nhưng bạn muốn sử dụng hãng vận tải nào?
+R carry|v.|mang, khuân
+R aircraft carrier||hàng không mẫu hạm
+W essentially|ɪˈsenʃəli|adv.|về cơ bản, về bản chất
+E Essentially, we need your order by the 7th if you want to receive the goods by the end of the month.|Về cơ bản, chúng tôi cần đơn đặt hàng của các anh vào ngày 7 nếu các anh muốn nhận hàng vào cuối tháng.
+S basically|adv.|về cơ bản
+R essential|adj.|thiết yếu
+W estimate|ˈestɪmət|n.|sự đánh giá, sự ước lượng
+E Can you give me an estimate of the delivery time?|Bạn có thể cho tôi một ước lượng về thời gian giao hàng được không?
+N khi là động từ, đọc [ˈestɪmeɪt], ngoài chỉ "ước đoán", còn có thể chỉ "đánh giá, phán đoán".
+S guesstimate|n., v.|đoán
+R rough estimate||đoán chính xác
+R conservative estimate||đoán chừng
+W liability|ˌlaɪəˈbɪlɪti|n.|trách nhiệm pháp lý
+E What is your liability if the order is lost or broken in shipping?|Trách nhiệm pháp lý của bạn là gì nếu hàng hóa bị mất hoặc bị vỡ trong quá trình vận chuyển?
+N liability cũng có nghĩa là "nợ", thường ở dạng số nhiều.
+S responsibility - blame - fault|n.|sự chịu trách nhiệm
+R liable|adj.|khả năng pháp lý
+R limited liability||trách nhiệm hữu hạn

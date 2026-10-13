@@ -1,0 +1,64 @@
+#3-1
+W abundant|əˈbʌndənt|adj.|phong phú, đa dạng, nhiều
+E An abundant supply of willing workers drives the price of labor down.|Lượng cung công nhân sẵn sàng làm việc phong phú làm cho giá cả lao động giảm xuống.
+S plentiful - ample|adj.|nhiều, phong phú
+A bare - scarce|adj.|ít, hiếm
+R abundance|n.|sự phong phú
+W candidate|ˈkændɪdeɪt|n.|thí sinh, ứng cử viên
+E Only the best candidates will be invited to an interview.|Chỉ có những ứng viên giỏi nhất mới được mời phỏng vấn.
+S applicant|n.|người nộp đơn, ứng cử viên
+W generate|ˈdʒenəreɪt|v.|tạo, sản xuất
+E The ad generated only a few applications.|Quảng cáo đó chỉ tạo nên vài ứng dụng.
+S create - produce - cause|v.|tạo, sản xuất
+R generation|n.|sự tạo ra, sự sản xuất ra
+R generator|n.|người tạo ra, máy phát điện
+W hire|haɪə|v.|thuê, mướn
+E We need to hire some more office staff.|Chúng ta cần thuê thêm một số nhân viên văn phòng.
+N khi "hire" làm danh từ, ngoài ý chỉ "thuê mướn" ra, còn có thể chỉ "thuê, phí sử dụng, tiền công", ví dụ: car hire (thuê xe).
+S employ - rent|v.|thuê
+A fire - dismiss - discharge|v.|sa thải, đuổi việc
+W qualification|ˌkwɒlɪfɪˈkeɪʃ(ə)n|n.|phẩm chất, tiêu chuẩn, khả năng
+E We will choose the person with the best qualifications for this position.|Chúng ta cần chọn người có phẩm chất tốt nhất cho vị trí này.
+N khi chỉ "tư cách", cách dùng thường gặp là "qualifications for sth" hoặc "qualifications to do sth".
+S capability - credentials|n.|khả năng, tiêu chuẩn
+R qualify|v.|làm cho đủ tiêu chuẩn
+R qualified|adj.|đủ tiêu chuẩn
+W recruit|rɪˈkruːt|v.|tuyển chọn, tuyển dụng
+E The company likes to recruit people straight out of school.|Công ty thích tuyển người trực tiếp từ trường học.
+N khi "recruit" là danh từ có ý chỉ "người mới đến, lính mới".
+R recruitment|n.|sự tuyển dụng
+R recruiter|n.|nhà tuyển dụng
+#3-2
+W eligible|ˈelɪdʒəb(ə)l|adj.|đủ điều kiện
+E I'll be eligible for retirement next year.|Tôi đủ điều kiện để về hưu vào năm sau.
+N cách dùng là "be eligible for sth" hoặc "be eligible to do sth".
+R eligibility|n.|sự đủ điều kiện
+W loyal|ˈlɔɪəl|adj.|trung thành
+E You have been a loyal employee, having worked in our company for over forty years.|Bạn là một nhân viên trung thành khi bạn làm việc tại công ty chúng tôi trên 40 năm.
+N Phía sau thêm giới từ "to".
+S constant - faithful|adj.|trung thành, thành thật
+A disloyal - inconstant - faithless|adj.|dối trá, bất trung
+R loyalty|n.|lòng trung thành
+R loyally|adv.|trung thành
+W mentor|ˈmentɔː|n.|người cố vấn, quân sư
+E I am so sad you are retiring because you are my mentor. Who will teach me now?|Tôi rất buồn khi anh sắp về hưu vì anh là quân sư của tôi mà. Bây giờ ai sẽ dạy tôi đây?
+W present|prɪˈzent|v.|tặng, biếu
+E Harry's boss presented him with a gold watch on his retirement.|Ông chủ của Harry tặng anh ấy một chiếc đồng hồ đeo tay bằng vàng khi anh ấy nghỉ hưu.
+N khi có ý chỉ "tặng, cho", cách dùng là "present sb with sth" hoặc "present sth to sb".
+S give|v.|cho, tặng
+W recognition|ˌrekəgˈnɪʃ(ə)n|n.|sự công nhận
+E The company threw a retirement party for him in recognition of his many years of hard work.|Công ty tổ chức một bữa tiệc nghỉ hưu cho ông ấy để công nhận nhiều năm làm việc chăm chỉ của ông.
+S appreciation|n.|sự biết ơn, lòng biết ơn
+R recognize|v.|công nhận
+W retire|rɪˈtaɪə|v.|nghỉ hưu
+E I hope I don't get bored when I retire.|Tôi hy vọng mình không chán khi về hưu.
+N retire from sth chỉ "tự nghỉ hưu (nơi nào đó)", retire as sth chỉ "khi đương nhiệm (chức vụ gì đó) thì nghỉ hưu".
+R retired|adj.|hưu trí, ẩn dật
+R retiree|n.|người về hưu
+R retirement|n.|sự về hưu, việc về hưu
+W value|ˈvæljuː|v.|đánh giá, xem xét
+E We will miss Terry; we valued her as a coworker and a friend.|Chúng ta sẽ nhớ Terry; chúng ta xem cô ấy như một người đồng nghiệp, một người bạn.
+N khi value làm danh từ ý chỉ "giá trị, tính quan trọng", ví dụ: market value (giá trị thị trường).
+S appreciate - cherish - treasure|v.|đánh giá
+R valuable|adj.|đáng giá
+R valueless|adj.|không có giá trị

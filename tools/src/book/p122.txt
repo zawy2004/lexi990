@@ -1,0 +1,69 @@
+#7-1
+W appeal|əˈpiːl|v.|thu hút, cuốn hút
+E This restaurant appeals to people with lots of money to spend.|Nhà hàng này thu hút người ta tiêu nhiều tiền.
+N khi dùng để chỉ "hấp dẫn (ai đó)", cách dùng appeal to sb.
+S attract - draw|v.|thu hút
+R appeal|n.|sự thu hút
+R appealing|adj.|quyến rũ, hấp dẫn
+W culinary|ˈkʌlɪnəri|adj.|thuộc về nhà bếp
+E The banquet was a culinary success; everyone thought the food was amazing.|Buổi tiệc lớn là một thành công của nhà bếp; mọi người nghĩ thức ăn thật ngon.
+N đứng phía trước và bổ nghĩa cho danh từ.
+R culinary skills||kỹ năng làm bếp, kỹ năng nấu nướng
+R culinary delights||sở thích làm bếp, sở thích nấu nướng
+W delivery|dɪˈlɪvəri|n.|sự phân phối, sự phân phát
+E We are waiting for the delivery of the chairs.|Chúng tôi chờ giao những chiếc ghế này.
+R deliver|v.|phân phát, giao
+W elegance|ˈelɪgəns|n.|sự tao nhã, sự nhã nhặn
+E I love the elegance of a five-star hotel.|Tôi yêu nét tao nhã của khách sạn năm sao.
+S class - gracefulness|n.|sự duyên dáng
+A crudeness - roughness|n.|sự thô kệch
+R elegant|adj.|tao nhã, nhã nhặn
+R elegantly|adv.|có vẻ nhã nhặn
+W impress|ɪmˈpres|v.|tạo ấn tượng
+E If you want to impress your wedding guests, you should hold an expensive banquet.|Nếu bạn muốn tạo ấn tượng cho khách dự tiệc cưới của bạn thì bạn nên tổ chức một buổi tiệc lớn đắt tiền.
+N dạng câu thường dùng impress sb with/by sth.
+S affect - move - touch|v.|tác động, làm ảnh hưởng
+R impressive|adj.|có ấn tượng
+R impression|n.|sự ấn tượng
+W majority|məˈdʒɒrɪti|n.|đa số
+E The majority of the people we invited are going to attend.|Đa số những người chúng tôi mời đều đến tham dự.
+A minority|n.|thiểu số
+R major|adj.|chính yếu
+R majority rule||quy luật đa số
+W plan|plæn|v.|hoạch định, dự kiến
+E The bride and groom planned their wedding a year in advance.|Cô dâu và chú rể hoạch định cho đám cưới của họ một năm trước.
+N cũng có thể làm danh từ, có nghĩa là "kế hoạch, phương pháp".
+S arrange - design|v.|sắp xếp
+R planner|n.|người lên kế hoạch
+W predict|prɪˈdɪkt|v.|dự đoán, tiên đoán
+E It's difficult to predict how much food you'll need for a banquet.|Thật khó để dự đoán một buổi tiệc lớn cần bao nhiêu thức ăn.
+N Dùng với các từ nghi vấn how/what/when/whether hoặc mệnh đề that.
+S forecast - foretell|v.|dự đoán
+R predictable|adj.|có thể dự đoán được
+R prediction|n.|sự dự đoán
+W theme|θiːm|n.|chủ đề, chủ điểm
+E This banquet has a Halloween theme, so you should wear a costume.|Buổi tiệc lớn này có chủ đề Halloween, vì thế bạn nên mặc trang phục.
+R thematic|adj.|thuộc chủ đề
+R theme park||công viên chính
+R theme party||buổi tiệc chủ điểm
+R theme song||nhạc hiệu
+#7-2
+W basic|ˈbeɪsɪk|adj.|cơ bản, đơn giản nhất
+E I just want something basic, like a sandwich or noodles.|Tôi chỉ muốn thứ gì đơn giản, giống như bánh mì sandwich hay mì.
+S fundamental - essential|adj.|thiết yếu
+R basics|n.|những vấn đề chủ yếu
+R basically|adv.|về cơ bản
+W familiar|fəˈmɪlɪə|adj.|quen thuộc, thân thiết
+E Are you familiar with this cafe?|Bạn quen với quán cà phê này hả?
+N để chỉ nghĩa "quen thuộc với...", dùng be familiar with.
+A unfamiliar|adj.|không quen thuộc, xa lạ
+R familiarize|v.|làm quen
+R familiarity|n.|sự quen thân, sự thân mật
+W flavor|ˈfleɪvə|n.|hương vị
+E What flavor of ice cream would you like?|Bạn thích hương kem nào?
+N flavor có thể dùng như động từ, có nghĩa là "cho gia vị, làm tăng thêm mùi vị".
+S taste|n.|vị
+W ingredient|ɪnˈgriːdɪənt|n.|nguyên liệu, thành phần
+E What are the ingredients of this amazing cake?|Nguyên liệu của chiếc bánh ngon này là gì?
+N cũng có thể chỉ "tố chất (của ai đó)", ví dụ như ingredients of a great baseball player (tố chất của một cầu thủ bóng chày ưu tú).
+S element - component - constituent - factor|n.|yếu tố, thành phần

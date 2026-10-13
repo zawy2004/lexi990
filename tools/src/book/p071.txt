@@ -1,0 +1,61 @@
+#4-1
+W allowance|əˈlaʊəns|n.|sự cho phép, tiền phụ cấp
+E You have to check with the airline to find out their weight allowance.|Bạn phải kiểm tra với công ty hàng không để biết trọng lượng cho phép.
+N allowance còn có nghĩa "sự chiếu cố, sự dung thứ", thường dùng make allowance(s) for sb để thể hiện.
+S pocket money||một chút tiền
+R baggage allowance||khối lượng hành lý được phép
+R tax allowance||tiền thuế
+R recommended daily allowance||tiền phụ cấp cho nhu cầu hằng ngày
+W checkout|ˈtʃekaʊt|n.|việc trả tiền để rời khỏi khách sạn
+E I got to the checkout and then found that I didn't have any money on me!|Tôi phải trả tiền để rời khỏi khách sạn và rồi tôi phát hiện mình không mang theo tiền.
+R check out||trả tiền để rời khỏi khách sạn
+W customer|ˈkʌstəmə|n.|khách hàng
+E If a store has no customers, it will make no money.|Nếu một cửa hàng không có khách hàng thì nó không kiếm được tiền.
+S guest - patron - client|n.|khách hàng
+R customer service||dịch vụ khách hàng
+R regular/repeat customer||khách hàng thường xuyên/khách quen
+W item|ˈaɪtəm|n.|khoản, mục, món hàng
+E I only have two items; can I go in front of you?|Tôi chỉ có 2 món, tôi có thể đi trước bạn không?
+R collector's item||món đồ quý giá của người sưu tầm
+W obtain|əbˈteɪn|v.|thu được, kiếm được, giành được
+E I need to obtain a free-parking ticket.|Tôi cần đạt được chiếc vé đậu xe miễn phí.
+S acquire - earn - gain|v.|thu được, giành được
+R obtainable|adj.|có thể giành được
+W prerequisite|priːˈrekwɪzɪt|n.|điều bắt buộc trước nhất, điều chủ yếu
+E Knowing what you want and how much you want to pay is a prerequisite to a happy shopping experience.|Biết những gì bạn muốn và bao nhiêu tiền bạn muốn trả là điều chủ yếu nhất để có một trải nghiệm mua sắm vui vẻ.
+N đi với giới từ for, of hoặc to.
+S precondition|n.|điều kiện tiên quyết
+W quality|ˈkwɒlɪti|n.|chất lượng
+E Usually, a cheaper price means poorer quality.|Thường thường, giá rẻ hơn đồng nghĩa với chất lượng kém hơn.
+N khi là tính từ mang nghĩa "tính tốt, phẩm chất tốt", như quality product (sản phẩm phẩm chất tốt).
+S class - grade|n.|loại, bậc
+R quality control||kiểm soát chất lượng
+R quality assurance||đảm bảo chất lượng
+C quantity|n.|số lượng
+W scan|skæn|v.|quét qua
+E If the price label won't scan properly, you'll have to type in the price by hand.|Nếu nhãn giá không thể quét được, bạn sẽ phải đánh máy giá cả bằng tay.
+N cũng có thể sử dụng như danh từ, như ultrasound scan (siêu âm), brain scan (siêu âm não).
+R scanner|n.|máy quét
+W trend|trend|n.|khuynh hướng
+E Shopping trends show what kinds of things people buy and when.|Khuynh hướng mua sắm cho biết loại hàng hóa nào người ta mua và khi nào mua.
+S current - tendency|n.|khuynh hướng
+S fad - fashion - craze|n.|mốt, khuynh hướng
+R trendy|adj.|chạy theo mốt, rất mốt
+R trendsetter|n.|người khởi xướng một mốt mới, khuynh hướng mới
+#4-2
+W automatically|ˌɔːtəˈmætɪkli|adv.|một cách tự động
+E Our computer system automatically tells us when we need to order more supplies.|Hệ thống máy tính của chúng ta tự động báo khi nào chúng ta cần đặt mua nhiều hàng cung cấp hơn.
+R automatic|adj.|tự động
+W catalog|ˈkæt(ə)lɒg|n.|sách in kiểu mẫu và giá tiền, catalô
+E I would like to order something I saw in your catalog.|Tôi muốn đặt mua vài thứ tôi thấy trong catalô của bạn.
+N cách phiên âm của người Anh là catalogue; catalog cũng có thể làm động từ, mang ý "đính kèm... trong mục lục".
+S list|n.|danh sách
+W crucial|ˈkruːʃ(ə)l|adj.|quan trọng, thiết yếu
+E It's crucial that we receive these supplies before Christmas.|Điều quan trọng là chúng tôi phải nhận được những hàng hóa này trước lễ Giáng Sinh.
+N khi thể hiện "đối với... rất quan trọng" thì dùng giới từ to.
+S critical - key - vital - essential|adj.|quan trọng, thiết yếu, nhất thiết
+R crucially|adv.|một cách quan trọng
+W fulfill|fʊlˈfɪl|v.|hoàn thành
+E Will you be able to fulfill our order?|Bạn có thể hoàn thành đơn đặt hàng này không?
+S achieve - satisfy|v.|đạt được
+R fulfillment|n.|sự hoàn thành

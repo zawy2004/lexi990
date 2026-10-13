@@ -1,0 +1,11 @@
+#4-4
+W tedious|ˈtiːdɪəs|adj.|chán, tẻ nhạt
+E Writing invoices can be tedious, but it is very important.|Viết hóa đơn có thể tẻ nhạt nhưng nó rất quan trọng.
+S boring - dull|adj.|chán
+A interesting|adj.|hấp dẫn, thú vị
+R tediously|adv.|buồn chán, tẻ nhạt
+R tediousness|n.|sự buồn chán
+W term|tɜːm|n.|điều khoản
+E According to the terms listed in our invoice, if you cancel, you still have to pay half of the total.|Theo những điều khoản được liệt kê trong hoá đơn của chúng tôi, nếu bạn hủy, bạn vẫn phải thanh toán một nửa trong tổng số.
+N khi chỉ "điều kiện, điều khoản" thường dùng dạng số nhiều.
+R terms and conditions||điều khoản và điều kiện

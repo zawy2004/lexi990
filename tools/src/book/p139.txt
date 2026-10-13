@@ -1,0 +1,54 @@
+#8-1
+W substantially|səbˈstænʃəli|adv.|lớn lao, đáng kể
+E Planes are substantially faster than other kinds of transport.|Máy bay thì nhanh hơn rất nhiều so với những phương tiện giao thông khác.
+S greatly - much - considerably|adv.|lớn lao, nhiều, đáng kể
+S basically - generally - essentially|adv.|về bản chất, về căn bản
+A slightly - little|adv.|nhỏ, ở mức độ không đáng kể
+R substantial|adj.|lớn lao, đáng kể, trọng yếu
+W thrill|θrɪl|n.|sự rùng mình, sự kích động
+E Flying is always a thrill for me.|Đi máy bay luôn là nỗi sợ đối với tôi.
+N dạng câu the thrill of (doing) sth chỉ "(làm) việc gì đó đem lại sự sung sướng". Khi làm động từ thrill chỉ "làm xúc động, làm rùng mình".
+S excitement|n.|sự kích động
+R thriller|n.|tiểu thuyết, vở kịch hoặc bộ phim có nội dung ly kỳ
+#8-2
+W agent|ˈeɪdʒənt|n.|đại lý, tác nhân
+E The agent says we can pay for the tickets with a credit card.|Đại lý cho biết rằng chúng ta có thể thanh toán vé bằng thẻ tín dụng.
+S representative|n.|người đại diện, đại lý
+R agency|n.|đại lý, sự môi giới
+R real estate agent||đại lý bất động sản
+R travel agency||đại lý du lịch
+W confirm|kənˈfɜːm|v.|xác nhận, xác minh
+E I'm just calling to confirm that our seats have been booked.|Tôi chỉ gọi để xác nhận chỗ ngồi của chúng tôi đã được đặt.
+N đằng sau đi với các từ nghi vấn như what hoặc mệnh đề that.
+S verify|v.|xác nhận
+R confirmation|n.|sự xác nhận
+W destination|ˌdestɪˈneɪʃ(ə)n|n.|nơi đến
+E We're going to Paris, but on this ticket it says the destination is London!|Chúng tôi đến Paris nhưng vé máy bay ghi nơi đến là Luân Đôn!
+R destined|adj.|đi đến
+R tourist destination||điểm đến du lịch
+W economize|ɪˈkɒnəmaɪz|v.|tiết kiệm
+E We can economize by taking the train instead of flying.|Chúng ta có thể tiết kiệm bằng cách đi xe lửa thay vì đi máy bay.
+N khi thể hiện "tiết kiệm, giảm chi vật gì đó", thường nói economize on sth, như economize on fuel (tiết kiệm nhiên liệu), economize on water (tiết kiệm nước).
+S save|v.|tiết kiệm
+A waste|v.|phung phí, lãng phí
+R economy|n.|nền kinh tế
+R economical|adj.|tiết kiệm
+R economic|adj.|về kinh tế
+W equivalent|ɪˈkwɪvələnt|adj.|tương đương, ngang bằng
+E US$500 is equivalent to about NT$16,000.|500 đô la Mỹ bằng 16.000 đô la Đài Loan.
+N cũng có thể làm danh từ, chỉ "vật tương đương, từ đồng nghĩa, vật đồng giá". Cách nói the equivalent of sth, thể hiện "tương đương với vật nào đó".
+R equal|adj.|bằng
+R equivalence|n.|sự tương đương, ngang bằng
+W excursion|ɪkˈskɜːʃ(ə)n|n.|cuộc đi chơi, chuyến tham quan
+E We're going on an excursion to Ilan next weekend.|Chúng tôi sắp đi tham quan ILan cuối tuần sau.
+N đằng sau đi với giới từ to + nơi chốn.
+S outing - trip|n.|cuộc đi chơi
+W expense|ɪkˈspens|n.|sự tiêu, phí tổn
+E Plane tickets are usually the biggest expense of a trip overseas.|Vé máy bay thường là chi tiêu lớn nhất cho chuyến tham quan nước ngoài.
+S costs - expenditure|n.|chi tiêu
+R expensive|adj.|đắt, tốn kém
+W extend|ɪkˈstend|v.|kéo dài, mở rộng
+E We want to extend our trip by two days.|Chúng tôi muốn kéo dài chuyến tham quan 2 ngày.
+R extension|n.|sự gia hạn, sự mở rộng
+R extensive|adj.|có phạm vi rộng, kéo dài ra
+R extended|adj.|mở rộng

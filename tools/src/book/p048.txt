@@ -1,0 +1,69 @@
+#2-4
+W courier|ˈkʊrɪə|n.|người đưa thư
+E I am sending this package by courier right away, as it must arrive before noon.|Tôi sẽ yêu cầu người đưa thư gửi kiện hàng này ngay lập tức vì nó phải đến trước buổi trưa.
+N khi courier làm danh từ, thì có ý chỉ "người đưa thư khẩn cấp" hoặc "hướng dẫn viên du lịch".
+W durable|ˈdjʊərəb(ə)l|adj.|bền
+E The strong plastic makes these chairs very durable.|Nhựa dẻo làm cho những chiếc ghế này rất bền.
+R durability|n.|sự bền, sức bền
+R durable goods||hàng hóa bền
+W express|ɪkˈspres|adj.|nhanh, cấp tốc
+E This letter needs to arrive tomorrow, so please send it by express delivery.|Bức thư này cần đến vào ngày mai, vì thế hãy gửi nó cấp tốc.
+N express có thể làm danh từ, biểu thị "xe tốc hành, chuyển phát nhanh".
+R express mail||thư cấp tốc
+W fold|fəʊld|v.|xếp, gấp (một tờ giấy)
+E We should hire someone to fold all these letters and put them in the envelopes.|Chúng ta nên thuê ai đó gấp những bức thư này và bỏ chúng vào phong bì.
+N fold còn có thể chỉ "(công ty) phá sản".
+A unfold|v.|mở nếp gấp ra
+R folder|n.|người gấp giấy
+W layout|ˈleɪaʊt|n.|cách bố trí, cách trình bày
+E I'm working on the layout of the company newsletter.|Tôi đang làm công việc trình bày bản tin cho công ty.
+S format - arrangement|n.|sự định dạng, sự bố trí
+R lay out||định dạng, trình bày
+W network|ˈnetwɜːk|n.|hệ thống, mạng
+E A computer network allows you to see files on other people's computers.|Mạng máy vi tính cho phép bạn nhìn thấy tất cả hồ sơ trên máy tính người khác.
+N khi network làm động từ, có thể chỉ "giao thiệp để tìm kiếm cơ hội kinh doanh, công việc làm ăn".
+R road/rail network||hệ thống đường/đường ray
+R local area network||mạng khu vực địa phương
+W outdated|ˌaʊtˈdeɪtɪd|adj.|lỗi thời
+E The computer system is outdated; we need to get a new one.|Hệ thống máy tính này lỗi thời rồi; chúng ta cần có một hệ thống mới.
+S old-fashioned - out-of-date|adj.|lỗi thời
+W replace|rɪˈpleɪs|v.|thay thế
+E All the chairs have been replaced with newer, more comfortable ones.|Tất cả những chiếc ghế này cần được thay thế bằng những chiếc mới hơn, thoải mái hơn.
+N cách dùng để biểu thị ý "dùng B thay thế A" là replace A with B.
+S displace|v.|thế chỗ
+R replaceable|adj.|có thể thay thế được
+R replacement|n.|sự thay thế
+W search|sɜːtʃ|v.|tìm kiếm, tra cứu
+E We're searching for some good, cheap office furniture.|Chúng tôi đang tìm một số đồ đạc văn phòng tốt mà rẻ.
+N search có thể làm danh từ.
+S seek - look for||tìm kiếm
+R in search of||tìm kiếm
+R search engine||máy dò tìm
+W software|ˈsɒf(t)weə|n.|phần mềm
+E Purchasing software for all the computers can be very expensive.|Mua phần mềm cho tất cả máy tính có thể rất tốn kém.
+A hardware|n.|phần cứng
+R word-processing software||phần mềm xử lý văn bản
+R design software||phần mềm thiết kế
+R antivirus software||phần mềm diệt vi rút
+#2-5
+W access|ˈækses|n.|sự truy cập, lối vào
+E We now have access to the Internet.|Bây giờ chúng tôi truy cập Internet.
+N khi access làm động từ chỉ "lấy thông tin (máy tính)".
+S doorway - entry - gateway|n.|lối vào
+R remote access||truy cập từ xa
+R accessible|adj.|có thể truy cập được
+W beforehand|bɪˈfɔːhænd|adv.|trước, trước tiên
+E If you need to take a day off, be sure to tell the manager beforehand.|Nếu bạn cần nghỉ một ngày, chắc chắn phải nói trước với giám đốc.
+S in advance - previously||trước, trước tiên
+A afterward|adv.|sau, sau đó
+W code|kəʊd|n.|mật mã, mã số, quy tắc
+E We don't have a dress code in the office, but it's better to wear something smart.|Chúng ta không cần phải ăn mặc đúng quy cách tại công sở, nhưng tốt hơn là chúng ta nên mặc đồ lịch sự.
+N code có thể chỉ "mật mã, thông tin bảo mật".
+R dress code||quy cách ăn mặc
+R code of conduct/behavior||quy tắc đạo đức/ứng xử
+W complication|ˌkɒmplɪˈkeɪʃ(ə)n|n.|sự rắc rối, sự phức tạp
+E To avoid complications, it's better to let the manager fix any problems that aren't part of your job.|Để tránh những rắc rối, tốt hơn nên để giám đốc giải quyết những vấn đề không phải là việc của bạn.
+N complication có thể chỉ "biến chứng", nhưng khi mang ý nghĩa này thường dùng với dạng số nhiều.
+S difficulty - complexity|n.|sự khó khăn, sự phức tạp
+R complicate|v.|làm phức tạp, làm phiền phức
+R complicated|adj.|phức tạp, phiền phức

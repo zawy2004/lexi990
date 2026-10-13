@@ -1,0 +1,66 @@
+#3-5
+W accomplishment|əˈkʌmplɪʃmənt|n.|thành tích, thành tựu
+E What are some of your greatest accomplishments?|Vài thành tích nổi bật nhất của anh là gì?
+S achievement - success - triumph|n.|thành tích
+R accomplish|v.|đạt được
+R accomplished|adj.|có thành tích
+W achievement|əˈtʃiːvmənt|n.|thành tựu
+E He is a man of many achievements, both in the business world and in his personal life.|Anh ấy là người đàn ông có nhiều thành tựu, cả trong lĩnh vực kinh doanh và trong đời sống cá nhân.
+S accomplishment - success - triumph|n.|thành tựu
+R achieve|v.|đạt được
+R achievable|adj.|có thể đạt được
+W apply|əˈplaɪ|v.|nộp đơn, xin, thỉnh cầu
+E Why don't you apply for the job?|Tại sao bạn không nộp đơn cho công việc này?
+N khi mang nghĩa "xin (vật hay việc nào đó)", dùng giới từ for. Khi "xin (cơ quan nào đó)" thì dùng giới từ to.
+R application|n.|sự nộp đơn, sự thỉnh cầu
+R applicant|n.|người nộp đơn, người xin việc
+R applied|adj.|được thỉnh cầu
+W background|ˈbækgraʊnd|n.|bối cảnh, quá trình đào tạo, nền tảng
+E I currently work as an office manager, but my background is in engineering.|Hiện tôi làm giám đốc văn phòng, nhưng ngành đào tạo của tôi là kỹ sư xây dựng.
+N thể hiện "có kinh nghiệm ở phương diện...", dùng giới từ in.
+R cultural/educational/family background||nền tảng văn hoá/giáo dục/gia đình
+R privileged/wealthy background||bối cảnh thịnh vượng/giàu có
+W confidence|ˈkɒnfɪdəns|n.|sự tin tưởng, lòng tin
+E I can see you certainly have enough confidence for the position, but do you have the experience?|Tôi có thể thấy được bạn có đủ sự tự tin cho vị trí này, nhưng bạn có kinh nghiệm không?
+S assurance - certainty|n.|sự đảm bảo, sự chắc chắn
+R confident|adj.|tự tin
+R self-confidence|n.|sự tự tin
+R consumer confidence||lòng tin của khách hàng
+W contribute|kənˈtrɪbjuːt|v.|đóng góp
+E With my experience, I feel I can contribute a lot to the company's success.|Với kinh nghiệm của tôi, tôi nhận thấy mình có thể đóng góp nhiều cho sự thành công của công ty.
+N cách dùng là contribute sth to/toward sth.
+S donate - give - present|v.|hiến dâng, tặng
+R contribution|n.|sự đóng góp
+R contributor|n.|người đóng góp
+W merit|ˈmerɪt|n.|sự xuất sắc, sự xứng đáng
+E Your resume lists all your merits, but tell me what you think your biggest fault is.|Bản sơ yếu lý lịch của bạn liệt kê tất cả những phẩm chất xuất sắc của bạn, nhưng hãy cho tôi biết bạn nghĩ điểm yếu lớn nhất của bạn là gì?
+S advantage - strength|n.|điểm mạnh
+A fault - flaw - defect|n.|điểm yếu
+W profile|ˈprəʊfaɪl|n.|sự mô tả sơ lược
+E Please include a short profile with your resume.|Vui lòng bao gồm sự mô tả ngắn cùng với sơ yếu lý lịch của bạn.
+N khi làm động từ chỉ "vẽ mặt nghiêng, viết giới thiệu của...".
+R DNA profiling||DNA mô phỏng DNA
+R high-profile|adj.|có danh tiếng
+W reject|rɪˈdʒekt|v.|từ chối, bác bỏ
+E His application was rejected because he doesn't have a college degree.|Đơn xin việc của anh ấy bị bác bỏ vì anh ấy không có bằng đại học.
+N khi là danh từ, chỉ "người bị xã hội từ chối" hoặc "phế phẩm, vật bị loại".
+S deny - refuse - decline|v.|từ chối, bác bỏ
+A accept - approve|v.|chấp nhận, tán thành
+R rejection|n.|sự bác bỏ
+W submit|səbˈmɪt|v.|đệ trình, nộp
+E Please submit your application before February 28th.|Vui lòng nộp đơn xin việc của bạn trước ngày 28 tháng Hai.
+R submission|n.|sự đệ trình
+W time-consuming|ˈtaɪmkənˈsjuːmɪŋ|adj.|tốn thời gian
+E Reading all the applications can be so time-consuming.|Đọc tất cả đơn xin việc có thể rất tốn nhiều thời gian.
+W training|ˈtreɪnɪŋ|n.|sự đào tạo
+E We provide training for the job, so it's OK if you don't have experience.|Chúng tôi sẽ đào tạo cho công việc này, vì thế nếu bạn không có kinh nghiệm cũng không sao.
+R train|v.|đào tạo
+R training session||khóa đào tạo
+R on-the-job training||đào tạo cho công việc
+W update|ˌʌpˈdeɪt|v.|cập nhật, cung cấp thông tin mới nhất cho ai
+E Your resume only goes up to the end of last year; can you update me on what you have been doing recently?|Sơ yếu lý lịch của bạn chỉ nêu đến cuối năm ngoái, bạn có thể cung cấp cho tôi những gì bạn đã làm gần đây chứ?
+N khi muốn thể hiện ý "cho (ai) biết được tin mới nhất", cách dùng là update sb on sth.
+W wage|weɪdʒ|n.|tiền công
+E I want a fair wage for this new position.|Tôi muốn tiền lương công bằng cho vị trí mới này.
+S pay - payment|n.|sự thanh toán, sự trả lương
+R minimum wage||tiền công tối thiểu
