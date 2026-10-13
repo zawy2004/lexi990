@@ -16,6 +16,30 @@
       L.ui.setTitle('Cài đặt');
       const S = L.store.settings;
 
+      function syncHtml() {
+        const Y = L.sync;
+        let h = '<h2 class="h2 section" id="sync-section">Đồng bộ giữa các thiết bị</h2>';
+        if (!Y.enabled) {
+          return h + '<p class="small muted" style="margin-top:8px;max-width:62ch">Lưu tiến độ lên một gist bí mật trong tài khoản GitHub của bạn. Mỗi lần mở app, trên máy nào cũng được, app tự tải về chỗ bạn đang học. Sau mỗi lần học, app tự lưu lên.</p>' +
+            '<ol class="small" style="padding-left:20px;margin:0 0 14px;max-width:62ch">' +
+            '<li>Mở <a href="https://github.com/settings/tokens/new?scopes=gist&amp;description=Lexi990%20sync" target="_blank" rel="noopener">trang tạo token của GitHub</a> (đã chọn sẵn quyền <b>gist</b>).</li>' +
+            '<li>Ở mục Expiration chọn thời hạn dài, ví dụ "No expiration", rồi bấm <b>Generate token</b>.</li>' +
+            '<li>Sao chép token (bắt đầu bằng <code>ghp_</code>), dán vào ô dưới đây và bấm Kết nối. Làm lại bước này trên mỗi máy, dùng cùng tài khoản GitHub.</li></ol>' +
+            '<form class="field" data-act="connect" autocomplete="off"><label for="gh-token">Token GitHub</label>' +
+            '<div style="display:flex;gap:10px"><input type="password" id="gh-token" placeholder="ghp_…" spellcheck="false" autocomplete="off">' +
+            '<button class="btn" type="submit"' + (Y.status === 'syncing' ? ' disabled' : '') + '>' + (Y.status === 'syncing' ? 'Đang kết nối…' : 'Kết nối') + '</button></div>' +
+            '<span class="hint">Token chỉ có quyền đọc và ghi gist, được lưu trên trình duyệt này và không nằm trong file sao lưu.</span></form>';
+        }
+        const last = Y.lastSync ? new Date(Y.lastSync) : null;
+        const lastStr = last ? last.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' }) + ' ngày ' + last.getDate() + '/' + (last.getMonth() + 1) : 'chưa có';
+        return h + '<div class="state-line" style="margin-top:10px">' + L.ui.bub(Y.status === 'error' ? 0 : 3, Y.status === 'error' ? 'bad-ring' : '') +
+          '<span>Đang đồng bộ với tài khoản <b>@' + esc(Y.login || '') + '</b>. ' +
+          (Y.status === 'syncing' ? 'Đang đồng bộ…' : Y.status === 'error' ? '<span style="color:var(--bad)">' + esc(Y.error) + '</span>' : 'Lần cuối: ' + lastStr + '.') + '</span></div>' +
+          '<p class="small muted" style="margin:6px 0 12px">Tiến độ tự lưu lên vài giây sau mỗi lần học và tự tải về mỗi khi mở app.</p>' +
+          '<div class="btn-row"><button class="btn small line" data-act="sync-now"' + (Y.status === 'syncing' ? ' disabled' : '') + '>Đồng bộ ngay</button>' +
+          '<button class="btn small ghost" data-act="sync-off">Ngắt kết nối trên máy này</button></div>';
+      }
+
       function draw() {
         const voices = L.speech.englishVoices();
         const cur = L.speech.englishVoice();
@@ -52,6 +76,7 @@
               '<label class="switch"><span><span style="font-weight:600">Đọc nghĩa tiếng Việt khi nghe cả bài</span><br><span class="small muted">' + (vi ? 'Giọng: ' + esc(vi.name) : 'Máy này chưa có giọng đọc tiếng Việt.') + '</span></span><input type="checkbox" id="speakVi"' + (S.speakVi ? ' checked' : '') + (vi ? '' : ' disabled') + '></label>'
             : '<p class="muted">Trình duyệt này không hỗ trợ giọng đọc (Web Speech API). Hãy dùng Chrome, Edge hoặc Safari bản mới.</p>') +
 
+          syncHtml() +
           '<h2 class="h2 section">Giao diện</h2><div class="seg" style="margin-top:12px">' +
           [['auto', 'Theo máy'], ['light', 'Sáng'], ['dark', 'Tối']].map(([v, n]) => '<button class="' + (S.theme === v ? 'on' : '') + '" data-th="' + v + '">' + n + '</button>').join('') + '</div>' +
 
@@ -68,7 +93,7 @@
       }
       draw();
 
-      const set = (k, v) => { S[k] = v; L.store.save(); };
+      const set = (k, v) => { S[k] = v; L.store.touchSettings(); };
 
       root.addEventListener('input', (e) => {
         if (e.target.id === 'newPerDay') { set('newPerDay', +e.target.value); root.querySelector('#newPerDayV').textContent = e.target.value; }
@@ -108,6 +133,11 @@
         const a = e.target.closest('[data-act]');
         if (!a) return;
         if (a.dataset.act === 'test-voice') L.speech.speak('Welcome to the TOEIC test. Please listen carefully.');
+        if (a.dataset.act === 'sync-now') { L.sync.now().then(() => L.ui.toast(L.sync.status === 'error' ? L.sync.error : 'Đã đồng bộ')); return; }
+        if (a.dataset.act === 'sync-off') {
+          if (!a.dataset.armed) { a.dataset.armed = '1'; a.textContent = 'Bấm lần nữa để ngắt'; return; }
+          L.sync.disconnect(); L.ui.toast('Đã ngắt đồng bộ. Tiến độ vẫn còn trên máy này và trên gist.'); draw(); return;
+        }
         if (a.dataset.act === 'export') {
           const blob = new Blob([L.store.exportJSON()], { type: 'application/json' });
           const link = document.createElement('a');
@@ -125,9 +155,18 @@
         }
       });
 
+      root.addEventListener('submit', (e) => {
+        if (!e.target.matches('[data-act="connect"]')) return;
+        e.preventDefault();
+        const token = root.querySelector('#gh-token').value;
+        L.sync.connect(token)
+          .then(() => { L.ui.toast(L.sync.status === 'error' ? L.sync.error : 'Đã kết nối. Tiến độ sẽ tự đồng bộ.'); L.lex.invalidateCourse(); draw(); })
+          .catch((err) => { L.ui.toast(err.message || 'Không kết nối được GitHub'); draw(); });
+      });
+      const offSync = L.sync.onChange(() => { if (document.body.contains(root) && !root.querySelector('input:focus')) draw(); });
       const onVoices = () => { if (document.body.contains(root) && !root.querySelector('select:focus')) draw(); };
       if (window.speechSynthesis && window.speechSynthesis.addEventListener) window.speechSynthesis.addEventListener('voiceschanged', onVoices);
-      return { destroy() { if (window.speechSynthesis && window.speechSynthesis.removeEventListener) window.speechSynthesis.removeEventListener('voiceschanged', onVoices); } };
+      return { destroy() { offSync(); if (window.speechSynthesis && window.speechSynthesis.removeEventListener) window.speechSynthesis.removeEventListener('voiceschanged', onVoices); } };
     },
   };
 

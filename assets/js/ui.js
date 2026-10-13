@@ -20,6 +20,7 @@
     stop: '<rect x="6" y="6" width="12" height="12" rx="1.5"/>',
     up: '<path d="M6 14l6-6 6 6"/>',
     down: '<path d="M6 10l6 6 6-6"/>',
+    cloud: '<path d="M7 18.5h10.5a4 4 0 0 0 .6-7.95A6 6 0 0 0 6.6 9.1 4.7 4.7 0 0 0 7 18.5z"/>',
     grid: '<circle cx="6" cy="6" r="2"/><circle cx="12" cy="6" r="2"/><circle cx="18" cy="6" r="2"/><circle cx="6" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="18" cy="12" r="2"/><circle cx="6" cy="18" r="2"/><circle cx="12" cy="18" r="2"/><circle cx="18" cy="18" r="2"/>',
   };
 

@@ -54,6 +54,24 @@
     root.focus({ preventScroll: true });
   }
 
+  const RUNNERS = ['study', 'quiz'];
+  function isRunner() {
+    const ctx = parseHash();
+    const name = ROUTES[ctx.parts[0]] || 'today';
+    return RUNNERS.includes(name) || (name === 'test' && ctx.parts[1] === 'run');
+  }
+
+  function showSync() {
+    const el = document.getElementById('sync');
+    if (!L.sync.enabled) { el.hidden = true; return; }
+    el.hidden = false;
+    el.className = 'sync-dot ' + L.sync.status;
+    const t = L.sync.status === 'error' ? 'Lỗi đồng bộ: ' + L.sync.error : L.sync.status === 'syncing' ? 'Đang đồng bộ…' : 'Đã đồng bộ với GitHub (@' + L.sync.login + ')';
+    el.title = t;
+    el.setAttribute('aria-label', t);
+    if (!el.firstChild) el.innerHTML = L.ui.icon('cloud');
+  }
+
   function boot() {
     if (!window.LEXI_DATA || !window.LEXI_DATA.s1500) {
       root.innerHTML = '<p class="empty">Không tải được dữ liệu từ vựng. Hãy tải lại trang.</p>';
@@ -63,6 +81,19 @@
     L.lex.init();
     L.applyTheme();
     L.ui.fillIcons(document);
+
+    // Ask the browser not to evict our storage when the disk gets full.
+    if (navigator.storage && navigator.storage.persist) {
+      navigator.storage.persisted().then((p) => p || navigator.storage.persist()).catch(() => {});
+    }
+    L.sync.onChange(showSync);
+    L.sync.init(() => {
+      L.lex.invalidateCourse();
+      L.applyTheme();
+      if (!isRunner()) route();
+      L.ui.toast('Đã cập nhật tiến độ từ thiết bị khác');
+    });
+    showSync();
 
     document.addEventListener('click', (e) => {
       const say = e.target.closest('[data-say]');

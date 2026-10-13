@@ -193,9 +193,7 @@
         const m = e.target.closest('[data-act="mark"]');
         if (m) {
           e.stopPropagation();
-          const marks = L.store.state.marks;
-          if (marks[current]) delete marks[current]; else marks[current] = 1;
-          L.store.save();
+          L.store.setMark(current, !L.store.state.marks[current]);
           draw();
           return;
         }

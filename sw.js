@@ -1,5 +1,5 @@
 /* Offline support: precache the app, then serve from cache and refresh in the background. */
-const VERSION = 'lexi990-v1';
+const VERSION = 'lexi990-v2';
 const ASSETS = [
   './',
   'index.html',
@@ -7,6 +7,7 @@ const ASSETS = [
   'assets/css/app.css',
   'assets/js/util.js',
   'assets/js/store.js',
+  'assets/js/sync.js',
   'assets/js/srs.js',
   'assets/js/lexicon.js',
   'assets/js/speech.js',
@@ -48,7 +49,7 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(req.url);
   const sameOrigin = url.origin === self.location.origin;
   const fonts = /fonts\.(googleapis|gstatic)\.com$/.test(url.hostname);
-  if (!sameOrigin && !fonts) return;
+  if (!sameOrigin && !fonts) return; // GitHub API calls (sync) always go to the network
 
   event.respondWith(
     caches.open(VERSION).then(async (cache) => {

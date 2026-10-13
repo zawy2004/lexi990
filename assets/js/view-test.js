@@ -188,13 +188,14 @@
       if (p) { parts = p.dataset.preset.split(',').map(Number); ui.testParts = parts; L.store.save(); draw(); return; }
       if (e.target.closest('[data-act="start"]')) {
         st.draft = { parts: parts.slice().sort(), mode, answers: {}, elapsed: 0, screen: 0, limit: mode === 'exam' ? timeLimit(parts) : 0, started: Date.now() };
+        st.draftAt = Date.now();
         L.store.saveNow();
         location.hash = '#/test/run';
         return;
       }
       if (e.target.closest('[data-act="drop"]')) {
         const b = e.target.closest('[data-act="drop"]');
-        if (b.dataset.armed) { st.draft = null; L.store.saveNow(); draw(); }
+        if (b.dataset.armed) { st.draft = null; st.draftAt = Date.now(); L.store.saveNow(); draw(); }
         else { b.dataset.armed = '1'; b.textContent = 'Bấm lần nữa để bỏ'; }
       }
     });
@@ -305,7 +306,7 @@
       if (!q) return;
       if (practice && d.answers[n] !== undefined) return;
       d.answers[n] = k;
-      L.store.save();
+      L.store.touchDraft();
       draw(); // playback keeps going; the button label refreshes when it ends
     }
 
@@ -316,6 +317,7 @@
       const rec = Object.assign({ id: Date.now(), date: Date.now(), mode: d.mode, parts: d.parts, answers: d.answers, secs: Math.round(d.elapsed) }, g);
       st.tests.push(rec);
       st.draft = null;
+      st.draftAt = Date.now();
       L.store.saveNow();
       location.hash = '#/test/review/' + rec.id;
     }
@@ -420,6 +422,7 @@
       if (pl) { L.speech.play(audioParts(screensFor(t.parts)[+pl.dataset.play])); return; }
       if (e.target.closest('[data-act="again"]')) {
         st.draft = { parts: t.parts.slice(), mode: t.mode, answers: {}, elapsed: 0, screen: 0, limit: t.mode === 'exam' ? timeLimit(t.parts) : 0, started: Date.now() };
+        st.draftAt = Date.now();
         L.store.saveNow();
         location.hash = '#/test/run';
       }

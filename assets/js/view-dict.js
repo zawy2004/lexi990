@@ -139,10 +139,10 @@
         const now = Date.now();
         switch (a.dataset.act) {
           case 'back': if (history.length > 1) history.back(); else location.hash = '#/dict'; return;
-          case 'mark': if (st.marks[key]) delete st.marks[key]; else st.marks[key] = 1; L.ui.toast(st.marks[key] ? 'Đã đánh dấu' : 'Đã bỏ đánh dấu'); break;
+          case 'mark': L.store.setMark(key, !st.marks[key]); L.ui.toast(st.marks[key] ? 'Đã đánh dấu' : 'Đã bỏ đánh dấu'); break;
           case 'learn': st.cards[key] = Object.assign(L.srs.blank(now), { s: 1, due: now, seen: now, last: now }); L.ui.toast('Đã thêm vào hàng ôn tập'); break;
           case 'known': st.cards[key] = Object.assign(L.srs.blank(now), st.cards[key] || {}, { s: 2, ivl: L.srs.MASTERED_DAYS, due: now + L.srs.MASTERED_DAYS * U.DAY, seen: (st.cards[key] && st.cards[key].seen) || now, last: now }); L.ui.toast('Đã đánh dấu là thuộc lòng'); break;
-          case 'reset': delete st.cards[key]; L.ui.toast('Từ này sẽ được học lại như từ mới'); break;
+          case 'reset': L.store.resetCard(key); L.ui.toast('Từ này sẽ được học lại như từ mới'); break;
           default: return;
         }
         L.store.save();

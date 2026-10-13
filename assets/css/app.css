@@ -108,6 +108,11 @@ img { max-width: 100%; display: block; }
 .brand-name { font: 600 19px/1 var(--f-word); letter-spacing: -0.01em; }
 .brand-name b { font-weight: 600; color: var(--ink); }
 .top-right { display: flex; align-items: center; gap: 6px; }
+.sync-dot { display: inline-grid; place-items: center; width: 34px; height: 34px; border-radius: 50%; color: var(--ink); }
+.sync-dot svg { width: 20px; height: 20px; }
+.sync-dot.syncing { color: var(--muted); animation: pulse 1.2s ease-in-out infinite; }
+.sync-dot.error { color: var(--bad); }
+@keyframes pulse { 50% { opacity: .35; } }
 .streak { font-size: 14px; font-weight: 600; color: var(--muted); display: inline-flex; align-items: center; gap: 6px; padding: 0 6px; }
 .streak .bub { width: 12px; height: 12px; }
 

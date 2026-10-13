@@ -177,7 +177,7 @@
         if (good) L.store.bump('ok');
         else {
           const c = L.store.state.cards[q.key];
-          if (c && c.s === 2 && c.due > Date.now()) { c.due = Date.now(); L.store.save(); }
+          if (c && c.s === 2 && c.due > Date.now()) { c.due = Date.now(); c.last = Date.now(); L.store.save(); }
         }
         draw();
         const nb = root.querySelector('[data-act="next"]');

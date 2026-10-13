@@ -20,7 +20,16 @@ Tổng cộng 1 966 từ/cụm từ khác nhau (từ trùng giữa các bộ đ�
 - **Tra từ** tiếng Anh hoặc tiếng Việt, gõ không dấu vẫn tìm được; trang từ gộp thông tin của cả 3 bộ.
 - **Nghe cả bài** (nghe thụ động), đánh dấu từ, giao diện sáng/tối, dùng được offline (PWA), sao lưu và khôi phục tiến độ.
 
-Tiến độ được lưu trong `localStorage` của trình duyệt.
+## Tiến độ được lưu ở đâu
+
+- **Trên máy**: mọi tiến độ lưu ngay trong trình duyệt (`localStorage`), và app xin trình duyệt cấp lưu trữ bền vững để dữ liệu không bị tự dọn. Đóng trang, tắt máy hay deploy bản mới đều không mất.
+- **Đồng bộ giữa các thiết bị** (tùy chọn): vào **Cài đặt → Đồng bộ giữa các thiết bị**, tạo token GitHub có quyền `gist` theo hướng dẫn trong app, dán vào rồi bấm Kết nối. Làm lại trên mỗi máy hoặc trình duyệt. App sẽ:
+  - tự tải tiến độ về mỗi khi mở hoặc quay lại tab,
+  - tự lưu lên vài giây sau mỗi lần học,
+  - gộp thông minh khi học trên nhiều máy (lần ôn mới nhất của mỗi từ được giữ lại).
+
+  Dữ liệu nằm trong một **gist bí mật** tên `lexi990-progress.json` trong tài khoản GitHub của bạn. Token chỉ lưu trên trình duyệt đó và không nằm trong file sao lưu.
+- **Sao lưu thủ công**: Cài đặt → Tải bản sao lưu / Khôi phục từ tệp.
 
 ## Chạy trên máy
 
@@ -52,7 +61,7 @@ Khi sửa file của app, tăng `VERSION` trong `sw.js` (ví dụ `lexi990-v2`) 
 ```
 index.html, manifest.webmanifest, sw.js   khung app, PWA, cache offline
 assets/css/app.css                        giao diện
-assets/js/                                util, store (lưu trữ), srs (lặp lại ngắt quãng), lexicon (chỉ mục từ),
+assets/js/                                util, store (lưu trữ + gộp tiến độ), sync (đồng bộ GitHub Gist), srs (lặp lại ngắt quãng), lexicon (chỉ mục từ),
                                           speech (giọng đọc), quiz (tạo câu hỏi), view-*.js (các màn hình), app.js (router)
 data/*.js                                 dữ liệu sinh tự động — không sửa tay
 tools/build_data.py                       sinh data/*.js từ tools/src
